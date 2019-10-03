@@ -1,0 +1,95 @@
+uuid: tile_future_own_future_optimism
+section: section_future
+question_uuid: section_future_own_future_optimism
+order: 57
+tile_type: horizontal_bar_chart
+tile_content:
+  viz_headline:
+    en: How optimistic or pessimistic would you say you are about your own future?
+    zh: 您认为您对自己的未来有多乐观或悲观？
+  answers:
+    # Very, somewhat pessimistic
+    - matchers:
+      - tile_uuid: tile_future_own_future_optimism
+        values:
+        - 1
+        - 2
+      headline:
+        en: You are [more pessimistic](bold) about your future than [%{headlineCalc}](title) of Australians
+        zh: 您对自己的未来比[%{headlineCalc}](title)的澳大利亚人更悲观
+      viz_pre_text:
+        en: Overall, Australians were much more likely to be optimistic about their personal prospects than about the future of Australia or the world.
+        zh: 总体而言，与澳大利亚或世界未来相比，澳大利亚人对个人前景感到乐观的可能性要大得多。
+      substitutions:
+        - variable: headlineCalc
+          answers:
+            1: 95%
+            2: 82%
+
+
+    # Moderately, very optimistic
+    - matchers:
+      - tile_uuid: tile_future_own_future_optimism
+        values:
+        - 3
+        - 4
+      headline:
+          en: You are [more optimistic](bold) about your future than [%{headlineCalc}](title) of Australians
+          zh: 您对自己的未来比[%{headlineCalc}](title)的澳大利亚人更乐观
+      viz_pre_text:
+        en: Overall, Australians were much more likely to be optimistic about their personal prospects than about the future of Australia or the world.
+        zh: 总体而言，与澳大利亚或世界未来相比，澳大利亚人对个人前景感到乐观的可能性要大得多。
+      substitutions:
+        - variable: headlineCalc
+          answers:
+            3: 43%
+            4: 77%
+
+    # Don't know
+    - matchers:
+      - tile_uuid: tile_future_own_future_optimism
+        values:
+        - -99
+      headline:
+          en: Australians might be [worried about the world](bold), but they're much more [upbeat about their own future](bold)
+          zh: 澳大利亚人可能[担心这个世界]，但对[自己的未来感到乐观]得多 
+      viz_pre_text:
+        en: Overall, 71 % of Australians are optimistic about their personal prospects, a far greater number than those who were optimistic about the future of Australia or the world.
+        zh: 总体而言，71%的澳大利亚人对个人前景感到乐观，这个人数远远超过对澳大利亚或世界未来感到乐观的人数。
+
+
+  distribution:
+    - label:
+        en: Very pessimistic
+        ar: متشائم جداً
+        vi: Rất bi quan
+        zh: 非常悲观
+      value: 0.04
+      color: "#f7922b"
+
+
+    - label:
+        en: Somewhat pessimistic
+        ar: متشائم إلى حدٍ ما
+        vi: Tương đối bi quan
+        zh: 有点悲观
+      value: 0.17
+      color: "#f7af5f"
+
+    - label:
+        en: Moderately optimistic
+        ar: متفائل إلى حدٍ ما
+        vi: Tương đối lạc quan
+        zh: 中度乐观
+      value: 0.56
+      color: "#72a5e9"
+
+    - label:
+        en: Very optimistic
+        ar: متفائل جداً
+        vi: Rất lạc quan
+        zh: 非常乐观
+      value: 0.22
+      color: "#4281d7"
+
+

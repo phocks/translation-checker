@@ -1,0 +1,95 @@
+uuid: tile_future_australia_optimism
+section: section_future
+question_uuid: section_future_australia_optimism
+order: 56
+tile_type: horizontal_bar_chart
+tile_content:
+  viz_headline:
+    en: Overall, how optimistic or pessimistic would you say you are about the future of Australia?
+    ar:
+    vi:
+    zh: 总体而言，您认为自己对澳大利亚的未来有多乐观或悲观？
+
+  answers:
+    # Pessimistic
+    - matchers:
+      - tile_uuid: tile_future_australia_optimism
+        values:
+        - 1
+        - 2
+      headline:
+        en: You are [more pessimistic](bold) about the future of Australia than [%{headlineCalc}](title) of people
+        zh: 您对澳大利亚的未来比[%{headlineCalc}](title)的人更悲观
+      viz_pre_text:
+        en: Australians are more optimistic about the future of the country than they are about the future of the planet. But still, almost half feel pessimistic.
+        zh: 总体而言，与地球的未来相比，澳大利亚人对国家的未来更乐观。但仍然有将近一半人感到悲观。
+      substitutions:
+        - variable: headlineCalc
+          answers:
+            1: 95%
+            2: 78%
+
+    # Optimistic
+    - matchers:
+      - tile_uuid: tile_future_australia_optimism
+        values:
+        - 3
+        - 4
+      headline:
+        en: You are [more optimistic](bold) about the future of Australia than [%{headlineCalc}](title) of people
+        zh: 您对澳大利亚的未来比[%{headlineCalc}](title)的人更乐观
+      viz_pre_text:
+        en: Australians are more optimistic about the future of the country than they are about the future of the planet. But still, almost half feel pessimistic.
+        zh: 总体而言，与地球的未来相比，澳大利亚人对国家的未来更乐观。但仍然有将近一半人感到悲观。
+      substitutions:
+        - variable: headlineCalc
+          answers:
+            3: 21%
+            4: 77%
+
+    # Don't know
+    - matchers:
+      - tile_uuid: tile_future_australia_optimism
+        values:
+        - -99
+      headline:
+        en: Australians are [more optimistic](bold) about the future of the country than we are about the [future of the planet](bold).
+        zh: 与地球的未来相比，澳大利亚人对国家的未来更乐观。
+      viz_pre_text:
+        en: But still, almost half of Australians feel pessimistic.
+        zh: 但仍然有将近一半人感到悲观。
+
+  distribution:
+    - label:
+        en: Very pessimistic
+        ar: متشائم جداً
+        vi: Rất bi quan
+        zh: 非常悲观
+      value: 0.11
+      color: "#f7922b"
+
+    - label:
+        en: Somewhat pessimistic
+        ar: متشائم إلى حدٍ ما
+        vi: Tương đối bi quan
+        zh: 有点悲观
+      value: 0.37
+      color: "#f7af5f"
+
+    - label:
+        en: Moderately optimistic
+        ar: متفائل إلى حدٍ ما
+        vi: Tương đối lạc quan
+        zh: 中度乐观
+      value: 0.43
+      color: "#72a5e9"
+
+    - label:
+        en: Very optimistic
+        ar: متفائل جداً
+        vi: Rất lạc quan
+        zh: 非常乐观
+      value: 0.08
+      color: "#4281d7"
+
+

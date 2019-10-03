@@ -1,0 +1,94 @@
+uuid: tile_future_world_optimism
+section: section_future
+question_uuid: section_future_world_optimism
+order: 2
+tile_type: horizontal_bar_chart
+tile_content:
+  viz_headline:
+    en: Overall, how optimistic or pessimistic would you say you are about the future of the world?
+    zh: 总体而言，您认为自己对世界的未来有多乐观或悲观？
+
+  answers:
+    # Pessimistic
+    - matchers:
+      - tile_uuid: tile_future_world_optimism
+        values:
+        - 1
+        - 2
+      headline:
+        en: You are [more pessimistic](bold) about the future of the world than [%{headlineCalc}](title) of Australians
+        zh: 您对世界的未来比[%{headlineCalc}](title)的澳大利亚人更悲观
+      viz_pre_text:
+        en: On the whole, Australians don't think things look too rosy on a global scale — 70% are pessimistic.
+        zh: 整体而言，澳大利亚人认为全球形势不太乐观 － 70％的人感到悲观。
+      substitutions:
+        - variable: headlineCalc
+          answers:
+            1: 75%
+            2: 55%
+
+    # Optimistic
+    - matchers:
+      - tile_uuid: tile_future_world_optimism
+        values:
+        - 3
+        - 4
+      headline:
+        en: You are [more optimistic](bold) about the future of the world than [%{headlineCalc}](title) of Australians
+        zh: 您对世界的未来比[%{headlineCalc}](title)的澳大利亚人更乐观
+      viz_pre_text:
+        en: On the whole, Australians don't think things look too rosy on a global scale — 70% are pessimistic.
+        zh: 整体而言，澳大利亚人认为全球形势不太乐观 － 70％的人感到悲观。
+      substitutions:
+        - variable: headlineCalc
+          answers:
+            3: 73%
+            4: 97%
+
+
+    # Optimistic
+    - matchers:
+      - tile_uuid: tile_future_world_optimism
+        values:
+        - -99
+      headline:
+        en: Australians are [pretty pessimistic](bold) about the [future of the world](bold)
+        zh: 澳大利亚人对[世界未来]感到[非常悲观]
+      viz_pre_text:
+        en: We don't think things look too rosy on a global scale — 70% are pessimistic.
+        zh: 我们并不认为全球形势看起来很乐观 － 70％的人感到悲观。
+
+  distribution:
+    - label:
+        en: Very pessimistic
+        ar: متشائم جداً
+        vi: Rất bi quan
+        zh: 非常悲观
+      value: 0.25
+      color: "#f7922b"
+
+    - label:
+        en: Somewhat pessimistic
+        ar: متشائم إلى حدٍ ما
+        vi: Tương đối bi quan
+        zh: 有点悲观
+      value: 0.45
+      color: "#f7af5f"
+
+    - label:
+        en: Somewhat optimistic
+        ar: متفائل إلى حدٍ ما
+        vi: Tương đối lạc quan
+        zh: 中度乐观
+      value: 0.27
+      color: "#72a5e9"
+
+    - label:
+        en: Very optimistic
+        ar: متفائل جداً
+        vi: Rất lạc quan
+        zh: 非常乐观
+      value: 0.03
+      color: "#4281d7"
+
+

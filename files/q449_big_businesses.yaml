@@ -1,0 +1,253 @@
+uuid: tile_pulse_big_businesses
+section: section_pulse
+question_uuid: section_pulse_big_business
+tile_type: diverging_bar_chart
+tile_content:
+  viz_headline:
+    en: Big businesses care more about profit than they do about what's best for Australia.
+    ar:
+    vi:
+    zh: 大企业更关心的是利润，而不是什么对澳大利亚最好 。
+  answers:
+  #Disagree
+  - matchers:
+    - tile_uuid: tile_pulse_big_business
+      values:
+      - 1
+      - 2
+    headline:
+      en: You're one of [5%](title) of Australians who believe [big businesses care about the national interest](bold) at least as much as profits
+      ar:
+      vi:
+      zh: "[5%](title)的澳大利亚人认为大企业关心国家利益，至少与关心利润一样，您就是其中之一"
+    viz_pre_text:
+      en: LNP voters are the most likely group to believe big businesses have got our back as a nation, but even that percentage is low (10%).
+      ar:
+      vi:
+      zh: 投联盟党（LNP）票的选民是最可能相信大企业支撑了我们的国家的群体，但这一比例很低(10%)。
+
+  # Neutral, DK
+  - matchers:
+    - tile_uuid: tile_pulse_big_business
+      values:
+      - 3
+      - -99
+    headline:
+      en: "[90%](title) of Australians think [big businesses care more about profits](bold) than doing the right thing by the country"
+      ar:
+      vi:
+      zh: "[90%](title)的澳大利亚人认为大企业更关心的是利润，而不是为国家做正确的事情"
+    viz_pre_text:
+      en: LNP voters are the most likely to believe big businesses have got our back as a nation, but even that percentage is low (10%).
+      ar:
+      vi:
+      zh: 投联盟党（LNP）票的选民最可能相信大企业支撑了我们的国家，但这一比例很低(10%)。
+
+  # Agree
+  - matchers:
+    - tile_uuid: tile_pulse_big_business
+      values:
+      - 4
+      - 5
+    headline:
+      en: You say [big businesses care more about profits](bold) than doing the right thing by the country, and [90%](title) of Australians agree with you
+      ar:
+      vi:
+      zh: 您认为大企业更关心的是利润，而不是为国家做正确的事情，[90%](title)的澳大利亚人同意您的看法
+    viz_pre_text:
+      en: LNP voters are the most likely to believe big businesses have got our back as a nation, but even that percentage is low (10%).
+      ar:
+      vi:
+      zh: 投联盟党（LNP）票的选民最可能相信大企业支撑了我们的国家，但这一比例很低(10%)。
+
+  charts:
+  - title:
+      en: ALP
+      ar: حزب العمل الأسترالي
+      vi: Những người bỏ phiếu cho ALP (Đảng Lao động Úc) 
+      zh: 投澳大利亚工党（ALP）票的选民
+    bar_values:
+      left:
+        label:
+          en: Disagree
+          ar: لا أوافق
+          vi: Không đồng ý
+          zh: 不同意
+        values:
+        - 0.01
+        - 0.0
+      right:
+        label:
+          en: Agree
+          ar: أوافق
+          vi: Đồng ý
+          zh: 同意
+        values:
+        - 0.02
+        - 0.77
+    other_values:
+    - label:
+        en: Neutral
+        ar: محايد
+        vi: Trung lập
+        zh: 中立
+      value: 0.02
+    - label:
+        en: Don't know
+        ar: لا أعرف
+        vi: Không biết
+        zh: 不知道
+      value: 0.0
+
+  - title:
+      en: Greens
+      ar: حزب الخضر
+      vi: Những người bỏ phiếu cho Greens (Đảng Xanh)
+      zh: 投绿党（Greens）票的选民
+    bar_values:
+      left:
+        label:
+          en: Disagree
+          ar: لا أوافق
+          vi: Không đồng ý
+          zh: 不同意
+        values:
+        - 0.0
+        - 0.01
+      right:
+        label:
+          en: Agree
+          ar: أوافق
+          vi: Đồng ý
+          zh: 同意
+        values:
+        - 0.17
+        - 0.08
+    other_values:
+    - label:
+        en: Neutral
+        ar: محايد
+        vi: Trung lập
+        zh: 中立
+      value: 0.01
+    - label:
+        en: Don't know
+        ar: لا أعرف
+        vi: Không biết
+        zh: 不知道
+      value: 0.041
+
+  - title:
+      en: LNP
+      ar: الحزب الليبرالي الوطني
+      vi: Những người bỏ phiếu cho Coalition (Liên Đảng)
+      zh: 投联盟党票的选民
+    bar_values:
+      left:
+        label:
+          en: Disagree
+          ar: لا أوافق
+          vi: Không đồng ý
+          zh: 不同意
+        values:
+        - 0.09
+        - 0.01
+      right:
+        label:
+          en: Agree
+          ar: أوافق
+          vi: Đồng ý
+          zh: 同意
+        values:
+        - 0.39
+        - 0.43
+    other_values:
+    - label:
+        en: Neutral
+        ar: محايد
+        vi: Trung lập
+        zh: 中立
+      value: 0.08
+    - label:
+        en: Don't know
+        ar: لا أعرف
+        vi: Không biết
+        zh: 不知道
+      value: 0.0
+
+  - title:
+      en: One Nation
+      ar: حزب أمة واحدة لبولين هانسون
+      vi: Những người bỏ phiếu cho One Nation (Đảng Một Quốc gia)
+      zh: 投一国党(One Nation)票的选民
+    bar_values:
+      left:
+        label:
+          en: Disagree
+          ar: لا أوافق
+          vi: Không đồng ý
+          zh: 不同意
+        values:
+        - 0.02
+        - 0.0
+      right:
+        label:
+          en: Agree
+          ar: أوافق
+          vi: Đồng ý
+          zh: 同意
+        values:
+        - 0.23
+        - 0.66
+    other_values:
+    - label:
+        en: Neutral
+        ar: محايد
+        vi: Trung lập
+        zh: 中立
+      value: 0.09
+    - label:
+        en: Don't know
+        ar: لا أعرف
+        vi: Không biết
+        zh: 不知道
+      value: 0.01
+
+  - title:
+      en: Other
+      ar: حزب أو مرشح آخر
+      vi: Những người bỏ phiếu cho các đảng phái khác
+      zh: 其他选民
+    bar_values:
+      left:
+        label:
+          en: Disagree
+          ar: لا أوافق
+          vi: Không đồng ý
+          zh: 不同意
+        values:
+        - 0.02
+        - 0.0
+      right:
+        label:
+          en: Agree
+          ar: أوافق
+          vi: Đồng ý
+          zh: 同意
+        values:
+        - 0.23
+        - 0.71
+    other_values:
+    - label:
+        en: Neutral
+        ar: محايد
+        vi: Trung lập
+        zh: 中立
+      value: 0.03
+    - label:
+        en: Don't know
+        ar: لا أعرف
+        vi: Không biết
+        zh: 不知道
+      value: 0.0
+

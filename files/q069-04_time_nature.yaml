@@ -1,0 +1,78 @@
+uuid: tile_the_good_life_time_nature
+section: section_the_good_life
+question_uuid: section_the_good_life_time_nature
+order: 58
+tile_type: horizontal_bar_chart
+tile_content:
+  viz_headline:
+    en: I think I would be happier if I spent more time in nature.
+    ar:
+    vi:
+    zh: 如果我花更多时间探索大自然，我想我会更开心。
+  answers:
+  # Agree
+  - matchers:
+    - tile_uuid: tile_the_good_life_time_nature
+      values:
+      - 4
+      - 5
+    headline:
+      en: It's time to [head outside](bold), but expect some company
+      ar:
+      vi:
+      zh: 现在是三五好友，走出户外的时候了
+    viz_pre_text:
+      en: Spending more time in nature is the single most popular thing Aussies feel would make them happier, across all demographics.
+      ar:
+      vi:
+      zh: 在所有人群，花更多时间探索大自然是澳洲人觉得会使自己更开心的事情，也是最受人欢迎的一件事情。
+
+  distribution:
+    - label:
+        en: Strongly disagree
+        ar: لا أوافق على الإطلاق
+        vi: Hoàn toàn không đồng ý
+        zh: 强烈不同意
+      value: 0.03
+      color: "#f7922b"
+
+    - label:
+        en: Strongly disagree
+        ar: لا أوافق على الإطلاق
+        vi: Hoàn toàn không đồng ý
+        zh: 强烈不同意
+      value: 0.06
+      color: "#f7af5f"
+
+    - label:
+        en: Neutral
+        ar: محايد
+        vi: Trung lập
+        zh: 中立
+      value: 0.14
+      color: "#a6a6a6"
+
+    - label:
+        en: Somewhat agree
+        ar: أوافق إلى حدٍ ما
+        vi: Tương đối đồng ý
+        zh: 有点同意
+      value: 0.38
+      color: "#72a5e9"
+
+    - label:
+        en: Strongly agree
+        ar: أوافق بشدة
+        vi: Hoàn toàn đồng ý
+        zh: 非常同意
+      value: 0.39
+      color: "#4281d7"
+
+    - label:
+        en: Don't know
+        ar: لا أعرف
+        vi: Không biết
+        zh: 不知道
+      value: 0.01
+      color: "#a6a6a6"
+

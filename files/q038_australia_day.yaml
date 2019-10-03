@@ -1,0 +1,418 @@
+uuid: tile_pulse_australia_day
+section: section_pulse
+question_uuid: section_pulse_australia_day
+order: 43
+tile_type: diverging_bar_chart
+tile_content:
+  viz_headline:
+    en: Australia Day should not be celebrated on January 26, given the historical significance of that date for Indigenous people.
+    ar:
+    vi: Không nên kỷ niệm ngày Quốc khánh Úc vào ngày 26 tháng 1, xét về ý nghĩa lịch sử của ngày đó đối với người Thổ dân.
+    zh: 鉴于1月26日对原住民的历史意义，我们不应该选择那一天作为澳大利亚日来庆祝。
+
+  answers:
+  - matchers:
+    - tile_uuid: tile_pulse_australia_day
+      values:
+      - 1
+      - 2
+    headline:
+      en: You're among the [40%](title) of Australians who support keeping [Australia Day](bold) on January 26
+      ar:
+      vi: Quý vị trong số 40% người Úc ủng hộ việc giữ ngày Quốc khánh Úc vào ngày 26 tháng 1
+      zh: "[40%](title)的澳大利亚人支持将澳大利亚国庆日保持在1月26日，您就是其中之一"
+
+    viz_pre_text:
+      en: |
+        Overall, Australians are almost evenly split on this issue, with 43% saying the date should be changed due to the historical significance of that date for Indigenous Australians.
+
+        On the other hand, 41% want it kept as it is, and 15% are neutral.
+
+        The level of support differs substantially between states.
+      ar:
+      vi: |
+        Về tổng thể, vấn đề này phân chia người Úc gần như đồng đếu, với 43% nói là ngày này nên được thay đổi do ý nghĩa lịch sử của nó đối với người Thổ dân Úc.
+
+        Mặt khác, 41% muốn ngày này được giữ như vậy, và 15% trung lập.
+
+        Mức độ ủng hộ thay đổi đáng kể giữa các tiểu bang.
+      zh: |
+        总体而言，澳大利亚人在这一问题上持有不同看法的人几乎是一半对一半，43％的人说该日期对澳大利亚原住民具有历史意义，因此应该更改国庆日的日期。
+
+        在另一方面，41%的人希望维持现状，15％的人保持中立。
+
+        各州之间的支持水平大为不同。
+
+
+  - matchers:
+    - tile_uuid: tile_pulse_australia_day
+      values:
+      - 3
+      - -99
+    headline:
+      en: Australians are almost [evenly split](bold) on whether [Australia Day](bold) should be celebrated on January 26
+      ar:
+      vi: Người Úc bị chia rẽ gần như đồng đều bởi vấn đề liệu có nên kỷ niệm ngày Quốc khánh Úc vào ngày 26 tháng 1
+      zh: 澳大利亚人在是否应该在1月26日庆祝澳大利亚国庆日上持有不同看法的人几乎是一半对一半
+
+    viz_pre_text:
+      en: |
+        43% of Australians say the date of Australia Day should be changed due to the historical significance of that date for Indigenous Australians.
+
+        On the other hand, 41% want it kept as it is, and 15% are neutral.
+
+        The level of support differs substantially between states.
+      ar:
+      vi: |
+        43% người Úc nói là ngày Quốc khánh Úc nên được thay đổi do ý nghĩa lịch sử của nó đối với người Thổ dân Úc.
+
+        Mặt khác, 41% muốn ngày này được giữ như vậy, và 15% trung lập.
+
+        Mức độ ủng hộ thay đổi đáng kể giữa các tiểu bang.
+      zh: |
+        43％的澳大利亚人说该日期对澳大利亚原住民具有历史意义，因此应该更改国庆日的日期。
+
+        在另一方面，41%的人希望维持现状，15％的人保持中立。
+
+        各州之间的支持水平大为不同。
+
+
+  - matchers:
+    - tile_uuid: tile_pulse_australia_day
+      values:
+      - 4
+      - 5
+    headline:
+      en: You're among the [43%](title) of Australians who agree that [Australia Day](bold) should [not](bold) be celebrated on January 26
+      ar:
+      vi: Quý vị trong số 43% người Úc đồng ý là không nên kỷ niệm ngày Quốc khánh Úc vào ngày 26 tháng 1
+      zh: "[43%](title)的澳大利亚人一致认为不应该在1月26日庆祝澳大利亚国庆日，您就是其中之一"
+
+    viz_pre_text:
+      en: |
+        Overall, Australians are almost evenly split on this issue, with 43% saying the date should be changed due to the historical significance of that date for Indigenous Australians.
+
+        On the other hand, 41% want it kept as it is, and 15% are neutral.
+
+        The level of support differs substantially between states.
+      ar:
+      vi: |
+        Về tổng thể, vấn đề này phân chia người Úc gần như đồng đều, với 43% nói là ngày này nên được thay đổi do ý nghĩa lịch sử của nó đối với người Thổ dân Úc.
+
+        Mặt khác, 41% muốn ngày này được giữ như vậy, và 15% trung lập.
+
+        Mức độ ủng hộ thay đổi đáng kể giữa các tiểu bang.
+      zh: |
+        总体而言，澳大利亚人在这一问题上持有不同看法的人几乎是一半对一半，43％的人说该日期对澳大利亚原住民具有历史意义，因此应该更改国庆日的日期。
+
+        在另一方面，41%的人希望维持现状，15％的人保持中立。
+
+        各州之间的支持水平大为不同。
+
+
+  charts:
+  - title:
+      en: Australian Capital Territory
+      ar:
+      vi: Australian Capital Territory
+      zh: 澳大利亚首都领地
+    bar_values:
+      left:
+        label:
+          en: Disagree
+          ar: لا أوافق
+          vi: Không đồng ý
+          zh: 不同意
+        values:
+        - 0.06
+        - 0.17
+      right:
+        label:
+          en: Agree
+          ar: أوافق
+          vi: Đồng ý
+          zh: 同意
+        values:
+        - 0.18
+        - 0.36
+    other_values:
+      - label:
+          en: Neutral
+          ar: محايد
+          vi: Trung lập
+          zh: 中立
+        value: 0.21
+      - label:
+          en: Don't know
+          ar: لا أعرف
+          vi: Không biết
+          zh: 不知道
+        value: 0.01
+
+  - title:
+      en: New South Wales
+      ar:
+      vi: New South Wales
+      zh: 新南威尔士州
+    bar_values:
+      left:
+        label:
+          en: Disagree
+          ar: لا أوافق
+          vi: Không đồng ý
+          zh: 不同意
+        values:
+        - 0.09
+        - 0.26
+      right:
+        label:
+          en: Agree
+          ar: أوافق
+          vi: Đồng ý
+          zh: 同意
+        values:
+        - 0.17
+        - 0.29
+    other_values:
+      - label:
+          en: Neutral
+          ar: محايد
+          vi: Trung lập
+          zh: 中立
+        value: 0.17
+      - label:
+          en: Don't know
+          ar: لا أعرف
+          vi: Không biết
+          zh: 不知道
+        value: 0.01
+
+  - title:
+      en: Northern Territory
+      ar:
+      vi: Northern Territory
+      zh: 北领地
+    bar_values:
+      left:
+        label:
+          en: Disagree
+          ar: لا أوافق
+          vi: Không đồng ý
+          zh: 不同意
+        values:
+        - 0.15
+        - 0.36
+      right:
+        label:
+          en: Agree
+          ar: أوافق
+          vi: Đồng ý
+          zh: 同意
+        values:
+        - 0.08
+        - 0.18
+    other_values:
+      - label:
+          en: Neutral
+          ar: محايد
+          vi: Trung lập
+          zh: 中立
+        value: 0.23
+      - label:
+          en: Don't know
+          ar: لا أعرف
+          vi: Không biết
+          zh: 不知道
+        value: 0.00
+
+  - title:
+      en: Queensland
+      ar:
+      vi: Queensland
+      zh: 昆士兰州
+    bar_values:
+      left:
+        label:
+          en: Disagree
+          ar: لا أوافق
+          vi: Không đồng ý
+          zh: 不同意
+        values:
+        - 0.11
+        - 0.41
+      right:
+        label:
+          en: Agree
+          ar: أوافق
+          vi: Đồng ý
+          zh: 同意
+        values:
+        - 0.11
+        - 0.23
+    other_values:
+      - label:
+          en: Neutral
+          ar: محايد
+          vi: Trung lập
+          zh: 中立
+        value: 0.12
+      - label:
+          en: Don't know
+          ar: لا أعرف
+          vi: Không biết
+          zh: 不知道
+        value: 0.02
+
+  - title:
+      en: South Australia
+      ar:
+      vi: South Australia
+      zh: 南澳州
+    bar_values:
+      left:
+        label:
+          en: Disagree
+          ar: لا أوافق
+          vi: Không đồng ý
+          zh: 不同意
+        values:
+        - 0.11
+        - 0.28
+      right:
+        label:
+          en: Agree
+          ar: أوافق
+          vi: Đồng ý
+          zh: 同意
+        values:
+        - 0.17
+        - 0.27
+    other_values:
+      - label:
+          en: Neutral
+        ar: محايد
+        vi: Trung lập
+        zh: 中立
+        value: 0.14
+      - label:
+          en: Don't know
+          ar: لا أعرف
+          vi: Không biết
+          zh: 不知道
+        value: 0.02
+
+  - title:
+      en: Tasmania
+      ar:
+      vi: Tasmania
+      zh: 塔斯马尼亚州
+    bar_values:
+      left:
+        label:
+          en: Disagree
+          ar: لا أوافق
+          vi: Không đồng ý
+          zh: 不同意
+        values:
+        - 0.10
+        - 0.30
+      right:
+        label:
+          en: Agree
+          ar: أوافق
+          vi: Đồng ý
+          zh: 同意
+        values:
+        - 0.15
+        - 0.33
+    other_values:
+      - label:
+          en: Neutral
+          ar: محايد
+          vi: Trung lập
+          zh: 中立
+        value: 0.12
+      - label:
+          en: Don't know
+          ar: لا أعرف
+          vi: Không biết
+          zh: 不知道
+        value: 0.00
+
+  - title:
+      en: Victoria
+      ar:
+      vi: Victoria
+      zh: 维多利亚州
+    bar_values:
+      left:
+        label:
+          en: Disagree
+          ar: لا أوافق
+          vi: Không đồng ý
+          zh: 不同意
+        values:
+        - 0.10
+        - 0.27
+      right:
+        label:
+          en: Agree
+          ar: أوافق
+          vi: Đồng ý
+          zh: 同意
+        values:
+        - 0.15
+        - 0.32
+    other_values:
+      - label:
+          en: Neutral
+          ar: محايد
+          vi: Trung lập
+          zh: 中立
+        value: 0.15
+      - label:
+          en: Don't know
+          ar: لا أعرف
+          vi: Không biết
+          zh: 不知道
+        value: 0.01
+
+  - title:
+      en: Western Australia
+      ar:
+      vi: Western Australia
+      zh: 西澳州
+    bar_values:
+      left:
+        label:
+          en: Disagree
+          ar: لا أوافق
+          vi: Không đồng ý
+          zh: 不同意
+        values:
+        - 0.12
+        - 0.37
+      right:
+        label:
+          en: Agree
+          ar: أوافق
+          vi: Đồng ý
+          zh: 同意
+        values:
+        - 0.13
+        - 0.21
+    other_values:
+      - label:
+          en: Neutral
+          ar: محايد
+          vi: Trung lập
+          zh: 中立
+        value: 0.15
+      - label:
+          en: Don't know
+          ar: لا أعرف
+          vi: Không biết
+          zh: 不知道
+        value: 0.01
+
+

@@ -1,0 +1,160 @@
+uuid: tile_pulse_white_advantage
+section: section_pulse
+question_uuid: section_pulse_white_advantage
+order: 40
+tile_type: diverging_bar_chart
+tile_content:
+  viz_headline:
+    en: White people have an unfair advantage in Australia.
+    ar:
+    vi: Người da trắng có một lợi thế bất công ở Úc.
+    zh: 白人在澳大利亚拥有不公平的优势。
+
+  answers:
+  # Disagree
+  - matchers:
+      - tile_uuid: tile_pulse_white_advantage
+        values:
+        - 1
+        - 2
+    headline:
+      en: You're among [30%](title) of Australians who think [white people](bold) do not have an [unfair advantage](bold) in Australia
+      ar:
+      vi: Quý vị trong số [30%](title) người Úc nghĩ là người da trắng không có một lợi thế bất công ở Úc
+      zh: "[30%](title)的澳大利亚人认为白人在澳大利亚并没有不公平的优势，您就是其中之一"
+
+    viz_pre_text:
+      en: |
+        That figure but falls to 21% among Australians who have non-European backgrounds.
+
+        Men are more inclined to agree with your view than women are.
+      ar:
+      vi: |
+        Nhưng con số này giảm xuống còn 21% trong số người Úc có nguồn gốc không phải Châu  u. Nam giới có chiều hướng nhiều hơn so với phụ nữ, trong việc đồng ý với quan điểm của quý vị.
+      zh: |
+        在来自非欧洲背景的澳大利亚人中，这一比例下降到21％。
+
+        与女性相比，男性更可能同意您的看法。
+
+  # Neutral, DK
+  - matchers:
+      - tile_uuid: tile_pulse_white_advantage
+        values:
+        - 3
+        - -99
+    headline:
+      en: "[56%](title) of Australians think [white people](bold) have an [unfair advantage](bold) in Australia"
+      ar:
+      vi: "[56%](title) người Úc nghĩ là người da trắng có một lợi thế bất công ở Úc"
+      zh: "[56%](title)的澳大利亚人认为白人在澳大利亚拥有不公平的优势"
+
+    viz_pre_text:
+      en: That figure climbs to 65% among Australians who have non-European backgrounds, and 64% among women.
+      ar:
+      vi: Con số này tăng lên thành 65% trong số người Úc có nguồn gốc không phải Châu  u và 64% trong số phụ nữ.
+      zh: 在来自非欧洲背景的澳大利亚人中，这一比例攀升到65％；在女性中，这一比例攀升到64％。
+
+  # Agree
+  - matchers:
+      - tile_uuid: tile_pulse_white_advantage
+        values:
+        - 4
+        - 5
+    headline:
+      en: You're among [56%](title) of Australians who think [white people](bold) have an [unfair advantage](bold) in Australia
+      ar:
+      vi: Quý vị trong số [56%](title) người Úc nghĩ là người da trắng có một lợi thế bất công ở Úc
+      zh: "[56%](title)的澳大利亚人认为白人在澳大利亚拥有不公平的优势，您就是其中之一"
+
+    viz_pre_text:
+      en: |
+        That figure climbs to 65% among Australians who have non-European backgrounds.
+
+        Women are more inclined to agree with your view than men are.
+      ar:
+      vi: |
+        Con số này tăng lên thành 65% trong số người Úc có nguồn gốc không phải Châu  u. Phụ nữ có chiều hướng nhiều hơn so với nam giới, trong việc đồng ý với quan điểm của quý vị.
+      zh: |
+        在来自非欧洲背景的澳大利亚人中，这一比例攀升到65％。
+
+        与男性相比，女性更可能同意您的看法。
+
+
+
+  charts:
+  - title:
+      en: Women
+      ar: النساء
+      vi: Phụ nữ
+      zh: 女
+    bar_values:
+      left:
+        label:
+          en: Disagree
+          ar: لا أوافق
+          vi: Không đồng ý
+          zh: 不同意
+        values:
+        - 0.12
+        - 0.11
+      right:
+        label:
+          en: Agree
+          ar: أوافق
+          vi: Đồng ý
+          zh: 同意
+        values:
+        - 0.36
+        - 0.28
+    other_values:
+    - label:
+        en: Neutral
+        ar: محايد
+        vi: Trung lập
+        zh: 中立
+      value: 0.11
+    - label:
+        en: Don't know
+        ar: لا أعرف
+        vi: Không biết
+        zh: 不知道
+      value: 0.01
+
+
+  - title:
+      en: Men
+      ar: الرجال
+      vi: Nam giới
+      zh: 男
+    bar_values:
+      left:
+        label:
+          en: Disagree
+          ar: لا أوافق
+          vi: Không đồng ý
+          zh: 不同意
+        values:
+        - 0.20
+        - 0.17
+      right:
+        label:
+          en: Agree
+          ar: أوافق
+          vi: Đồng ý
+          zh: 同意
+        values:
+        - 0.30
+        - 0.18
+    other_values:
+    - label:
+        en: Neutral
+        ar: محايد
+        vi: Trung lập
+        zh: 中立
+      value: 0.15
+    - label:
+        en: Don't know
+        ar: لا أعرف
+        vi: Không biết
+        zh: 不知道
+      value: 0.01

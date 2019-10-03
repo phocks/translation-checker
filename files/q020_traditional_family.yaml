@@ -1,0 +1,334 @@
+uuid: tile_pulse_traditional_family
+section: section_pulse
+question_uuid: section_pulse_traditional_family
+order: 53
+tile_type: diverging_bar_chart
+tile_content:
+  viz_headline:
+    en: The decline of the traditional family unit has made Australia worse off.
+    ar:
+    vi:
+    zh: 传统家庭的衰落使澳大利亚每况愈下。
+
+  answers:
+  #Disagree
+  - matchers:
+    - tile_uuid: tile_pulse_traditional_family
+      values:
+      - 1
+      - 2
+    headline:
+      en: Like [37%](title) of Australians, you [don't](bold) think the decline of the traditional [family unit](bold) has made [Australia worse off](bold)
+      ar:
+      vi:
+      zh: 与[37%](title)的澳大利亚人一样，您不认为传统家庭单位的衰落使澳大利亚每况愈下
+    viz_pre_text:
+      en: Women are more likely to agree with you than men are. Younger Aussies and those on higher incomes are also more likely to take the same position as you.
+      ar:
+      vi:
+      zh: 与男性相比，女性更可能赞同您的看法。澳洲年青人和较高收入的人士也更可能赞同您的看法。
+
+
+  #Neutral, DK
+  - matchers:
+    - tile_uuid: tile_pulse_traditional_family
+      values:
+      - 3
+      - -99
+    headline:
+      en: "[46%](title) of Australians think the [decline](bold) of the traditional [family unit](bold) has made Australia [worse off](bold)"
+      ar:
+      vi:
+      zh: "[46%](title)的澳大利亚人认为传统家庭单位的衰落使澳大利亚每况愈下"
+    viz_pre_text:
+      en: Men, lower income earners and older Aussies are the groups most concerned about the decline of the traditional family unit.
+      ar:
+      vi:
+      zh: 男性、较低收入人士和澳洲老年人对传统家庭单位的衰落最担心。
+
+
+  #Agree
+  - matchers:
+    - tile_uuid: tile_pulse_traditional_family
+      values:
+      - 4
+      - 5
+    headline:
+      en: Like [46%](title) of Australians, you think the decline of the traditional [family unit](bold) has made [Australia worse off](bold)
+      ar:
+      vi:
+      zh: 与[46%](title)的澳大利亚人一样，您认为传统家庭单位的衰落使澳大利亚每况愈下
+    viz_pre_text:
+      en: Men, lower income earners and older Aussies are the most likely demographic groups to agree with you.
+      ar:
+      vi:
+      zh: 男性、较低收入人士和澳洲老年人是最可能赞同您的看法的人群。
+
+
+  charts:
+  - title:
+      en: 18-24
+      ar: 18-24
+      vi: 18-24
+      zh: 18-24
+    bar_values:
+      left:
+        label:
+          en: Disagree
+          ar: لا أوافق
+          vi: Không đồng ý
+          zh: 不同意
+        values:
+        - 0.19
+        - 0.29
+      right:
+        label:
+          en: Agree
+          ar: أوافق
+          vi: Đồng ý
+          zh: 同意
+        values:
+        - 0.17
+        - 0.13
+    other_values:
+    - label:
+        en: Neutral
+        ar: محايد
+        vi: Trung lập
+        zh: 中立
+      value: 0.14
+    - label:
+        en: Don't know
+        ar: لا أعرف
+        vi: Không biết
+        zh: 不知道
+      value: 0.08
+
+  - title:
+      en: 25-29
+      ar: 25-29
+      vi: 25-29
+      zh: 25-29
+    bar_values:
+      left:
+        label:
+          en: Disagree
+          ar: لا أوافق
+          vi: Không đồng ý
+          zh: 不同意
+        values:
+        - 0.20
+        - 0.36
+      right:
+        label:
+          en: Agree
+          ar: أوافق
+          vi: Đồng ý
+          zh: 同意
+        values:
+        - 0.17
+        - 0.09
+    other_values:
+    - label:
+        en: Neutral
+        ar: محايد
+        vi: Trung lập
+        zh: 中立
+      value: 0.11
+    - label:
+        en: Don't know
+        ar: لا أعرف
+        vi: Không biết
+        zh: 不知道
+      value: 0.07
+
+  - title:
+      en: 30-39
+      ar: 30-39
+      vi: 30-39
+      zh: 30-39
+    bar_values:
+      left:
+        label:
+          en: Disagree
+          ar: لا أوافق
+          vi: Không đồng ý
+          zh: 不同意
+        values:
+        - 0.22
+        - 0.30
+      right:
+        label:
+          en: Agree
+          ar: أوافق
+          vi: Đồng ý
+          zh: 同意
+        values:
+        - 0.17
+        - 0.13
+    other_values:
+    - label:
+        en: Neutral
+        ar: محايد
+        vi: Trung lập
+        zh: 中立
+      value: 0.15
+    - label:
+        en: Don't know
+        ar: لا أعرف
+        vi: Không biết
+        zh: 不知道
+      value: 0.4
+
+  - title:
+      en: 40-49
+      ar: 40-49
+      vi: 40-49
+      zh: 40-49
+    bar_values:
+      left:
+        label:
+          en: Disagree
+          ar: لا أوافق
+          vi: Không đồng ý
+          zh: 不同意
+        values:
+        - 0.21
+        - 0.18
+      right:
+        label:
+          en: Agree
+          ar: أوافق
+          vi: Đồng ý
+          zh: 同意
+        values:
+        - 0.24
+        - 0.22
+    other_values:
+    - label:
+        en: Neutral
+        ar: محايد
+        vi: Trung lập
+        zh: 中立
+      value: 0.14
+    - label:
+        en: Don't know
+        ar: لا أعرف
+        vi: Không biết
+        zh: 不知道
+      value: 0.02
+
+  - title:
+      en: 50-64
+      ar: 50-64
+      vi: 50-64
+      zh: 50-64
+    bar_values:
+      left:
+        label:
+          en: Disagree
+          ar: لا أوافق
+          vi: Không đồng ý
+          zh: 不同意
+        values:
+        - 0.16
+        - 0.12
+      right:
+        label:
+          en: Agree
+          ar: أوافق
+          vi: Đồng ý
+          zh: 同意
+        values:
+        - 0.30
+        - 0.24
+    other_values:
+    - label:
+        en: Neutral
+        ar: محايد
+        vi: Trung lập
+        zh: 中立
+      value: 0.16
+    - label:
+        en: Don't know
+        ar: لا أعرف
+        vi: Không biết
+        zh: 不知道
+      value: 0.02
+
+  - title:
+      en: 65-74
+      ar: 65-74
+      vi: 65-74
+      zh: 65-74
+    bar_values:
+      left:
+        label:
+          en: Disagree
+          ar: لا أوافق
+          vi: Không đồng ý
+          zh: 不同意
+        values:
+        - 0.13
+        - 0.06
+      right:
+        label:
+          en: Agree
+          ar: أوافق
+          vi: Đồng ý
+          zh: 同意
+        values:
+        - 0.36
+        - 0.29
+    other_values:
+    - label:
+        en: Neutral
+        ar: محايد
+        vi: Trung lập
+        zh: 中立
+      value: 0.15
+    - label:
+        en: Don't know
+        ar: لا أعرف
+        vi: Không biết
+        zh: 不知道
+      value: 0.01
+
+  - title:
+      en: 75+
+      ar: 75+
+      vi: 75+
+      zh: 75+
+    bar_values:
+      left:
+        label:
+          en: Disagree
+          ar: لا أوافق
+          vi: Không đồng ý
+          zh: 不同意
+        values:
+        - 0.10
+        - 0.04
+      right:
+        label:
+          en: Agree
+          ar: أوافق
+          vi: Đồng ý
+          zh: 同意
+        values:
+        - 0.34
+        - 0.38
+    other_values:
+    - label:
+        en: Neutral
+        ar: محايد
+        vi: Trung lập
+        zh: 中立
+      value: 0.10
+    - label:
+        en: Don't know
+        ar: لا أعرف
+        vi: Không biết
+        zh: 不知道
+      value: 0.03
+

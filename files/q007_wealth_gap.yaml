@@ -1,0 +1,135 @@
+uuid: tile_section_pulse_wealth_gap
+section: section_pulse
+question_uuid: section_pulse_wealth_gap
+order: 31
+tile_type: horizontal_bar_chart
+tile_content:
+  viz_headline:
+    en: The gap in wealth between rich and poor Australians is too big.
+    ar:
+    vi: Khoảng cách về của cải giữa những người Úc giàu và người Úc nghèo là quá lớn.
+    zh: 澳大利亚富人和穷人之间的财富差距太大了。
+
+  answers:
+    # Disagree
+    - matchers:
+        - tile_uuid: tile_section_pulse_wealth_gap
+          values:
+            - 1
+            - 2
+      headline:
+        en: You're in a [small minority](bold) of Australians who don't think the gap between rich and poor is [too large](bold)
+        ar:
+        vi: Quý vị trong thiểu số nhỏ người Úc không nghĩ là khoảng cách giữa người giàu và người nghèo là quá lớn
+        zh: 占少数的澳大利亚人认为贫富差距不太大，您就是其中之一
+
+      viz_pre_text:
+        en: Men are nearly twice as likely to agree with you as women, while older Australians and Coalition voters are the groups most likely to agree with you on this one overall.
+        ar:
+        vi: |
+          Nam giới có nhiều khả năng đồng ý với quý vị ở mức độ cao gần gấp đôi so với phụ nữ, trong khi những người Úc lớn tuổi hơn và những người bỏ phiếu cho Liên Đảng về tổng thể là nhóm có nhiều khả năng đồng ý nhất với quý vị về điều này.
+        zh: 可能与您持有相同看法的男性是女性的将近两倍，而总体而言，澳大利亚老年人和投联盟党票的选民最可能在这一问题上持有与您相同的看法。
+
+      viz_post_text:
+        en: Even among the highest-earning Australians, only 1 in 5 don't see inequality as an issue for the country.
+        ar:
+        vi: Ngay cả trong số những người Úc có lợi tức cao nhất, thì chỉ một phần năm không thấy sự bất bình đẳng là một vấn đề đối với đất nước này.
+        zh: 即使在澳大利亚收入最高的人中，只有1/5的人认为这种不平等对国家来说不是问题。
+
+    # Neutral, Don't know
+    - matchers:
+        - tile_uuid: tile_section_pulse_wealth_gap
+          values:
+            - 3
+            - -99
+      headline:
+        en: Most Australians think the [gap between rich and poor is too large](bold)
+        ar:
+        vi: Hầu hết người Úc nghĩ là khoảnng cách giữa người giàu và người nghèo là quá lớn
+        zh: 大多数澳大利亚人认为贫富差距太大
+
+      viz_pre_text:
+        en: But like you, just more than 1 in 10 people aren't sure.
+        ar:
+        vi: Nhưng giống như quý vị, chỉ hơn một phần mười mọi người là không quả quyết.
+        zh: 但与您一样，超过1/10的人不确定。
+
+      viz_post_text:
+        en: Even among the highest-earning Australians, only 1 in 5 don't see inequality as an issue for the country.
+        ar:
+        vi: Ngay cả trong số những người Úc có lợi tức cao nhất, thì chỉ một phần năm không thấy sự bất bình đẳng là một vấn đề đối với đất nước này.
+        zh: 即使在澳大利亚收入最高的人中，只有1/5的人认为这种不平等对国家来说不是问题。
+
+    # Agree
+    - matchers:
+        - tile_uuid: tile_section_pulse_wealth_gap
+          values:
+            - 4
+            - 5
+      headline:
+        en: "[76%](title) of Australians [agree with you](bold) that the gap between [rich and poor](bold) is too large"
+        ar:
+        vi: "[76%](title) người Úc đồng ý với quý vị rằng khoảng cách về của cải giữa người giàu và người nghèo là quá lớn "
+        zh: "[76%](title)的澳大利亚人与您持有相同的看法，认为贫富差距太大"
+
+      viz_pre_text:
+        en: Men are nearly twice as likely to disagree with you as women, while older Australians and Coalition voters are the groups most likely to disagree overall.
+        ar:
+        vi: |
+          Nam giới có khả năng đồng ý với quý vị ở mức độ cao gần gấp đôi so với phụ nữ, trong khi những người Úc lớn tuổi hơn và những người bỏ phiếu cho Liên Đảng về tổng thể là nhóm có nhiều khả năng không đồng ý nhất.
+        zh: 可能与您持有不同看法的男性是女性的将近两倍，而总体而言，澳大利亚老年人和投联盟党票的选民最可能持不同的看法。
+
+      viz_post_text:
+        en: Even among the highest-earning Australians, only 1 in 5 don't see inequality as an issue for the country.
+        ar:
+        vi: Ngay cả trong số những người Úc có lợi tức cao nhất, thì chỉ một phần năm không thấy sự bất bình đẳng là một vấn đề đối với đất nước này.
+        zh: 即使在澳大利亚收入最高的人中，只有1/5的人认为这种不平等对国家来说不是问题。
+
+  distribution:
+    - label:
+        en: Strongly disagree
+        ar: لا أوافق على الإطلاق
+        vi: Hoàn toàn không đồng ý
+        zh: 强烈不同意
+      value: 0.03
+      color: "#f7922b"
+
+    - label:
+        en: Somewhat disagree
+        ar: لا أوافق إلى حدٍ ما
+        vi: Tương đối không đồng ý
+        zh: 不太同意
+      value: 0.08
+      color: "#f7af5f"
+
+    - label:
+        en: Neutral
+        ar: محايد
+        vi: Trung lập
+        zh: 中立
+      value: 0.11
+      color: "#a6a6a6"
+
+    - label:
+        en: Somewhat agree
+        ar: أوافق إلى حدٍ ما
+        vi: Tương đối đồng ý
+        zh: 有点同意
+      value: 0.27
+      color: "#72a5e9"
+
+    - label:
+        en: Strongly agree
+        ar: أوافق بشدة
+        vi: Hoàn toàn đồng ý
+        zh: 非常同意
+      value: 0.49
+      color: "#4281d7"
+
+    - label:
+        en: Don't know
+        ar: لا أعرف
+        vi: Không biết
+        zh: 不知道
+      value: 0.02
+      color: "#a6a6a6"

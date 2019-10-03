@@ -1,0 +1,307 @@
+uuid: tile_the_good_life_travelled_more
+section: section_the_good_life
+question_uuid: section_the_good_life_better_care_myself
+order: 59
+tile_type: diverging_bar_chart
+tile_content:
+  viz_headline:
+    en: I think I would be happier if I travelled more often.
+    ar:
+    vi:
+    zh: 如果我更多外出旅行，我想我会更开心。
+
+  answers:
+    - matchers:
+      - tile_uuid: tile_the_good_life_travelled_more
+        values:
+        - 4
+        - 5
+      headline:
+        en: You and a [majority of Australians](bold) in every age group wish they [travelled more](bold)
+        ar:
+        vi:
+        zh: 您和各个年龄组的大多数澳大利亚人都希望更多外出旅行
+      viz_pre_text:
+        en: Turns out we’re a nation of travellers… or at least we’d like to be.
+        ar:
+        vi:
+        zh: 原来我们是一个旅行者的国度，至少我们希望如此。
+
+  charts:
+  - title:
+      en: 18-24
+      ar: 18-24
+      vi: 18-24
+      zh: 18-24
+    bar_values:
+      left:
+        label:
+          en: Disagree
+          ar: لا أوافق
+          vi: Không đồng ý
+          zh: 不同意
+        values:
+        - 0.06
+        - 0.02
+      right:
+        label:
+          en: Agree
+          ar: أوافق
+          vi: Đồng ý
+          zh: 同意
+        values:
+        - 0.40
+        - 0.44
+    other_values:
+    - label:
+        en: Neutral
+        ar: محايد
+        vi: Trung lập
+        zh: 中立
+      value: 0.07
+    - label:
+        en: Don't know
+        ar: لا أعرف
+        vi: Không biết
+        zh: 不知道
+      value: 0.0
+
+
+  - title:
+      en: 25-29
+      ar: 25-29
+      vi: 25-29
+      zh: 25-29
+    bar_values:
+      left:
+        label:
+          en: Disagree
+          ar: لا أوافق
+          vi: Không đồng ý
+          zh: 不同意
+        values:
+        - 0.08
+        - 0.03
+      right:
+        label:
+          en: Agree
+          ar: أوافق
+          vi: Đồng ý
+          zh: 同意
+        values:
+        - 0.32
+        - 0.46
+    other_values:
+    - label:
+        en: Neutral
+        ar: محايد
+        vi: Trung lập
+        zh: 中立
+      value: 0.10
+    - label:
+        en: Don't know
+        ar: لا أعرف
+        vi: Không biết
+        zh: 不知道
+      value: 0.01
+
+
+  - title:
+      en: 30-39
+      ar: 30-39
+      vi: 30-39
+      zh: 30-39
+    bar_values:
+      left:
+        label:
+          en: Disagree
+          ar: لا أوافق
+          vi: Không đồng ý
+          zh: 不同意
+        values:
+        - 0.07
+        - 0.03
+      right:
+        label:
+          en: Agree
+          ar: أوافق
+          vi: Đồng ý
+          zh: 同意
+        values:
+        - 0.36
+        - 0.43
+    other_values:
+    - label:
+        en: Neutral
+        ar: محايد
+        vi: Trung lập
+        zh: 中立
+      value: 0.11
+    - label:
+        en: Don't know
+        ar: لا أعرف
+        vi: Không biết
+        zh: 不知道
+      value: 0.01
+
+
+  - title:
+      en: 40-49
+      ar: 40-49
+      vi: 40-49
+      zh: 40-49
+    bar_values:
+      left:
+        label:
+          en: Disagree
+          ar: لا أوافق
+          vi: Không đồng ý
+          zh: 不同意
+        values:
+        - 0.05
+        - 0.03
+      right:
+        label:
+          en: Agree
+          ar: أوافق
+          vi: Đồng ý
+          zh: 同意
+        values:
+        - 0.39
+        - 0.41
+    other_values:
+    - label:
+        en: Neutral
+        ar: محايد
+        vi: Trung lập
+        zh: 中立
+      value: 0.11
+    - label:
+        en: Don't know
+        ar: لا أعرف
+        vi: Không biết
+        zh: 不知道
+      value: 0.0
+
+
+
+
+  - title:
+      en: 50-64
+      ar: 50-64
+      vi: 50-64
+      zh: 50-64
+    bar_values:
+      left:
+        label:
+          en: Disagree
+          ar: لا أوافق
+          vi: Không đồng ý
+          zh: 不同意
+        values:
+        - 0.07
+        - 0.05
+      right:
+        label:
+          en: Agree
+          ar: أوافق
+          vi: Đồng ý
+          zh: 同意
+        values:
+        - 0.38
+        - 0.33
+    other_values:
+    - label:
+        en: Neutral
+        ar: محايد
+        vi: Trung lập
+        zh: 中立
+      value: 0.15
+    - label:
+        en: Don't know
+        ar: لا أعرف
+        vi: Không biết
+        zh: 不知道
+      value: 0.01
+
+
+
+
+  - title:
+      en: 65-74
+      ar: 65-74
+      vi: 65-74
+      zh: 65-74
+    bar_values:
+      left:
+        label:
+          en: Disagree
+          ar: لا أوافق
+          vi: Không đồng ý
+          zh: 不同意
+        values:
+        - 0.09
+        - 0.08
+      right:
+        label:
+          en: Agree
+          ar: أوافق
+          vi: Đồng ý
+          zh: 同意
+        values:
+        - 0.36
+        - 0.24
+    other_values:
+    - label:
+        en: Neutral
+        ar: محايد
+        vi: Trung lập
+        zh: 中立
+      value: 0.22
+    - label:
+        en: Don't know
+        ar: لا أعرف
+        vi: Không biết
+        zh: 不知道
+      value: 0.01
+
+
+
+  - title:
+      en: 75+
+      ar: 75+
+      vi: 75+
+      zh: 75+
+    bar_values:
+      left:
+        label:
+          en: Disagree
+          ar: لا أوافق
+          vi: Không đồng ý
+          zh: 不同意
+        values:
+        - 0.13
+        - 0.14
+      right:
+        label:
+          en: Agree
+          ar: أوافق
+          vi: Đồng ý
+          zh: 同意
+        values:
+        - 0.31
+        - 0.18
+    other_values:
+    - label:
+        en: Neutral
+        ar: محايد
+        vi: Trung lập
+        zh: 中立
+      value: 0.22
+    - label:
+        en: Don't know
+        ar: لا أعرف
+        vi: Không biết
+        zh: 不知道
+      value: 0.03
+

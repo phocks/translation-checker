@@ -1,0 +1,113 @@
+uuid: tile_pulse_two_genders
+section: section_pulse
+question_uuid: section_pulse_two_genders
+order: 51
+tile_type: horizontal_bar_chart
+tile_content:
+  viz_headline:
+    en: There are more than two genders.
+    ar: هناك أكثر من جنسين (إناث وذكور)
+    vi:
+    zh: 性别有两种以上。
+
+  answers:
+    # Disagree
+    - matchers:
+      - tile_uuid: tile_pulse_two_genders
+        values:
+        - 1
+        - 2
+      headline:
+        en: You're among [38%](title) of Australians who [do not](bold) think there are [more than two genders](bold)
+        ar:
+        vi:
+        zh: "[38%](title)的澳大利亚人认为性别不超过两种，您就是其中之一"
+      viz_pre_text:
+        en: A majority of women agree there are more than two genders, compared with 35% of men.
+        ar:
+        vi:
+        zh: 大多数女性一致认为性别有两种以上，相比之下，只有35％的男性持有这种看法。
+
+    # Neutral, Don't know
+    - matchers:
+      - tile_uuid: tile_pulse_two_genders
+        values:
+        - 3
+        - -99
+      headline:
+        en: "[45%](title) of Australians think there are [more than two genders](bold)"
+        ar:
+        vi:
+        zh: "[45%](title)的澳大利亚人认为性别有两种以上。"
+      viz_pre_text:
+        en: A majority of women agree there are more than two genders, compared with 35% of men.
+        ar:
+        vi:
+        zh: 大多数女性一致认为性别有两种以上，相比之下，只有35％的男性持有这种看法。
+
+    # Agree
+    - matchers:
+      - tile_uuid: tile_pulse_two_genders
+        values:
+        - 4
+        - 5
+      headline:
+          en: You're among [45%](title) of Australians who think there are [more than two genders](bold)
+          ar:
+          vi:
+          zh: "[45%](title)的澳大利亚人认为性别有两种以上，您就是其中之一"
+      viz_pre_text:
+        en: A majority of women agree there are more than two genders, compared with 35% of men.
+        ar:
+        vi:
+        zh: 大多数女性一致认为性别有两种以上，相比之下，只有35％的男性持有这种看法。
+
+  distribution:
+    - label:
+        en: Strongly disagree
+        ar: لا أوافق على الإطلاق
+        vi: Hoàn toàn không đồng ý
+        zh: 强烈不同意
+      value: 0.27
+      color: "#f7922b"
+
+    - label:
+        en: Somewhat disagree
+        ar: لا أوافق إلى حدٍ ما
+        vi: Tương đối không đồng ý
+        zh: 不太同意
+      value: 0.11
+      color: "#f7af5f"
+
+    - label:
+        en: Neutral
+        ar: محايد
+        vi: Trung lập
+        zh: 中立
+      value: 0.15
+      color: "#a6a6a6"
+
+    - label:
+        en: Somewhat agree
+        ar: أوافق إلى حدٍ ما
+        vi: Tương đối đồng ý
+        zh: 有点同意
+      value: 0.03
+      color: "#72a5e9"
+
+    - label:
+        en: Strongly agree
+        ar: أوافق بشدة
+        vi: Hoàn toàn đồng ý
+        zh: 非常同意
+      value: 0.19
+      color: "#4281d7"
+
+    - label:
+        en: Don't know
+        ar: لا أعرف
+        vi: Không biết
+        zh: 不知道
+      value: 0.26
+      color: "#a6a6a6"
+

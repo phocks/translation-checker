@@ -1,0 +1,96 @@
+uuid: tile_pulse_discriminate_minority_1
+section: section_pulse
+question_uuid: section_pulse_discriminate_minority
+order: 38
+tile_type: horizontal_bar_chart
+tile_content:
+  viz_headline:
+    en: People should not be allowed to say things in public that discriminate against minority groups.
+    ar:
+    vi:
+    zh: 不应该允许人们公开发表歧视少数群体的言论。
+  answers:
+    # Disagree
+    - matchers:
+      - tile_uuid: tile_pulse_discriminate_minority_1
+        values:
+        - 1
+        - 2
+      headline:
+        en: You are among [1 in 3](bold) Australians who think that people [should be allowed](bold) to say things in public that [discriminate against minority groups](bold)
+        ar:
+        vi:
+        zh: "[1/3](bold)的澳大利亚人认为应该允许人们公开发表歧视少数群体的言论，您就是其中之一"
+      viz_pre_text:
+        en: Men, people who live in regional and rural Australia, and those with European ancestry are the groups more likely to agree with you.
+        ar:
+        vi:
+        zh: 男性、生活在澳大利亚中小城市和农村的人以及具有欧洲血统的人是最可能赞同您的看法的群体。
+
+    # Agree
+    - matchers:
+      - tile_uuid: tile_pulse_discriminate_minority_1
+        values:
+        - 4
+        - 5
+      headline:
+        en: You are among [55%](title) of Australians who think that people should [not be allowed](bold) to say things in public that [discriminate against minority groups](bold)
+        ar:
+        vi:
+        zh: "[55%](title)的澳大利亚人认为不应该允许人们公开发表歧视少数群体的言论，您就是其中之一"
+      viz_pre_text:
+        en: Women, people who live in the inner-city and Australians who have non-European ancestry are the most likely groups to agree with you.
+        ar:
+        vi:
+        zh: 女性、生活在内城区的人以及具有非欧洲血统的澳大利亚人是最可能赞同您的看法的群体。
+
+
+  distribution:
+    - label:
+        en: Strongly disagree
+        ar: لا أوافق على الإطلاق
+        vi: Hoàn toàn không đồng ý
+        zh: 强烈不同意
+      value: 0.12
+      color: "#f7922b"
+
+    - label:
+        en: Somewhat disagree
+        ar: لا أوافق إلى حدٍ ما
+        vi: Tương đối không đồng ý
+        zh: 不太同意
+      value: 0.21
+      color: #f7af5f
+
+    - label:
+        en: Neutral
+        ar: محايد
+        vi: Trung lập
+        zh: 中立
+      value: 0.12
+      color: "#a6a6a6"
+
+    - label:
+        en: Somewhat agree
+        ar: أوافق إلى حدٍ ما
+        vi: Tương đối đồng ý
+        zh: 有点同意
+      value: 0.25
+      color: "#72a5e9"
+
+    - label:
+        en: Strongly agree
+        ar: أوافق بشدة
+        vi: Hoàn toàn đồng ý
+        zh: 非常同意
+      value: 0.30
+      color: "#4281d7"
+
+    - label:
+        en: Don't know
+        ar: لا أعرف
+        vi: Không biết
+        zh: 不知道
+      value: 0.01
+      color: "#a6a6a6"
+

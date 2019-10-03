@@ -1,0 +1,257 @@
+uuid: tile_the_good_life_more_money
+section: section_the_good_life
+question_uuid: section_the_good_life_more_money
+order: 60
+tile_type: diverging_bar_chart
+tile_content:
+  viz_headline:
+    en: I think I would be happier if I had more money.
+    ar:
+    vi:
+    zh: 如果我有更多钱，我想我会更开心。
+  answers:
+  # Agree
+  - matchers:
+    - tile_uuid: tile_the_good_life_more_money
+      values:
+      - 4
+      - 5
+    headline:
+      en: Who says money can’t buy happiness? [Not you](bold)
+      ar:
+      vi:
+      zh: 谁说金钱买不到幸福？不是您说的
+    viz_pre_text:
+      en: It doesn't really matter how much you currently earn, most people are pretty sure more money would bring them greater happiness.
+      ar:
+      vi:
+      zh: 不管您现在挣多少钱，大多数人都非常确信更多钱可以给他们带来更大的幸福。
+
+  charts:
+  - title:
+      en: $0 to $599 per week
+      ar:
+      vi: Từ 0 đô-la đến 599 đô-la mỗi tuần
+      zh: 每周$0 － $599
+    bar_values:
+      left:
+        label:
+          en: Disagree
+          ar: لا أوافق
+          vi: Không đồng ý
+          zh: 不同意
+        values:
+        - 0.07
+        - 0.05
+      right:
+        label:
+          en: Agree
+          ar: أوافق
+          vi: Đồng ý
+          zh: 同意
+        values:
+        - 0.35
+        - 0.38
+    other_values:
+    - label:
+        en: Neutral
+        ar: محايد
+        vi: Trung lập
+        zh: 中立
+      value: 0.13
+    - label:
+        en: Don't know
+        ar: لا أعرف
+        vi: Không biết
+        zh: 不知道
+      value: 0.01
+
+  - title:
+      en: $600 to $1,000 per week
+      ar:
+      vi: Từ 600 đô-la đến 1.000 đô-la mỗi tuần
+      zh: 每周$600 － $1,000
+    bar_values:
+      left:
+        label:
+          en: Disagree
+          ar: لا أوافق
+          vi: Không đồng ý
+          zh: 不同意
+        values:
+        - 0.08
+        - 0.05
+      right:
+        label:
+          en: Agree
+          ar: أوافق
+          vi: Đồng ý
+          zh: 同意
+        values:
+        - 0.36
+        - 0.34
+    other_values:
+    - label:
+        en: Neutral
+        ar: محايد
+        vi: Trung lập
+        zh: 中立
+      value: 0.17
+    - label:
+        en: Don't know
+        ar: لا أعرف
+        vi: Không biết
+        zh: 不知道
+      value: 0.0
+
+  - title:
+      en: $1,000 to $1,499 per week
+      ar:
+      vi: Từ 1.000 đô-la đến 1.499 đô-la mỗi tuần
+      zh: 每周$1,000 － $1,499
+    bar_values:
+      left:
+        label:
+          en: Disagree
+          ar: لا أوافق
+          vi: Không đồng ý
+          zh: 不同意
+        values:
+        - 0.06
+        - 0.04
+      right:
+        label:
+          en: Agree
+          ar: أوافق
+          vi: Đồng ý
+          zh: 同意
+        values:
+        - 0.39
+        - 0.33
+    other_values:
+    - label:
+        en: Neutral
+        ar: محايد
+        vi: Trung lập
+        zh: 中立
+      value: 0.16
+    - label:
+        en: Don't know
+        ar: لا أعرف
+        vi: Không biết
+        zh: 不知道
+      value: 0.0
+
+  - title:
+      en: $1,500 to $2,499 per week
+      ar:
+      vi: Từ 1.500 đô-la đến 2.499 đô-la mỗi tuần
+      zh: 每周$1,500 － $2,499
+    bar_values:
+      left:
+        label:
+          en: Disagree
+          ar: لا أوافق
+          vi: Không đồng ý
+          zh: 不同意
+        values:
+        - 0.08
+        - 0.04
+      right:
+        label:
+          en: Agree
+          ar: أوافق
+          vi: Đồng ý
+          zh: 同意
+        values:
+        - 0.39
+        - 0.35
+    other_values:
+    - label:
+        en: Neutral
+        ar: محايد
+        vi: Trung lập
+        zh: 中立
+      value: 0.13
+    - label:
+        en: Don't know
+        ar: لا أعرف
+        vi: Không biết
+        zh: 不知道
+      value: 0.01
+
+  - title:
+      en: $2,500 to $2,999 per week
+      ar:
+      vi: Từ 2.500 đô-la đến 2.999 đô-la mỗi tuần
+      zh: 每周$2,500 － $2,999
+    bar_values:
+      left:
+        label:
+          en: Disagree
+          ar: لا أوافق
+          vi: Không đồng ý
+          zh: 不同意
+        values:
+        - 0.09
+        - 0.04
+      right:
+        label:
+          en: Agree
+          ar: أوافق
+          vi: Đồng ý
+          zh: 同意
+        values:
+        - 0.39
+        - 0.34
+    other_values:
+    - label:
+        en: Neutral
+        ar: محايد
+        vi: Trung lập
+        zh: 中立
+      value: 0.14
+    - label:
+        en: Don't know
+        ar: لا أعرف
+        vi: Không biết
+        zh: 不知道
+      value: 0.0
+
+  - title:
+      en: $3000 or more per week
+      ar:
+      vi: 3.000 đô-la hoặc hơn mỗi tuần
+      zh: 每周$3,000以上
+    bar_values:
+      left:
+        label:
+          en: Disagree
+          ar: لا أوافق
+          vi: Không đồng ý
+          zh: 不同意
+        values:
+        - 0.09
+        - 0.06
+      right:
+        label:
+          en: Agree
+          ar: أوافق
+          vi: Đồng ý
+          zh: 同意
+        values:
+        - 0.38
+        - 0.31
+    other_values:
+    - label:
+        en: Neutral
+        ar: محايد
+        vi: Trung lập
+        zh: 中立
+      value: 0.16
+    - label:
+        en: Don't know
+        ar: لا أعرف
+        vi: Không biết
+        zh: 不知道
+      value: 0.0
