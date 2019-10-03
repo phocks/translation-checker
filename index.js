@@ -14,7 +14,7 @@ for (let file of files) {
   const secondCount = (text.match(secondLanguage) || []).length;
 
   if (firstCount === secondCount) {
-    console.log("Test passed: " + filename);
+    // console.log("Test passed: " + filename);
   } else {
     console.log("Test failed: " + filename);
   }
