@@ -6,7 +6,7 @@ To use
 ------
 Clone project.
 
-Put all files and create a folder called "files".
+Pull all files and create a folder called "files".
 
 Run with: `node index.js`
 
