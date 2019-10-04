@@ -17,59 +17,68 @@ for (let file of files) {
   let logFilename = false;
 
   traverse(parsedYaml).forEach(function(element) {
-    if (element && element.text) {
-      // console.log(element);
-      // this.node.text.vi = "TEST"
-      // console.log(this.node);
-      const englishText = element.text.en;
-      const foundChoice = reference.find(el => {
-        // el.en.toLowerCase() === englishText.toLowerCase()
-        const firstCompare = el.en.toLowerCase().replace(/[^a-z0-9\ ]/gi, "");
-        const secondCompare = englishText
-          .toLowerCase()
-          .replace(/[^a-z0-9\ ]/gi, "");
+    let englishText;
+    let nodeName;
 
-        return firstCompare === secondCompare;
-      });
+    if (!element) return;
 
-      // console.log(element.text[OTHER_LANGUAGE])
+    if (element.text) {
+      englishText = element.text.en;
+      nodeName = "text";
+    } else if (element.narrative) {
+      englishText = element.narrative.en;
+      nodeName = "narrative";
+    } else if (element.description) {
+      englishText = element.description.en;
+      nodeName = "description";
+    } else if (element.title) {
+      englishText = element.title.en;
+      nodeName = "title";
+    } else if (element.viz_headline) {
+      englishText = element.viz_headline.en;
+      nodeName = "viz_headline";
+    } else if (element.headline) {
+      englishText = element.headline.en;
+      nodeName = "headline";
+    } else if (element.viz_pre_text) {
+      englishText = element.viz_pre_text.en;
+      nodeName = "viz_pre_text";
+    } else if (element.card_post_text) {
+      englishText = element.card_post_text.en;
+      nodeName = "card_post_text";
+    } else if (element.label) {
+      englishText = element.label.en;
+      nodeName = "label";
+    } else return;
 
-      const otherLang = this.node.text[OTHER_LANGUAGE];
+    const foundChoice = reference.find(el => {
+      let firstCompare = el.en.toLowerCase();
+      let secondCompare = englishText.toString().toLowerCase();
 
-      if (foundChoice) {
-        if (!otherLang) {
-          this.node.text[OTHER_LANGUAGE] = foundChoice[OTHER_LANGUAGE];
-          logFilename = true;
-          console.log(foundChoice);
-        }
+      firstCompare = firstCompare.replace(/\[/gi, "");
+      firstCompare = firstCompare.replace(/\]\(title\)/gi, "");
+      firstCompare = firstCompare.replace(/\]\(bold\)/gi, "");
 
-        // if (typeof element.text[OTHER_LANGUAGE] !== "undefined") {
-        //   console.log(element.text[OTHER_LANGUAGE]);
-        // }
+      secondCompare = secondCompare.replace(/\[/gi, "");
+      secondCompare = secondCompare.replace(/\]\(title\)/gi, "");
+      secondCompare = secondCompare.replace(/\]\(bold\)/gi, "");
+
+      return firstCompare === secondCompare;
+    });
+
+    const otherLang = this.node[nodeName][OTHER_LANGUAGE];
+
+    if (foundChoice) {
+      if (!otherLang) {
+        this.node[nodeName][OTHER_LANGUAGE] = foundChoice[OTHER_LANGUAGE];
+        logFilename = true;
+        console.log(foundChoice);
       }
-
-      // console.log(element.text)
     }
   });
 
   if (logFilename) console.log("^^^^from " + file);
   logFilename = false;
 
-  // console.log(YAML.stringify(parsedYaml));
-
   fs.writeFileSync("./out/" + file, YAML.stringify(parsedYaml));
-
-  // const choices = parsedYaml.choice_groups[0].choices;
-
-  // for (let choice of choices) {
-  //   const englishText = choice.text.en;
-
-  //   const foundChoice = reference.find(el => el.en === englishText);
-
-  //   if (foundChoice) {
-  //     choice.text[OTHER_LANGUAGE] = foundChoice[OTHER_LANGUAGE];
-  //   }
-  // }
-
-  // console.log(YAML.stringify(choices));
 }
