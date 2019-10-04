@@ -1,0 +1,1326 @@
+﻿en,vi
+"Australia Talks is a tool developed by the ABC with social scientists to help you understand how your attitudes, behaviours, and experiences compare to other Australians.","Australia Talks là một công cụ được ABC phát triển cùng với các nhà khoa học xã hội nhằm giúp quý vị hiểu thái độ, hành vi, và trải nghiệm của mình là thế nào khi so sánh với những người Úc khác."
+Overall,Tổng quát
+Women,Phụ nữ
+Men,Nam giới
+Agree,Đồng ý
+Disagree,Không đồng ý
+Australian-born,Được sinh ra tại Úc
+Arrived in Australia more than 10 years ago,Đến Úc cách đây hơn 10 năm
+Arrived in Australia 10 years ago or less,Đến Úc cách đây 10 năm hoặc ít hơn
+Climate change,Biến đổi khí hậu
+Saving enough money for retirement,Tiết kiệm đủ tiền bạc cho khi nghỉ hưu
+Your health or the health of a family member,Sức khỏe của quý vị hay sức khỏe của thành viên trong gia đình
+Getting older,Đang trở nên lớn tuổi
+Work/life balance,Sự quân bình giữa công việc/cuộc sống
+Affording a home,Đủ khả năng tài chính cho căn nhà
+Career opportunities,Các cơ hội nghề nghiệp
+Not having enough money to get by,Không có đủ tiền để qua ngày
+$0 to $599 per week,Từ 0 đô-la đến 599 đô-la mỗi tuần
+"$600 to $1,000 per week",Từ 600 đô-la đến 1.000 đô-la mỗi tuần
+"$1,000 to $1,499 per week",Từ 1.000 đô-la đến 1.499 đô-la mỗi tuần
+"$1,500 to $2,499 per week",Từ 1.500 đô-la đến 2.499 đô-la mỗi tuần
+"$2,500 to $2,999 per week",Từ 2.500 đô-la đến 2.999 đô-la mỗi tuần
+"$3,000 or more per week",3.000 đô-la hoặc hơn mỗi tuần
+ALP voters,Những người bỏ phiếu cho ALP (Đảng Lao động Úc) 
+Greens voters,Những người bỏ phiếu cho Greens (Đảng Xanh)
+One Nation voters,Những người bỏ phiếu cho One Nation (Đảng Một Quốc gia)
+Coalition voters,Những người bỏ phiếu cho Coalition (Liên Đảng)
+Other voters,Những người bỏ phiếu cho các đảng phái khác
+Non-white,Không phải da trắng
+White,Da trắng
+Vietnamese,Tiếng Việt
+Simplified Chinese,Tiếng Hoa Giản lược
+Arabic,Tiếng Ả rập 
+Get started,Hãy bắt đầu
+"All done, good job!","Xong hết tất cả, tốt!"
+Sit tight while we prepare your results. This should only take a moment.,Xin quý vị ngồi chờ trong khi chúng tôi chuẩn bị kết quả của quý vị. Việc này sẽ chỉ mất giây lát mà thôi.
+Know yourself. Know your neighbour. Know your country.,Biết về bản thân mình. Biết người hàng xóm của quý vị. Biết về đất nước của quý vị.
+Next,Kế tiếp
+Back,Trở về trước
+Other,Khác
+What is your sex?,Quý vị thuộc phái tính nào?
+Male,Nam 
+Female,Nữ
+Other,Phái tính khác
+In what year were you born?,Quý vị được sinh ra năm nào?
+What is the highest level of education that you have completed?,Trình độ học vấn cao nhất mà quý vị đã học xong là trình độ nào?
+Year 8 or below,Lớp 8 hoặc thấp hơn
+Year 9 ,Lớp 9 
+Year 10 ,Lớp 10 
+Year 11 ,Lớp 11 
+Year 12 ,Lớp 12 
+Certificate I ,Chứng chỉ Cấp I 
+Certificate II ,Chứng chỉ Cấp II 
+Certificate III ,Chứng chỉ Cấp III 
+Certificate IV ,Chứng chỉ Cấp IV 
+Diploma Level ,Trình độ Văn bằng 
+Advanced Diploma and Associate Degree Level ,Trình độ Văn bằng Chuyên nghiệp và Bằng cấp Cao đẳng 
+Bachelor Degree Level ,Trình độ Bằng cấp Cử nhân 
+Graduate Certificate Level ,Trình độ Chứng chỉ Tốt nghiệp 
+Graduate Diploma Level,Trình độ Bằng cấp Tốt nghiệp
+Master Degree Level ,Trình độ Bằng cấp Thạc sĩ 
+Doctoral Degree Level,Trình độ Bằng cấp Tiến sĩ
+What is your postcode? (e.g. 2560),"Mã bưu điện của quý vị là bao nhiêu? (ví dụ, 2560)"
+In which state or territory do you currently live?,Quý vị hiện đang sống tại tiểu bang hay lãnh thổ nào?
+Australian Capital Territory ,Australian Capital Territory 
+New South Wales,New South Wales
+Northern Territory,Northern Territory
+Queensland,Queensland
+South Australia,South Australia
+Tasmania,Tasmania
+Victoria,Victoria
+Western Australia,Western Australia
+I do not live in Australia,Tôi không sống tại Úc
+Were you born in Australia?,Có phải quý vị được sinh ra tại Úc?
+In which year did you first come to Australia to live?,Lần đầu tiên quý vị đến Úc để sống là năm nào?
+What are the ethnic or cultural origins of your ancestors? Select all that apply.,Tổ tiên của quý vị thuộc nguồn gốc sắc tộc hay tôn giáo nào? Xin quý vị chọn tất cả các nguồn gốc đúng với trường hợp của mình.
+Acehnese,Người Aceh
+Acholi,Người Acholi
+Afghan,Người Afghanistan
+African,Người Phi Châu
+Afrikaner,Người Nam Phi gốc Âu
+Akan,Người Akan
+Albanian,Người Albani
+Algerian,Người Algeria
+American,Người Mỹ
+Amhara,Người Amhara
+Anglo-Burmese,Người Miến Điện gốc Anh
+Anglo-Indian,Người Ấn Độ gốc Anh
+Angolan,Người Angola
+Arab,Người Ả Rập 
+Argentinian,Người Argentina
+Armenian,Người Armenia
+Assyrian,Người Assyria
+Australian,Người Úc
+Austrian,Người Áo
+Azeri,Người Azeri
+Bahraini,Người Bahrain
+Balinese,Người Bali
+Bangladeshi,Người Bangladesh
+Barbadian,Người Barbados
+Bari,Người Bari
+Basque,Người Basque
+Batswana,Người Botswana
+Belarusan,Người Belarus
+Belgian,Người Bỉ
+Bengali,Người Bengali
+Berber,Người Berber
+Bermudan,Người Bermuda
+Bhutanese,Người Bhutan
+Bolivian,Người Bolivia
+Bosnian,Người Bosnia
+Brazilian,Người Brazil
+British,Người Anh
+Bruneian,Người Brunei
+Bulgarian,Người Bulgari
+Burgher,Người Burgher
+Burmese,Người Miến Điện
+Burundian,Người Burundi
+Cameroonian,Người Cameroon
+Canadian,Người Canada
+Catalan,Người Catalan
+Chaldean,Người Xê-mít
+Channel,Người Đảo Eo biển Măng sơ
+Chilean,Người Chi Lê
+Chin,Người Hán Tạng
+Chinese,Người Hoa
+Colombian,Người Colombia
+Congolese,Người Congol
+Cook,Người Đảo Cook
+Coptic,Người Copt
+Costa,Người Costa
+Croatian,Người Croatia
+Cuban,Người Cu ba
+Cypriot,Người Cyp
+Czech,Người Czech
+Danish,Người Đan Mạch
+Darfu/Darfurian,Người Darfu
+Dinka,Người Dinka
+Dutch,Người Hà Lan
+Ecuadorian,Người Ecuado
+Egyptian,Người Ai Cập
+Emirati,Người Emirat
+English,Người Anh
+Eritrean,Người Eritrea
+Estonian,Người Estonia
+Ethiopian,Người Ethiopia
+Fijian,Người Fiji
+Fijian,Người Fiji
+Filipino,Người Phi-líp-pin
+Finnish,Người Phần Lan
+Flemish,Người Flanders
+French,Người Pháp
+French,Người Pháp
+Frisian,Người Đảo Frisian
+Fulani,Người Fula
+Georgian,Người Georgia
+German,Người Đức
+Ghanaian,Người Ghana
+Gibraltarian,Người Gibraltar
+Gio,Người Gio/Dan
+Greek,Người Hy Lạp
+Guatemalan,Người Guatemala
+Gujarati,Người Gujarat
+Guyanese,Người Guyan
+Hawaiian,Người Hawaii
+Hazara,Người Hazara
+Hispanic,Người Châu Mỹ La tinh
+Hmong,Người Hmong
+Hungarian,Người Hungari
+Hutu,Người Hutu
+I-Kiribati,Người I-Kiribat
+Icelandic,Người Iceland
+Igbo,Người Igbo
+Indian,Người Ấn Độ
+Indonesian,Người In-đô-nê-xia
+Iranian,Người Ba Tư
+Iraqi,Người Iraq
+Irish,Người Ai Len
+Israeli,Người Israel
+Italian,Người Ý
+Ivorean,Người Ivoren
+Jamaican,Người Jamaica
+Japanese,Người Nhật 
+Javanese,Người Java
+Jewish,Người Do Thái
+Jordanian,Người Jordan
+Kadazan,Người Kadaza
+Karen,Người Karen
+Kashmiri,Người Kashmir
+Kazakh,Người Kazakhstan
+Kenyan,Người Kenya
+Khmer,Người Khmer
+Korean,Người Hàn Quốc
+Krahn,Người Krahn
+Kunama,Người Kunama
+Kurdish,Người Kurd
+Kuwaiti,Người Kuwait
+Kyrgyz,Người Kyrgyzstan
+Lao,Người Lào
+Latvian,Người Latvia
+Lebanese,Người Li Băng
+Liberian,Người Liberia
+Libyan,Người Li Bi
+Lithuanian,Người Lithuania
+Luxembourg,Người Luxembourg
+Macedonian,Người Macedonia
+Madi,Người Madi
+Madurese,Người Madura
+Malawian,Người Malawi
+Malay,Người Mã Lai
+Malayali,Người Malayali
+Maldivian,Người Maldivia
+Maltese,Người Malta
+Mandaean,Người Mandaean
+Mandinka,Người Mandinka
+Manx,Người Đảo Man
+Maori,Người Maori
+Masai,Người Ma-xai
+Mauritian,Người Maurit
+Mayan,Người Maya
+Mexican,Người Mê-hi-cô
+Moldovan,Người Moldova
+Mon,Người Môn
+Mongolian,Người Mông Cổ
+Montenegrin,Người Montenegro
+Moroccan,Người Ma-rốc
+Mozambican,Người Mozambic
+Namibian,Người Namibia
+Native,Người Bản địa
+Nauruan,Người Nauru
+Nepalese,Người Nepal
+New Caledonian,Người New Caledonia
+New Zealander,Người New Zealand
+Ni-Vanuatu,Người Ni-Vanuatu
+Nicaraguan,Người Nicaragua
+Nigerian,Người Nigeria
+Niuean,Người Niue
+Norwegian,Người Na Uy
+Nubian,Người Nubia
+Nuer,Người Nuer
+Ogaden,Người Ogaden
+Omani,Người Oman
+Oromo,Người Oromo
+Pakistani,Người Pakistan
+Palestinian,Người Palestin
+Papua,Người Papua
+Paraguayan,Người Paraguay
+Parsi,Người Parsi
+Pathan,Người Patha
+Peruvian,Người Peru
+Polish,Người Ba Lan
+Portuguese,Người Bồ Đào Nha
+Puerto,Người Puerto
+Punjabi,Người Punjabi
+Qatari,Người Qata
+Rohingya,Người Rohingha
+Roma,Người La Mã
+Romanian,Người Romania
+Russian,Người Nga
+Rwandan,Người Rwanda
+Salvadoran,Người Salvado
+Samoan,Người Samoa
+Saudi,Người Saudi
+Scottish,Người Scốt lan
+Senegalese,Người Senegal
+Serbian,Người Serbia
+Seychellois,Người Seychelles
+Shona,Người Bantu 
+Sierra,Người Sierra Leone
+Sikh,Người Xích
+Singaporean,Người Singapo
+Sinhalese,Người Sinhala
+Slovak,Người Slovakia
+Slovene,Người Slovenia
+Solomon,Người Solomon
+Somali,Người Somali
+Sorb/Wend,Người Sorb/Sla-vơ
+South African,Người Nam Phi
+South Sudanese,Người Nam Sudan
+Southern,Người Nam
+Spanish,Người Tây Ban Nha
+Sri Lankan,Người Sri Lanka
+Sri Lankan Tamil,Người Sri Lanka Tamil
+Sudanese,Người Sudan
+Sundanese,Người Sunda
+Swahili,Người Swahili
+Swazilander,Người Swaziland
+Swedish,Người Thụy Điển
+Swiss,Người Thụy Sĩ
+Syrian,Người Syria
+Tahitian,Người Tahiti
+Taiwanese,Người Đài Loan
+Tajik,Người Tajikistan
+Tanzanian,Người Tanzania
+Tatar,Người Tatar
+Telugu,Người Telugu
+Temoq,Người Temoq
+Thai,Người Thái Lan
+Themne,Người Theme
+Tibetan,Người Tây Tạng
+Tigrayan,Người Tigray
+Tigre,Người Tigre
+Timorese,Ngjười Timor
+Togolese,Người Togol
+Tokelauan,Người Tokelau
+Tongan,Người Tonga
+Trinidadian,Người Trinidad
+Tunisian,Người Tunisi
+Turkish,Người Thổ Nhĩ Kỳ
+Turkmen,Người Turkmenistan
+Tuvaluan,Người Tuvalu
+Ugandan,Người Uganda
+Uighur,Người Duy Ngô Nhĩ
+Ukrainian,Người Ukraina
+Uruguayan,Người Uruguay
+Uzbek,Người Uzbekistan
+Venezuelan,Người Venezuela
+Vietnamese,Người Việt Nam
+Vlach,Người Vlach
+Welsh,Người xứ Wales
+Yemeni,Người Yemen
+Yoruba,Người Yoruba
+Zambian,Người Zambia
+Zimbabwean,Người Zimbabwe
+Zulu,Người Zulu
+What is the first language that you learned?,Ngôn ngữ đầu tiên quý vị học là ngôn ngữ nào?
+English,Tiếng Anh
+Afrikaans,Các ngôn ngữ Phi Châu
+Albanian,Tiếng Albani
+Amharic,Tiếng Amharic
+Arabic,Tiếng Ả Rập 
+Armenian,Tiếng Armenia
+Assyrian/Aramaic,Tiếng Assyria/Tiếng Cận Đông Cổ đại
+Auslan,Auslan (Ngôn ngữ ký hiệu)
+Australian Indigenous Languages,Các ngôn ngữ Thổ dân Úc
+Bengali,Tiếng Bengal
+Bosnian,Tiếng Bosnia
+Bulgarian,Tiếng Bulgari
+Burmese,Tiếng Miến Điện
+Cantonese,Tiếng Quảng Đông
+Chin Haka,Tiếng Địa phương Chin Haka
+Chinese,Tiếng Hoa
+Croatian,Tiếng Croatia
+Czech,Tiếng Czech
+Danish,Tiếng Đan Mạch
+Dinka,Tiếng Dinka
+Dutch,Tiếng Hà Lan
+Estonian,Tiếng Estonia
+Fijian,Tiếng Fiji
+Fijian Hindustani,Tiếng Fiji Ấn Độ
+Filipino/Tagalog,Tiếng Phi-líp-pin/Tagalog
+Finnish,Tiếng Phần Lan
+French,Tiếng Pháp
+German,Tiếng Đức
+Greek,Tiếng Hy Lạp
+Gujarati,Tiếng Gujarat
+Hakka,Tiếng Địa phương Hakka
+Hebrew,Tiếng Hebrew
+Hindi,Tiếng Hindi
+Hmong,Tiếng Hmong
+Hungarian,Tiếng Hungari
+Indo-Aryan,Tiếng Indo-Ấn Âu
+Indonesian,Tiếng In-đô-nê-xia
+Italian,Tiếng Ý
+Japanese,Tiếng Nhật
+Kannada,Tiếng Kannada
+Karen,Tiếng Karen
+Khmer,Tiếng Khmer
+Korean,Tiếng Triều Tiên
+Kurdish,Tiếng Kurdish
+Lao,Tiếng Lào
+Latvian,Tiếng Latvia
+Macedonian,Tiếng Macedonia
+Malay,Tiếng Mã Lai
+Malayalam,Tiếng Malayalam
+Maltese,Tiếng Malta
+Mandarin,Tiếng Quan Thoại
+Maori (Cook Island),Tiếng Maori (Đảo Cook)
+Maori (New Zealand),Tiếng Maori (New Zealand)
+Marathi,Tiếng Marathi
+Min Nan (incl.Hokkien),Tiếng Min Nan (bao gồm Tiếng Phúc Kiến)
+Nepali,Tiếng Nepal
+Non-verbal,Phi lời nói
+Norwegian,Tiếng Na Uy
+Nuer,Tiếng Nuer
+Oromo,Tiếng Oromo
+Pashto,Tiếng Pashto
+Persian/Dari,Tiếng Ba Tư/Tiếng Dari
+Polish,Tiếng Ba Lan
+Portuguese,Tiếng Bồ Đào Nha
+Punjabi,Tiếng Punjabi
+Romanian,Tiếng Romania
+Russian,Tiếng Nga
+Samoan,Tiếng Samoa
+Serbian,Tiếng Serbia
+"Serbo-Croatian, Yugoslavian","Tiếng Serbo-Croatia, Tiếng Yugoslavia"
+Shona,Tiếng Bantu 
+Sinhalese,Tiếng Sinhalese
+Slovak,Tiếng Slovakia
+Slovene,Tiếng Slovenia
+Somali,Tiếng Somali
+Spanish,Tiếng Tây Ban Nha
+Swahili,Tiếng Swahili
+Swedish,Tiếng Thụy Điển
+Tamil,Tiếng Tamil
+Telugu,Tiếng Telugu
+Tetum,Tiếng Tetum
+Thai,Tiếng Thái
+Tibetan,Tiếng Tây Tạng
+Tigrinya,Tiếng Semit
+Tokelauan,Tiếng Tokelau
+Tongan,Tiếng Tonga
+Tswana,Tiếng Tswana (Bantu)
+Turkish,Tiếng Thổ Nhĩ Kỳ
+Ukrainian,Tiếng Ukraina
+Urdu,Tiếng Urdu
+Uygur,Tiếng Uygur
+Vietnamese,Tiếng Việt
+Wu,Tiếng Ngô
+Yiddish,Tiếng Yiddish
+Other language,Ngôn ngữ khác
+"What is your religion, if you have one?","Quý vị theo tôn giáo nào, nếu có tôn giáo?"
+No religion,Không có tôn giáo
+No religion (Agnostic),Không có tôn giáo (Thuyết Bất Khả Tri)
+No religion (Atheist),Không có tôn giáo (Thuyết Vô Thần)
+Anglican/Church of England,Anh Giáo/Giáo Hội của Anh
+Apostolic,Tông Đồ
+Australian Aboriginal Religion,Tôn giáo Thổ dân Úc
+Baptist,Tin Lành Báp-tít
+Brethren,Đạo Hữu
+Buddhist,Phật Giáo
+Catholic,Công Giáo
+Church of Christ,Giáo Hội của Chúa Cứu Thế
+Eastern Orthodox,Chính Thống Giáo Phương Đông
+Hinduism,Hin-đu
+Islam,Hồi Giáo
+Jehovah's Witness,Nhân Chứng Jehovah
+Judaism,Do Thái Giáo
+Latter-day Saints,Thánh Hữu Ngày Sau của Chúa Giê Su Ky Tô
+Lutheran,Cơ Đốc Giáo Luther
+Other Christian,Cơ Đốc Giáo Khác
+Other Orthodox,Chính Thống Giáo Khác 
+Pentecostal,Chúa Thánh Thần
+Presbyterian,Giáo hội Trưởng lão 
+Reformed,Tân Giáo
+Salvation Army,Đội quân Cứu tế
+Sikh,Đạo Xích
+Uniting Church,Uniting Church
+Other religion,Tôn giáo khác
+"In the last Australian federal election, which party did you vote for as your first preference in the House of Representatives?","Trong cuộc bầu cử liên bang Úc vừa qua, quý vị đã bỏ phiếu cho đảng phái nào làm ưa chuộng số một của mình trong Hạ Viện?"
+Australian Labor Party ,Đảng Lao động Úc 
+Greens,Đảng Xanh
+Independent,Đảng Độc lập
+Liberal National Party ,Đảng Tự do Quốc gia 
+Liberal Party,Đảng Tự do
+National Party ,Đảng Quốc gia 
+Country Liberals ,Đảng Tự do Miền Quê 
+Pauline Hanson's One Nation  ,Đảng Một Quốc gia của bà Pauline Hanson  
+United Australia Party ,Đảng nước Úc Đoàn kết 
+Other party or candidate ,Đảng phái hay ứng viên khác 
+Are you an Australian citizen?,Quý vị có phải là công dân Úc không?
+Are you of Aboriginal or Torres Strait Islander origin?,Quý vị có thuộc nguồn gốc Thổ dân hay Dân Đảo Torres Strait không?
+"And are you of Aboriginal origin, Torres Strait Islander origin or both?","Và quý vị có thuộc nguồn gốc Thổ dân, Dân Đảo Torres Strait hay cả hai không?"
+Aboriginal ,Người Thổ dân 
+Torres Strait Islander ,Người dân Đảo Torres Strait  
+Both ,Cả hai 
+Are you currently employed?,Quý vị hiện có đang đi làm không?
+"Yes, currently employed ","Có, hiện đang đi làm "
+"Yes, currently self-employed ","Có, hiện đang tự làm chủ "
+"Is your employment full-time, part-time or casual?","Quý vị đang làm toàn thời, bán thời hay phụ đổng?"
+Full-time  ,Toàn thời  
+Part-time ,Bán thời 
+Casual ,Phụ đổng 
+Is your employment permanent or a fixed term contract?,Quý vị được tuyển dụng vĩnh viễn hay theo hợp đồng có thời hạn ấn định?
+Permanent ,Vĩnh viễn 
+Fixed term ,Thời hạn ấn định 
+Which of the following best describes your current status?,Tình trạng nào sau đây mô tả đúng nhất tình trạng hiện nay của quý vị?
+Unemployed (searching for employment) ,Thất nghiệp (đang tìm việc) 
+Unemployed (not currently searching for employment) ,Thất nghiệp (nhưng hiện đang không tìm việc) 
+Retired ,Nghỉ hưu 
+Student  ,Sinh viên  
+Stay-at-home parent ,Ở nhà nuôi con 
+Which of the following describes your combined family income before taxes?,Những con số nào sau đây mô tả lợi tức gia đình gộp chung trước thuế của quý vị?
+Nil or negative income,Không hoặc lợi tức âm
+"$1 to $199 per week (or $1 to $10,399 per year)",Từ 1 đô-la đến 199 đô-la mỗi tuần (hay từ 1 đô-la đến 10.399 đô-la mỗi năm)
+"$200 to $299 per week (or $10,400 to $15,599 per year)",Từ 200 đô-la đến 299 đô-la mỗi tuần (hay từ 10.400 đô-la đến 15.599 đô-la mỗi năm)
+"$300 to $399 per week (or $15,600 to $20,799 per year) ",Từ 300 đô-la đến 399 đô-la mỗi tuần (hay từ 15.600 đô-la đến 20.799 đô-la mỗi năm) 
+"$400 to $599 per week (or $20,800 to $31,199 per year) ",Từ 400 đô-la đến 599 đô-la mỗi tuần (hay từ 20.800 đô-la đến 31.199 đô-la mỗi năm) 
+"$600 to $799 per week (or $31,200 to $41,599 per year) ","Từ 600 đô-la đến 799 đô-la mỗi tuần (hay từ 31,.200 đô-la đến 41.599 đô-la mỗi năm) "
+"$800 to $999 dollars per week (or $41,600 to $51,999 per year)",Từ 800 đô-la đến 999 đô-la mỗi tuần (hay từ 41.600 đô-la đến 51.999 đô-la mỗi năm)
+"$1,000 to $1,249 per week (or $52,000 to $64,999 per year)",Từ 1.000 đô-la đến 1.249 đô-la mỗi tuần (hay từ 52.000 đô-la đến 64.999 đô-la mỗi năm)
+"$1,250 to $1,499 per week (or $65,000 to $77,999 per year) ",Từ 1.250 đô-la đến 1.499 đô-la mỗi tuần (hay từ 65.000 đô-la đến 77.999 đô-la mỗi năm) 
+"$1,500 to $1,999 per week (or $78,000 to $103,999 per year)",Từ 1.500 đô-la đến 1.999 đô-la mỗi tuần (hay từ 78.000 đô-la đến 103.999 đô-la mỗi năm)
+"$2,000 to $2,499 per week (or $104,000 to $129,999 per year) ",Từ 2.000 đô-la đến 2.499 đô-la mỗi tuần (hay từ 104.000 đô-la đến 129.999 đô-la mỗi năm) 
+"$2,500 to $2,999 per week (or $130,000 to $155,999 per year) ",Từ 2.500 đô-la đến 2.999 đô-la mỗi tuần (hay từ 130.000 đô-la đến 155.999 đô-la mỗi năm) 
+"$3,000 to $3,499 per week (or $156,000 to $181,999 per year) ",Từ 3.000 đô-la đến 3.499 đô-la mỗi tuần (hay từ 156.000 đô-la đến 181.999 đô-la mỗi năm) 
+"$3,500 to $3,999 per week (or $182,000 to $207,999 per year) ",Từ 3.500 đô-la đến 3.999 đô-la mỗi tuần (hay từ 182.000 đô-la đến 207.999 đô-la mỗi năm) 
+"$4,000 to $4,999 per week (or $208,000 to $259,999 per year) ",Từ 4.000 đô-la đến 4.999 đô-la mỗi tuần (hay từ 208.000 đô-la đến 259.999 đô-la mỗi năm) 
+"$5,000 or more per week (or $260,000 or more per year)",5.000 đô-la hoặc hơn mỗi tuần (hay 260.000 đô-la hoặc hơn mỗi năm)
+Australia Talks is a collaboration between the ABC and Vox Pop Labs. Data collected by Vox Pop Labs is used in accordance with this Privacy Statement ,Australia Talks là sự cộng tác giữa ABC và Vox Pop Labs. Dữ liệu do Vox Pop Labs thu thập được sử dụng tuân theo Bản Tuyên bố về Quyền Riêng tư này 
+Not at all a problem.,Hoàn toàn không là vấn đề gì
+Not much of a problem ,Không là vấn đề 
+Somewhat a problem ,Tương đối là vấn đề 
+Very much a problem ,Rất là vấn đề 
+Poor,Tồi tệ
+Fair,Trung bình
+Good,Tốt
+Very Good,Rất tốt
+Excellent,Tuyệt vời
+Let's get personal,Hãy cụ thể về cá nhân
+"First up, let's find out how your habits and personal experiences match up with the rest of Australia.","Trước tiên, hãy tìm hiểu xem các thói quen và trải nghiệm cá nhân của quý vị giống với của những người còn lại của Úc thế nào."
+What keeps you up at night?,Những gì khiến quý vị phiền muộn?
+We asked your opinion on some of the big challenges facing Australia as it heads into the year 2020. Now it's time to find out how your views compare with other Aussies.,Chúng tôi đã hỏi quan điểm của quý vị về một vài trong số các thách thức lớn mà nước Úc đang gặp phải khi tiến đến năm 2020. Giờ là lúc để tìm hiểu xem các quan điểm của quý vị là thế nào khi so sánh với những người Úc khác.
+What's got Australia talking?,Những gì đang khiến nước Úc lên tiếng?
+"It's easy to live in our own little bubble these days, and sometimes it can be hard to know where your views fit into the overall picture.","Ngày nay, thật dễ để sống xa vời thực tế, và đôi khi việc biết được các quan điểm của mình khớp vào chỗ nào trong bức tranh tổng thể, có thể là chuyện khó."
+How optimistic are we?,Chúng ta lạc quan ở mức độ nào?
+Let's take a look at how Australians are feeling about what the future might hold in store.,Hãy xem người Úc đang cảm thấy thế nào về những gì tương lai phía trước có thể mang đến.
+What would make you happier?,Những gì có thể làm cho quý vị hạnh phúc hơn?
+"The state of the world is clearly a worry for many Aussies, but closer to home here are some of the things many of us think would make us personally happier.","Tình trạng của thế giới rõ ràng là nỗi lo lắng đối với nhiều người Úc, nhưng gần hơn là đất nước của chúng ta, thì đây là một vài trong số những điều mà nhiều người trong chúng ta nghĩ là có thể làm cho cá nhân chúng ta hạnh phúc hơn. "
+Yes,Có
+No,Không
+Strongly disagree,Hoàn toàn không đồng ý
+Somewhat disagree,Tương đối không đồng ý 
+Neutral,Trung lập
+Somewhat agree,Tương đối đồng ý 
+Strongly agree,Hoàn toàn đồng ý
+Don't know ,Không biết
+Never,Không bao giờ
+Less than once a year,Ít hơn một lần mỗi năm
+At least once a year,Ít nhất một lần mỗi năm
+At least once a month,Ít nhất một lần mỗi tháng
+At least once a week,Ít nhất một lần mỗi tuần
+At least once a day,Ít nhất một lần mỗi ngày
+Prefer not to say ,Không muốn nói
+Very dissatisfied  ,Rất không hài lòng
+Somewhat dissatisfied  ,Tương đối không hài lòng
+Somewhat satisfied,Tương đối hài lòng
+Very satisfied,Rất hài lòng
+Much worse off,Bất lợi hơn nhiều
+Somewhat worse off  ,Tương đối bất lợi hơn 
+About the same,Tương tự như trước
+Somewhat better off,Tương đối thuận lợi hơn
+Much better off,Thuận lợi hơn nhiều
+Very pessimistic,Rất bi quan
+Somewhat pessimistic,Tương đối bi quan
+Moderately optimistic,Tương đối lạc quan
+Very optimistic,Rất lạc quan
+Don’t know,Không biết
+Nothing at all,Không chút nào
+Between $100 and $500,Trong khoảng $100 đến $500
+Between $500 and $1000,Trong khoảng $500 đến $1000
+Between $1000 and $2000,Trong khoảng $1000 đến $2000
+More than $2000,Trên $2000
+Not at all important,Không quan trọng chút nào 
+Very important,Rất quan trọng
+Not at all open,Không cởi mở chút nào
+Neutral,Trung lập
+Very open,Rất cởi mở
+Never,Không bao giờ
+Rarely,Hiếm khi
+Occasionally,Thỉnh thoảng
+Fairly often,Hơi thường xuyên
+Quite often,Tương đối thường xuyên
+Often,Thường xuyên
+Always,Luôn luôn
+More positive,Tích cực hơn
+More negative,Tiêu cực hơn
+Neither,Cả hai đều không
+Not at all Australian,Không hề Úc chút nào
+Very Australian,Rất Úc
+Not at all concerned  ,Không lo ngại chút nào
+Not too concerned  ,Không quá lo ngại
+Somewhat concerned ,Tương đối lo ngại
+Very concerned  ,Rất lo ngại
+Not at all confident  ,Không tin tưởng chút nào
+Not very confident  ,Không tin tưởng lắm
+Somewhat confident  ,Tương đối tin tưởng
+Very confident  ,Rất tin tưởng
+You're pretty neighbourly,Quý vị khá hòa thuận với hàng xóm láng giềng
+I know many of my neighbours by name.,Tôi biết tên nhiều người hàng xóm của mình.
+You're less familiar with your neighbours than most Aussies,Quý vị ít quen thuộc với những người hàng xóm của mình hơn so với hầu hết người Úc
+I know many of my neighbours by name.,Tôi biết tên nhiều người hàng xóm của mình.
+Aussies are a pretty neighbourly bunch,Người Úc là những người khá hòa thuận với hàng xóm láng giềng
+I know many of my neighbours by name.,Tôi biết tên nhiều người hàng xóm của mình.
+You're more of a people person — so are 51% of Aussies,Quý vị là người ưa gặp gỡ tiếp xúc với mọi người hơn - 51% người Úc cũng vậy
+But nearly one in three people would rather be hanging out with their furry friends. (Can you really blame them?),Nhưng gần một phần ba mọi người thà chơi với những người bạn là thú cưng của mình còn hơn. (Quý vị có thể thật sự chỉ trích họ được không?)
+I would rather spend time with pets than people.,Tôi thà dành thời gian với thú cưng hơn là với người.
+"Like nearly 1 in 3 Aussies, you'd rather hang with pets than people","Giống như gần một phần ba người Úc, quý vị thà chơi với thú cưng hơn là với người"
+"A slim majority of Australians may prefer to spend time with other humans, but you're far from alone in feeling that sometimes puppers and moggies are better company.","Có một đa số mong manh người Úc có thể thích dành thời gian với con người, nhưng không chỉ mình quý vị cảm thấy là đôi khi chó mèo lại là bầu bạn tốt hơn."
+I would rather spend time with pets than people.,Tôi thà dành thời gian với thú cưng hơn là với người.
+For nearly 1 in 3 Aussies it's pets over people,"Đối với gần một phần ba người Úc, thú cưng còn hơn người"
+"Most Australians choose people over pets, but there are still plenty who say they'd rather hang out with their furry friends.","Hầu hết người Úc chọn người hơn thú cưng, nhưng vẫn có nhiều người nói là họ thà chơi với những người bạn là thú cưng của mình còn hơn."
+I would rather spend time with pets than people.,Tôi thà dành thời gian với thú cưng hơn là với người.
+Most people your age are also seeing their friends weekly,Hầu hết mọi người ở tuổi quý vị còn gặp bạn bè của mình mỗi tuần
+Proportion of Australians who see their friends at least once a week.,Có một tỉ lệ người Úc gặp bạn bè của mình ít nhất một lần mỗi tuần. 
+You're seeing friends at least once a week — that's more than some your age,Quý vị gặp bạn bè ít nhất một lần mỗi tuần – vậy là hơn một số người khác ở tuổi của quý vị
+"Time spent with friends can take a bit of a hit when people are in their 30s, and doesn't really bounce back until they're in their 60s.","Thời gian với bạn bè có thể đạt mức cao nhất khi người ta ở tuổi 30, và không thật sự trở lại được như vậy cho mãi tới khi người ta ở tuổi 60."
+Proportion of Australians who see their friends at least once a week.,Một tỉ lệ người Úc gặp bạn bè của mình ít nhất một lần mỗi tuần. 
+"Like most Aussies over 65, you're seeing friends at least once a week","Giống như hầu hết người Úc trên 65 tuổi, quý vị gặp bạn bè ít nhất một lần mỗi tuần"
+"Aussies aged over 65 are just social as people in their 20s! It's like the summer of '69, or '79 ... all over again.","Những người Úc trên 65 tuổi cũng giao du xã hội như những người ở tuổi 20 vậy! Giống như mùa hè thời năm '69, hay '79 ... lại lặp lại."
+Proportion of Australians who see their friends at least once a week.,Có một tỉ lệ người Úc gặp bạn bè của mình ít nhất một lần mỗi tuần. 
+You're among the 37% of Aussies who see friends less than once a week,Quý vị trong số 37% người gặp bạn bè ít hơn một lần mỗi tuần
+"It can be hard to make time for friends, particularly after we hit our thirties. But socialising tends to pick up again as we get older.","Có thể khó có thời gian cho bạn bè, đặc biệt sau khi chúng ta đến độ tuổi ba mươi của mình. Nhưng việc giao du với bạn bè có xu hương tăng trở lại khi chúng ta trở nên lớn tuổi hơn."
+Proportion of Australians who see their friends at least once a week.,Có một tỉ lệ người Úc gặp bạn bè của mình ít nhất một lần mỗi tuần. 
+Time spent with friends varies across our lifetimes,Thời gian cùng với bạn bè thay đổi suốt theo tuổi tác trong cuộc đời
+It tends to dip when we hit middle-age but picks up again as we get older ⁠— people over 65 are just as social as those in their 20s!,Thời gian với bạn bè giảm xuống khi chúng ta đến tuổi trung niên nhưng tăng trở lại khi chúng ta trở nên lớn tuổi hơn ⁠— những người trên 65 tuổi cũng giao du xã hội như những người ở tuổi 20 vậy!
+Proportion of Australians who see their friends at least once a week.,Có một tỉ lệ người Úc gặp bạn bè của mình ít nhất một lần mỗi tuần. 
+"Like most women, you don't watch porn","Như hầu hết các phụ nữ, quý vị không xem phim ảnh khiêu dâm"
+"Men's porn habits look very different, with their most common response being they watch porn at least once a week.","Các thói quen của nam giới về phim ảnh khiêu dâm xem ra rất khác, với câu trả lời thường gặp nhất của họ là xem ít nhất một lần mỗi tuần."
+"In general, how often would you say you watch pornography?","Thông thường, quý vị có thể nói mình xem phim ảnh khiêu dâm thường xuyên ở mức độ nào?"
+"Unlike most men, you don't watch porn","Không giống hầu hết nam giới, quý vị không xem phim ảnh khiêu dâm"
+"In general, how often would you say you watch pornography?","Thông thường, quý vị có thể nói mình xem phim ảnh khiêu dâm thường xuyên ở mức độ nào?"
+You watch pornography less often than 24% of women,Quý vị xem phim ảnh khiêu dâm ít thường xuyên hơn 24% phụ nữ khác
+"While a majority of women say they never watch porn, men are most likely to watch at least once a week.","Trong khi hầu hế phụ nữ nói là họ không bao giờ xem phim ảnh khiêu dâm, thì nhiều khả năng nam giới lại xem ít nhất một lần mỗi tuần."
+"In general, how often would you say you watch pornography?","Thông thường, quý vị có thể nói mình xem phim ảnh khiêu dâm thường xuyên ở mức độ nào?"
+You watch porn more often than [[x]]% of Australian women,Quý vị xem phim ảnh khiêu dâm thường xuyên hơn [[x]]% phụ nữ Úc khác
+"Men's porn habits look very different from women's. While a majority of women say they never watch porn, men are most likely to watch at least once a week.","Các thói quen của nam giới về phim ảnh khiêu dâm xem ra rất khác với của nữ giới. Trong khi hầu hế phụ nữ nói là họ không bao giờ xem phim ảnh khiêu dâm, thì nhiều khả năng nam giới lại xem ít nhất một lần mỗi tuần."
+"In general, how often would you say you watch pornography?","Thông thường, quý vị có thể nói mình xem phim ảnh khiêu dâm thường xuyên ở mức độ nào?"
+You watch porn less often than [[x]]% of Australian men,Quý vị xem phim ảnh khiêu dâm ít thường xuyên hơn [[x]]% nam giới Úc
+"The porn habits of men and women are very different. While a majority of women say they never watch porn, men are most likely to watch at least once a week.","Các thói quen của nam giới và phụ nữ về phim ảnh khiêu dâm là rất khác nhau. Trong khi hầu hết phụ nữ nói là họ không bao giờ xem phim ảnh khiêu dâm, thì nhiều khả năng nam giới lại xem ít nhất một lần mỗi tuần."
+"In general, how often would you say you watch pornography?","Thông thường, quý vị có thể nói mình xem phim ảnh khiêu dâm thường xuyên ở mức độ nào?"
+You watch porn more often than [[x]]% of Australian men,Quý vị xem phim ảnh khiêu dâm thường xuyên hơn [[x]]% nam giới Úc
+"The porn habits of men and women are very different. While a majority of women say they never watch porn, men are most likely to watch at least once a week.","Các thói quen của nam giới và phụ nữ về phim ảnh khiêu dâm là rất khác nhau. Trong khi hầu hết phụ nữ nói là họ không bao giờ xem phim ảnh khiêu dâm, thì nhiều khả năng nam giới lại xem ít nhất một lần mỗi tuần."
+"In general, how often would you say you watch pornography?","Thông thường, quý vị có thể nói mình xem phim ảnh khiêu dâm thường xuyên ở mức độ nào?"
+Men are twice as likely as women to watch pornography,Khả năng nam giới xem phim ảnh khiêu dâm là cao gấp đôi so với phụ nữ
+"They're also twice as likely as women to choose 'prefer not to say', as you did for this question.","Khả năng họ chọn trả lời 'không muốn nói' cũng cao gấp đôi so với phụ nữ, khi quý vị tìm hiểu cho câu hỏi này."
+"In general, how often would you say you watch pornography?","Thông thường, quý vị có thể nói mình xem phim ảnh khiêu dâm thường xuyên ở mức độ nào?"
+Men are twice as likely as women to watch pornography,Khả năng nam giới xem phim ảnh khiêu dâm là cao gấp đôi so với phụ nữ
+"The porn habits of men and women are very different. While a majority of women say they never watch porn, men are most likely to watch at least once a week.","Các thói quen của nam giới và phụ nữ về phim ảnh khiêu dâm là rất khác nhau. Trong khi hầu hết phụ nữ nói là họ không bao giờ xem phim ảnh khiêu dâm, thì nhiều khả năng nam giới lại xem ít nhất một lần mỗi tuần."
+"In general, how often would you say you watch pornography?","Thông thường, quý vị có thể nói mình xem phim ảnh khiêu dâm thường xuyên ở mức độ nào?"
+You're having more sex than [[x]]% of people your age,Quý vị đang quan hệ tình dục nhiều hơn [[x]]% người khác ở tuổi quý vị
+"In general, how often would you say you have sex?","Thông thường, quý vị có thể nói mình quan hệ tình dục thường xuyên ở mức độ nào?"
+"They might send more nude photos, but young people are having less sex than almost everyone else.","Những người trẻ có thể gửi nhiều hình khỏa thân hơn, nhưng họ đang quan hệ tình dục ít hơn so với hầu hết mọi người khác."
+You're having less sex than [[x]]% of people your age,Quý vị đang quan hệ tình dục ít hơn [[x]]% người khác ở tuổi quý vị
+"In general, how often would you say you have sex?","Thông thường, quý vị có thể nói mình quan hệ tình dục thường xuyên ở mức độ nào?"
+"They might send more nude photos, but young people are having less sex than almost everyone else.","Những người trẻ có thể gửi nhiều hình khỏa thân hơn, nhưng họ đang quan hệ ít hơn so với hầu hết mọi người khác."
+You are among 16% of people who prefer to remain discreet about their sex lives,Quý vị trong số 16% những người thích kín đáo về đời sống tình dục của mình
+"In general, how often would you say you have sex?","Thông thường, quý vị có thể nói mình quan hệ tình dục thường xuyên ở mức độ nào?"
+"They might send more nude photos, but overall young people are having less sex than almost everyone else.","Những người trẻ có thể gửi nhiều hình khỏa thân hơn, nhưng về tổng thể, họ đang quan hệ tình dục ít hơn so với hầu hết mọi người khác."
+You're in the stark majority of Aussies who say they never share naked selfies,Quý vị trong số phần đông người Úc nói là họ không bao giờ chia sẻ hình khỏa thân của mình
+People in their 20s and 30s are the most open to sharing nudes.,Những người ở độ tuổi 20 và 30 là cởi mở nhất về việc chia sẻ hình khỏa thân
+I would never send someone else a nude picture of myself online.,Tôi có lẽ không bao giờ gửi hình khoả thân của mình cho người khác trên mạng.
+"You don't mind sending a naked selfie, but the stark majority of Australians wouldn't go there","Quý vị không e ngại việc gửi hình khỏa thân của mình, nhưng phần đông người Úc có lẽ không làm thế"
+Those who are open to sharing nudes are most likely to be in their 20s and 30s.,"Những người cởi mở về việc chia sẻ hình khỏa thân, thường là những người trong độ tuổi 20 và 30."
+I would never send someone else a nude picture of myself online.,Tôi có lẽ không bao giờ gửi hình khoả thân của mình cho người khác trên mạng.
+A stark majority of Aussies aren't keen on sending naked selfies,Phần đông người Úc không tha thiết việc gửi hình khỏa thân của mình
+Those who are open to sharing nudes are most likely to be in their 20s and 30s.,"Những người cởi mở về việc chia sẻ hình khỏa thân, thường là những người trong độ tuổi 20 và 30."
+I would never send someone else a nude picture of myself online.,Tôi có lẽ không bao giờ gửi hình khoả thân của mình cho người khác trên mạng.
+Social media affects your self-esteem more than it does most people your age,Truyền thông xã hội ảnh hưởng đến lòng tự trọng của quý vị nhiều hơn so với hầu hết những người khác ở tuổi quý vị 
+"The younger you are, the more likely you are to feel worse after spending time scrolling through your social media feeds.","Càng trẻ, quý vị càng có nhiều khả năng cảm thấy chán ngán hơn sau khi dành thời gian xem các nội dung đăng của mình trên mạng truyền thông xã hội."
+Looking at what other people post on social media often makes me feel worse about myself.,Xem những gì người khác đăng trên mạng xã hội thường làm tôi cảm thấy tệ hơn về bản thân.
+You are among the [[x]]% of Australians your age who don't feel that social media affects their self-esteem,Quý vị trong số [[x]]% người Úc ở tuổi quý vị không cảm thấy là truyền thông xã hội ảnh hưởng đến lòng tự trọng của mình
+"The younger you are, the more likely you are to feel worse after spending time scrolling through your social media feeds.","Càng trẻ, quý vị càng có nhiều khả năng cảm thấy chán ngán hơn sau khi dành thời gian xem các nội dung đăng của mình trên mạng truyền thông xã hội."
+Looking at what other people post on social media often makes me feel worse about myself.,Xem những gì người khác đăng trên mạng xã hội thường làm tôi cảm thấy tệ hơn về bản thân.
+Social media is affecting young Aussies' self-esteem,Truyền thông xã hội đang ảnh hưởng đến lòng tự trọng của những người Úc trẻ
+"The younger you are, the more likely you are to feel worse after spending time scrolling through your social media feeds.","Càng trẻ, quý vị càng có nhiều khả năng cảm thấy chán ngán hơn sau khi dành thời gian xem các nội dung đăng của mình trên mạng truyền thông xã hội."
+Looking at what other people post on social media often makes me feel worse about myself.,Xem những gì người khác đăng trên mạng xã hội thường làm tôi cảm thấy tệ hơn về bản thân.
+How concerned are you that you might lose your job within the next 12 months?,Quý vị cảm thấy quan ngại ở mức độ nào về việc có thể bị mất việc trong vòng 12 tháng tới?
+Looking at what other people post on social media often makes me feel worse about myself.,Xem những gì người khác đăng trên mạng xã hội thường làm tôi cảm thấy tệ hơn về bản thân.
+I would never send someone else a nude picture of myself online.,Tôi có lẽ không bao giờ gửi hình khoả thân của mình cho người khác trên mạng.
+"In general, how often would you say you...?","Nói chung, cảm giác của quý vị ra sao, sau khi...?"
+spend time with friends?,Dành thời gian với bạn
+watch pornography?,Xem phim ảnh khiêu dâm
+Have sex,Quan hệ tình dục
+I would rather spend time with pets than people.,Tôi thà dành thời gian với thú cưng hơn là với người.
+I know many of my neighbours by name.,Tôi biết tên nhiều người hàng xóm của mình.
+You're more concerned about your job security than the average Australian employee,Quý vị đang quan ngại về sự bảo đảm của công việc của mình nhiều hơn so với một nhân viên Úc trung bình
+How concerned are you that you might lose your job within the next 12 months?,Quý vị cảm thấy quan ngại ở mức độ nào về việc có thể bị mất việc trong vòng 12 tháng tới?
+You're less concerned about your job security than the average Australian employee,Quý vị ít quan ngại về sự bảo đảm của công việc của mình hơn so với một nhân viên Úc trung bình
+"27% of Australian employees are worried about losing their job, with people in their 40s more likely to be concerned than any other age group. Low-income earners and immigrants who've arrived in Australia within the past 10 years are the groups who have the lowest levels of job security.","27% nhân viên Úc quan ngại về việc mất việc làm, với những người ở độ tuổi 40 có nhiều khả năng trở nên quan ngại hơn so với bất kỳ nhóm tuổi nào khác. Những người có lợi tức thấp và người di dân đến Úc trong vòng 10 năm qua là nhóm có mức độ thấp nhất về sự bảo đảm của công việc."
+How concerned are you that you might lose your job within the next 12 months?,Quý vị cảm thấy quan ngại ở mức độ nào về việc có thể bị mất việc trong vòng 12 tháng tới?
+Almost 1 in 3 employees are worried about losing their job,Gần một phần ba nhân viên lo lắng về việc mất việc làm
+How concerned are you that you might lose your job within the next 12 months?,Quý vị cảm thấy quan ngại ở mức độ nào về việc có thể bị mất việc trong vòng 12 tháng tới?
+Australia is the best country in the world in which to live.,Úc là đất nước tốt đẹp nhất trên thế giới để sống.
+Is Australia the best place in the world to live? You and [[x]]% of people think so,Úc có phải là nơi tốt đẹp nhất trên thế giới để sống không? Quý vị và [[x]]% mọi người nghĩ vậy
+"A majority of Australians agree with you that it's the world's best spot, but younger people are a lot less certain about it than older generations.","Đa phần người Úc đồng ý với quý vị rằng đó là nơi tốt đẹp nhất trên thế giới, nhưng những người trẻ hơn ít quả quyết hơn về điều này, so với các thế hệ lớn tuổi hơn."
+Australia is the best country in the world in which to live.,Úc là đất nước tốt đẹp nhất trên thế giới để sống.
+You are among the [[X]]% of Australians who think there may be better countries in the world than Australia in which to live,"Quý vị trong số [[X]]% người Úc nghĩ rằng trên thế giới có thể có các đất nước tốt đẹp hơn nước Úc, để sống"
+"Overall, nearly three-quarters of Aussies disagree with you. And the older someone is, the more likely they are to back Australia as the world's best spot to live.","Về tổng thể, gần ba phần tư người Úc không đồng ý với quý vị. Và người càng lớn tuổi, thì càng có khả năng đồng ý rằng Úc là nơi tốt đẹp nhất trên thế giới để sống."
+Australia is the best country in the world in which to live.,Úc là đất nước tốt đẹp nhất trên thế giới để sống.
+Is Australia the best place in the world to live? You're among 17% who aren't sure,Úc có phải là nơi tốt đẹp nhất trên thế giới để sống không? Quý vị trong số 17% không quả quyết về điều này
+"Overall, nearly three-quarters of Aussies think it's the best spot in the world to live, but younger people are a lot less certain about it than older generations.","Về tổng thể, gần ba phần tư người Úc nghĩ rằng Úc là nơi tốt đẹp nhất trên thế giới, nhưng những người trẻ hơn ít quả quyết hơn về điều này, so với các thế hệ lớn tuổi hơn."
+Australia is the best country in the world in which to live.,Úc là đất nước tốt đẹp nhất trên thế giới để sống.
+How satisfied or dissatisfied are you with the way things are going overall in Australia today?,Quý vị hài lòng hay không hài lòng ở mức độ nào về tình hình tổng thể đang diễn ra tại Úc hiện nay?
+You're among 4% of people who are very satisfied with the way things are going in Australia in 2019,Quý vị trong số 4% mọi người rất hài lòng về tình hình đang diễn ra tại Úc trong năm 2019
+How satisfied or dissatisfied are you with the way things are going overall in Australia today?,Quý vị hài lòng hay không hài lòng ở mức độ nào về tình hình tổng thể đang diễn ra tại Úc hiện nay?
+You're among 39% of people who are somewhat satisfied with the way things are going in Australia in 2019,Quý vị trong số 39% mọi người phần nào hài lòng về tình hình đang diễn ra tại Úc trong năm 2019
+How satisfied or dissatisfied are you with the way things are going overall in Australia today?,Quý vị hài lòng hay không hài lòng ở mức độ nào về tình hình tổng thể đang diễn ra tại Úc hiện nay?
+You're among 40% of people who are somewhat dissatisfied with the way things are going in Australia in 2019,Quý vị trong số 40% mọi người phần nào không hài lòng về tình hình đang diễn ra tại Úc trong năm 2019
+"Overall, 57% of Australians are dissatisfied with the direction of the country. There's a clear division along political lines, with Coalition voters the most satisfied and Labor and Greens voters the least. Income is also a factor: it's only among our top earners that a majority of people express satisfaction.","Về tổng thể, 57% người Úc không hài lòng về đường hướng của đất nước này. Có sự chia rẽ rõ ràng dọc theo đường lối chính trị, với những người bỏ phiếu cho Liên Đảng là hài lòng nhất và những người bỏ phiếu cho Đảng Lao động và Đảng Xanh là ít hài lòng nhất. Lợi tức cũng là một yếu tố: những người có lợi tức cao nhất của chúng ta là phần đông những người bày tỏ sự hài lòng."
+How satisfied or dissatisfied are you with the way things are going overall in Australia today?,Quý vị hài lòng hay không hài lòng ở mức độ nào về tình hình tổng thể đang diễn ra tại Úc hiện nay?
+You're among 17% of people who are very dissatisfied with the way things are going in Australia in 2019,Quý vị trong số 17% mọi người rất không hài lòng về tình hình đang diễn ra tại Úc trong năm 2019
+How satisfied or dissatisfied are you with the way things are going overall in Australia today?,Quý vị hài lòng hay không hài lòng ở mức độ nào về tình hình tổng thể đang diễn ra tại Úc hiện nay?
+The gap in wealth between rich and poor Australians is too big.,Khoảng cách về của cải giữa những người Úc giàu và người Úc nghèo là quá lớn.
+76% of Australians agree with you that the gap between rich and poor is too large,76% người Úc đồng ý với quý vị rằng khoảng cách về của cải giữa người giàu và người nghèo là quá lớn 
+"Men are nearly twice as likely to disagree with you as women, while older Australians and Coalition voters are the groups most likely to disagree overall.","Nam giới có khả năng đồng ý với quý vị ở mức độ cao gần gấp đôi so với phụ nữ, trong khi những người Úc lớn tuổi hơn và những người bỏ phiếu cho Liên Đảng về tổng thể là nhóm có nhiều khả năng không đồng ý nhất. "
+The gap in wealth between rich and poor Australians is too big.,Khoảng cách về của cải giữa những người Úc giàu và người Úc nghèo là quá lớn.
+"Even among the highest-earning Australians, only 1 in 5 don't see inequality as an issue for the country.","Ngay cả trong số những người Úc có lợi tức cao nhất, thì chỉ một phần năm không thấy sự bất bình đẳng là một vấn đề đối với đất nước này."
+You're in a small minority of Australians who don't think the gap between rich and poor is too large,Quý vị trong thiểu số nhỏ người Úc không nghĩ là khoảng cách giữa người giàu và người nghèo là quá lớn
+"Men are nearly twice as likely to agree with you as women, while older Australians and Coalition voters are the groups most likely to agree with you on this one overall.","Nam giới có nhiều khả năng đồng ý với quý vị ở mức độ cao gần gấp đôi so với phụ nữ, trong khi những người Úc lớn tuổi hơn và những người bỏ phiếu cho Liên Đảng về tổng thể là nhóm có nhiều khả năng đồng ý nhất với quý vị về điều này. "
+The gap in wealth between rich and poor Australians is too big.,Khoảng ccách về của cải giữa những người Úc giàu và người Úc nghèo là quá lớn.
+"Even among the highest-earning Australians, only 1 in 5 don't see inequality as an issue for the country.","Ngay cả trong số những người Úc có lợi tức cao nhất, thì chỉ một phần năm không thấy sự bất bình đẳng là một vấn đề đối với đất nước này."
+Most Australians think the gap between rich and poor is too large,Hầu hết người Úc nghĩ là khoảnng cách giữa người giàu và người nghèo là quá lớn
+"But like you, just more than 1 in 10 people aren't sure.","Nhưng giống như quý vị, chỉ hơn một phần mười mọi người là không quả quyết."
+The gap in wealth between rich and poor Australians is too big.,Khoảng cách về của cải giữa những người Úc giàu và người Úc nghèo là quá lớn.
+"Even among the highest-earning Australians, only 1 in 5 don't see inequality as an issue for the country.","Ngay cả trong số những người Úc có lợi tức cao nhất, thì chỉ một phần năm không thấy sự bất bình đẳng là một vấn đề đối với đất nước này."
+"In Australia, anyone who works hard enough can get out of poverty.","Ở Úc, bất kỳ ai làm việc chăm chỉ đều có thể thoát khỏi cảnh nghèo khó."
+You are among the 40% of Australians who don't think hard work is a sure way out of poverty,Quý vị trong số 40% người Úc không nghĩ là làm việc chăm chỉ là cách chắc chắn để thoát khỏi cảnh nghèo khó
+"The majority of Australians think the gap between rich and poor is too big, but the country is divided on whether hard work can change anyone's fortunes.","Đa phần người Úc nghĩ là khoảng cách giữa người giàu và người nghèo là quá lớn, nhưng đất nước này bị chia rẽ bởi việc liệu làm việc chăm chỉ có thể làm thay đổi số phận của bất kỳ ai không."
+"In Australia, anyone who works hard enough can get out of poverty.","Ở Úc, bất kỳ ai làm việc chăm chỉ đều có thể thoát khỏi cảnh nghèo khó. "
+Half of Australians agree with you that hard work can get anyone out of poverty,Một nửa người Úc đồng ý với quý vị là làm việc chăm chỉ thì bất kỳ ai cũng có thể thoát khỏi cảnh nghèo khó
+"The majority of Australians think the gap between rich and poor is too big, but the country is divided on whether hard work can change anyone's fortunes.","Đa phần người Úc nghĩ là khoảng cách giữa người giàu và người nghèo là quá lớn, nhưng đất nước này bị chia rẽ bởi việc liệu làm việc chăm chỉ có thể làm thay đổi số phận của bất kỳ ai không."
+"In Australia, anyone who works hard enough can get out of poverty.","Ở Úc, bất kỳ ai làm việc chăm chỉ đều có thể thoát khỏi cảnh nghèo khó. "
+Australians are divided on whether hard work can change anyone's fortunes,Người Úc bị chia rẽ bởi việc liệu làm việc chăm chỉ có thể làm thay đổi số phận của bất kỳ ai không
+"In Australia, anyone who works hard enough can get out of poverty.","Ở Úc, bất kỳ ai làm việc chăm chỉ đều có thể thoát khỏi cảnh nghèo khó. "
+Australians need to take more responsibility for their own lives instead of relying on the government to fix everything for them.,Người Úc cần phải có trách nhiệm nhiều hơn về cuộc sống của mình thay vì trông nhờ Chính phủ sắp xếp mọi thứ cho mình.
+You are among the [[X]]% of Australians your age who think people need to take more responsibility for their own lives,Quý vị trong số [[X]]% người Úc ở tuổi quý vị nghĩ là mọi người cần phải có trách nhiệm nhiều hơn về cuộc sống của mình
+The view that more people need to step up and take responsibility for themselves is most strongly held among older Australians.,Quan điểm là thêm nhiều người hơn cần tích cực và có trách nhiệm với bản thân mình là quan điểm được tin vào nhiều nhất trong số những người Úc lớn tuổi hơn.
+Australians need to take more responsibility for their own lives instead of relying on the government to fix everything for them.,Người Úc cần phải có trách nhiệm nhiều hơn về cuộc sống của mình thay vì trông nhờ Chính phủ sắp xếp mọi thứ cho mình.
+You are among the [[X]]% of Australians your age who don't think people need to take more responsibility for their own lives.,Quý vị trong số [[X]]% người Úc ở tuổi quý vị không nghĩ là mọi người cần phải có trách nhiệm nhiều hơn về cuộc sống của mình.
+The view that more people need to step up and take responsibility for themselves is most strongly held among older Australians.,Quan điểm là thêm nhiều người hơn cần tích cực và có trách nhiệm với bản thân mình là quan điểm được tin vào nhiều nhất trong số những người Úc lớn tuổi hơn.
+Australians need to take more responsibility for their own lives instead of relying on the government to fix everything for them.,Người Úc cần phải có trách nhiệm nhiều hơn về cuộc sống của mình thay vì trông nhờ Chính phủ sắp xếp mọi thứ cho mình.
+2 in 3 people think Australians need to take more personal responsibility for their own lives,Hai phần ba mọi người nghĩ là người ÚC cần có trách nhiệm nhiều hơn về cuộc sống của mình
+The view that more people need to step up and take responsibility for themselves is most strongly held among older Australians.,Quan điểm là thêm nhiều người hơn cần tích cực và có trách nhiệm với bản thân mình là quan điểm được tin vào nhất trong số những người Úc lớn tuổi hơn.
+Australians need to take more responsibility for their own lives instead of relying on the government to fix everything for them.,Người Úc cần phải có trách nhiệm nhiều hơn về cuộc sống của mình thay vì trông nhờ Chính phủ sắp xếp mọi thứ cho mình.
+People who live outside Australia's big cities get a raw deal.,Những người sống bên ngoài các thành phố lớn của Úc bị đối xử không công bằng.
+"2 in 3 Australians think that people who live outside our big cities get a raw deal, and you're with this clear majority","Hai phần ba người Úc nghĩ là những người sống bên ngoài các thành phố lớn của chúng ta bị đối xử không công bằng, và quý vị trong đa số rõ ràng này"
+"The further you shift away from the CBDs of our big cities, the more likely people are to agree that those in regional and rural Australia have it tougher. But even inner-city folk are likely to agree.","Người ta càng ra xa khỏi CBD của các thành phố lớn của chúng ta, thì càng có nhiều khả năng đồng ý là những người ở nước Úc miền quê và xa xôi gặp nhiều khó khăn hơn. Nhưng ngay cả người dân nội đô cũng có khả năng đồng ý."
+People who live outside Australia's big cities get a raw deal.,Những người sống bên ngoài các thành phố lớn của Úc bị đối xử không công bằng.
+Only 1 in 3 Australians agree with you that regional and rural Australians are treated fairly,Chỉ một phần ba người Úc đồng ý với quý vị là người dân Úc miền quê và xa xôi bị đối xử bất công
+"The further you shift away from the CBDs of our big cities, the more likely people are to agree that those in regional and rural Australia have it tougher. But even inner-city folk are likely to agree.","Người ta càng ra xa khỏi CBD của các thành phố lớn của chúng ta, thì càng có nhiều khả năng đồng ý là những người ở nước Úc miền quê và xa xôi gặp nhiều khó khăn hơn. Nhưng ngay cả người dân nội đô cũng có khả năng đồng ý."
+People who live outside Australia's big cities get a raw deal.,Những người sống bên ngoài các thành phố lớn của Úc bị đối xử không công bằng.
+2 in 3 Australians think that people who live outside our big cities get a raw deal,Hai phần ba người Úc nghĩ là những người sống bên ngoài các thành phố lớn của chúng ta bị đối xử không công bằng
+"The further you shift away from the CBDs of our big cities, the more likely people are to agree that those in regional and rural Australia have it tougher. But even inner-city folk are likely to agree.","Người ta càng ra xa khỏi CBD của các thành phố lớn của chúng ta, thì càng có nhiều khả năng đồng ý là những người ở nước Úc miền quê và xa xôi có nhiều khó khăn hơn. Nhưng ngay cả người dân nội đô cũng có khả năng đồng ý."
+People who live outside Australia's big cities get a raw deal.,Những người sống bên ngoài các thành phố lớn của Úc bị đối xử không công bằng.
+Political correctness has gone too far in Australia.,Sự đúng đắn về chính trị đã đi quá xa ở Úc.
+"Like 68% of Australians, you think political correctness has gone too far","Cũng như 68% người Úc, quý vị nghĩ là sự đúng đắn về chính trị đã đi quá xa"
+"People's views on political correctness tend to be tightly linked to who they vote for, with Coalition and One Nation voters particularly likely to agree it has gone too far.","Quan điểm của mọi người về sự đúng đắn về chính trị có xu thế liên quan chặt chẽ với việc người ta bỏ phiếu cho ai, với những người bỏ phiếu cho Liên Đảng và Đảng Một Quốc gia đặc biệt có khả năng đồng ý rằng nó đã đi quá xa."
+Political correctness has gone too far in Australia.,Sự đúng đắn về chính trị đã đi quá xa ở Úc.
+"2 in 3 Australians think political correctness has gone too far, but you're not one of them","Hai phần ba người Úc nghĩ là sự đúng đắn về chính trị đã đi quá xa, nhưng quý vị không phải là một trong số họ"
+"People's views on political correctness tend to be tightly linked to who they vote for, with Coalition and One Nation voters particularly likely to agree it has gone too far.","Quan điểm của mọi người về sự đúng đắn về chính trị có xu thế liên quan chặt chẽ với việc người ta bỏ phiếu cho ai, với những người bỏ phiếu cho Liên Đảng và Đảng Một Quốc gia đặc biệt có khả năng đồng ý rằng nó đã đi quá xa."
+Political correctness has gone too far in Australia.,Sự đúng đắn về chính trị đã đi quá xa ở Úc.
+68% of Australians think political correctness has gone too far,"68% người Úc, quý vị nghĩ là sự đúng đắn về chính trị đã đi quá xa"
+"People's views on political correctness tend to be tightly linked to who they vote for, with Coalition and One Nation voters particularly likely to agree it has gone too far.","Quan điểm của mọi người về sự đúng đắn về chính trị có xu thế liên quan chặt chẽ với việc người ta bỏ phiếu cho ai, với những người bỏ phiếu cho Liên Đảng và Đảng Một Quốc gia đặc biệt có khả năng đồng ý rằng nó đã đi quá xa."
+Political correctness has gone too far in Australia.,Sự đúng đắn về chính trị đã đi quá xa ở Úc.
+There is still a lot of racism in Australia these days.,Hiện nay ở Úc vẫn còn nhiều hiện tượng phân biệt chủng tộc.
+You're with 3 in 4 Australians who think there's a lot of racism in Australia,Quý vị trong số ba phần tư người Úc nghĩ là tại Úc còn nhiều hiện tượng phân biệt chủng tộc
+A clear majority of people believe racism remains widespread in Australia in 2019. ,Một đa số rõ ràng trong mọi người cho là hiện tượng phân biệt chủng tộc vẫn tràn lan tại Úc trong năm 2019. 
+,
+"Those most likely to disagree with you are men, people who live in rural Australia and those over 75. But even in those groups, only one in five people don't think racism is prevalent.","Những người có khả năng không đồng ý với quý vị nhất là, nam giới, những người sống ở nước Úc miền quê và những người trên 75 tuổi. Nhưng ngay cả trong các nhóm này, chỉ một phần năm mọi người không nghĩ rằng hiện tượng phân biệt chủng tộc là tràn lan."
+There is still a lot of racism in Australia these days.,Hiện nay ở Úc vẫn còn nhiều hiện tượng phân biệt chủng tộc.
+You're among 15% of Australians who don't think there's a lot of racism in Australia,Quý vị trong số 15% người Úc không nghĩ là tại Úc còn nhiều hiện tượng phân biệt chủng tộc 
+There is still a lot of racism in Australia these days.,Hiện nay ở Úc vẫn còn nhiều hiện tượng phân biệt chủng tộc.
+"You're not too sure whether there's a lot of racism in Australia, but 3 in 4 Australians say there is","Quý vị không biết chắc chắn liệu tại Úc có nhiều hiện tượng phân biệt chủng tộc không, nhưng ba phần tư người Úc nói là còn nhiều"
+"Those most likely to say there's not a lot of racism are men, people who live in rural Australia and those over 75. But even in those groups, only one in five people don't think racism is widespread.","Những người có nhiều khả năng nhất trong việc nói rằng không có nhiều hiện tượng phân biệt chủng tốc là nam giới, những người sống ở nước Úc miền quê và những người trên 75 tuổi. Nhưng ngay cả trong các nhóm này, chỉ một phần năm mọi người không nghĩ rằng hiện tượng phân biệt chủng tộc là tràn lan."
+There is still a lot of racism in Australia these days.,Hiện nay ở Úc vẫn còn nhiều hiện tượng phân biệt chủng tộc.
+White people have an unfair advantage in Australia.,Người da trắng có một lợi thế bất công ở Úc.
+You're among 56% of Australians who think white people have an unfair advantage in Australia,Quý vị trong số 56% người Úc nghĩ là người da trắng có một lợi thế bất công ở Úc
+That figure climbs to 65% among Australians who have non-European backgrounds. Women are more inclined to agree with your view than men are.,"Con số này tăng lên thành 65% trong số người Úc có nguồn gốc không phải Châu Âu. Phụ nữ có chiều hướng nhiều hơn so với nam giới, trong việc đồng ý với quan điểm của quý vị. "
+White people have an unfair advantage in Australia.,Người da trắng có một lợi thế bất công ở Úc.
+You're among 30% of Australians who think white people do not have an unfair advantage in Australia,Quý vị trong số 30% người Úc nghĩ là người da trắng không có một lợi thế bất công ở Úc
+That figure but falls to 21% among Australians who have non-European backgrounds. Men are more inclined to agree with your view than women are.,"Nhưng con số này giảm xuống còn 21% trong số người Úc có nguồn gốc không phải Châu Âu. Nam giới có chiều hướng nhiều hơn so với phụ nữ, trong việc đồng ý với quan điểm của quý vị. "
+White people have an unfair advantage in Australia.,Người da trắng có một lợi thế bất công ở Úc.
+56% of Australians think white people have an unfair advantage in Australia,56% người Úc nghĩ là người da trắng có một lợi thế bất công ở Úc
+"That figure climbs to 65% among Australians who have non-European backgrounds, and 64% among women.",Con số này tăng lên thành 65% trong số người Úc có nguồn gốc không phải Châu Âu và 64% trong số phụ nữ.
+White people have an unfair advantage in Australia.,Người da trắng có một lợi thế bất công ở Úc.
+Most immigrants these days don’t try hard enough to fit into Australian society.,Hiện nay hầu hết di dân không chịu cố gắng hết sức để hoà nhập vào xã hội Úc.
+You and [[x]]% of people your age agree that most immigrants don't do enough to fit into Australian society,Quý vị và [[x]]% mọi người ở tuổi quý vị đồng ý là hầu hết di dân không chịu cố gắng hết sức để hoà nhập vào xã hội Úc
+"That view increases with age. Overall, 50% of Australians don't think immigrants need to try harder to fit into life in Australia.","Quan điểm đó tăng lên theo tuổi tác. Về tổng thể, 50% người Úc không nghĩ là các di dân cần cố gắng nhiều hơn nữa để hòa nhập vào đời sống tại Úc."
+Most immigrants these days don't try hard enough to fit into Australian society.,Hiện nay hầu hết di dân không chịu cố gắng hết sức để hoà nhập vào xã hội Úc.
+You and [[x]]% of people your age think that most immigrants are doing enough to fit into Australian society,Quý vị và [[x]]% mọi người ở tuổi quý vị nghĩ là hầu hết di dân đang làm đủ để hoà nhập vào xã hội Úc
+"That view goes down with age. Overall, 50% of Australians don't think immigrants need to try harder to fit into life in Australia.","Quan điểm đó giảm đi theo tuổi tác. Về tổng thể, 50% người Úc không nghĩ là các di dân cần cố gắng nhiều hơn nữa để hòa nhập vào đời sống tại Úc."
+Most immigrants these days don't try hard enough to fit into Australian society.,Hiện nay hầu hết di dân không chịu cố gắng hết sức để hoà nhập vào xã hội Úc.
+50% of Australians think that most immigrants are doing enough to fit into Australian society,50% người Úc nghĩ là hầu hết di dân đang làm đủ để hoà nhập vào xã hội Úc
+Older Australians are less likely to agree with that perspective.,Những người Úc lớn tuổi hơn ít có khả năng đồng ý với quan điểm này hơn.
+Most immigrants these days don't try hard enough to fit into Australian society.,Hiện nay hầu hết di dân không chịu cố gắng hết sức để hoà nhập vào xã hội Úc.
+Australia must do more to address past and current injustices against Indigenous people.,Úc phải làm nhiều hơn để giải quyết sự bất công trước kia và hiện nay đối với người Thổ dân. 
+"Like you, nearly 2 in 3 Australians think Australia must do more to address injustices against Indigenous people","Cũng như quý vị, gần hai phần ba người Úc nghĩ là Úc phải làm nhiều hơn để giải quyết sự bất công đối với người Thổ dân"
+"Agreement is highest among voters for Labor and the Greens, as well as women and people under 30.","Tỉ lệ đồng ý cao nhất là trong số những người bỏ phiếu cho Đảng Lao động và Đảng Xanh, phụ nữ và những người dưới 30 tuổi."
+Australia must do more to address past and current injustices against Indigenous people.,Úc phải làm nhiều hơn để giải quyết sự bất công trước kia và hiện nay đối với người Thổ dân.
+You're among 1 in 5 people who don't agree that Australia needs to do more to address injustices against Indigenous people,Quý vị trong số một phần năm những người không đồng ý là Úc phải làm nhiều hơn để giải quyết sự bất công đối với người Thổ dân
+"The people most likely to agree with you are Australians older than 50, those who live in rural and regional areas, and voters for One Nation and the Coalition.","Những người có nhiều khả năng đồng nhất với quý vị là những người Úc trên 50 tuổi, những người sống tại các khu vực miền quê và xa xôi, và những người bỏ phiếu cho Đảng Một Quốc gia và Liên Đảng."
+Australia must do more to address past and current injustices against Indigenous people.,Úc phải làm nhiều hơn để giải quyết sự bất công trước kia và hiện nay đối với người Thổ dân.
+Nearly 2 in 3 Australians think Australia must do more to address injustices against Indigenous people,Gần hai phần ba người Úc nghĩ là Úc phải làm nhiều hơn để giải quyết sự bất công đối với người Thổ dân
+"Agreement is highest among voters for Labor and the Greens, as well as women and people under 30.","Tỉ lệ đồng ý cao nhất là trong số những người bỏ phiếu cho Đảng Lao động và Đảng Xanh, phụ nữ và những người dưới 30 tuổi."
+Australia must do more to address past and current injustices against Indigenous people.,Úc phải làm nhiều hơn để giải quyết sự bất công trước kia và hiện nay đối với người Thổ dân.
+"Australia Day should not be celebrated on January 26, given the historical significance of that date for Indigenous people.","Không nên kỷ niệm ngày Quốc khánh Úc vào ngày 26 tháng 1, xét về ý nghĩa lịch sử của ngày đó đối với người Thổ dân."
+You're among the 43% of Australians who agree that Australia Day should not be celebrated on January 26,Quý vị trong số 43% người Úc đồng ý là không nên kỷ niệm ngày Quốc khánh Úc vào ngày 26 tháng 1
+"Australia Day should not be celebrated on January 26, given the historical significance of that date for Indigenous people.","Không nên kỷ niệm ngày Quốc khánh Úc vào ngày 26 tháng 1, xét về ý nghĩa lịch sử của ngày đó đối với người Thổ dân."
+You're among the 40% of Australians who support keeping Australia Day on January 26,Quý vị trong số 40% người Úc ủng hộ việc giữ ngày Quốc khánh Úc vào ngày 26 tháng 1
+"Australia Day should not be celebrated on January 26, given the historical significance of that date for Indigenous people.","Không nên kỷ niệm ngày Quốc khánh Úc vào ngày 26 tháng 1, xét về ý nghĩa lịch sử của ngày đó đối với người Thổ dân."
+Australians are almost evenly split on whether Australia Day should be celebrated on January 26,Người Úc bị chia rẽ gần như đồng đều bởi vấn đề liệu có nên kỷ niệm ngày Quốc khánh Úc vào ngày 26 tháng 1
+"Australia Day should not be celebrated on January 26, given the historical significance of that date for Indigenous people.","Không nên kỷ niệm ngày Quốc khánh Úc vào ngày 26 tháng 1, xét về ý nghĩa lịch sử của ngày đó đối với người Thổ dân."
+How frequently do you think people in Australia are discriminated against on the basis of...?,"Theo quý vị, người dân ở Úc bị phân biệt đối xử thường xuyên ở mức độ nào do ...?"
+Sex,Giới tính
+Ethnicity,Sắc tộc
+Religion,Tôn giáo
+Indigenous heritage,Di sản thổ dân
+Sexual orientation,Khuynh hướng tình dục
+Gender identity,Bản sắc giới tính 
+Disability,Khuyết tật
+Social or economic class,Tầng lớp xã hội hay kinh tế
+Physical appearance,Ngoại hình
+Political views,Quan điểm chính trị
+Age,Tuổi tác
+You are in the 30% of Aussies who think that people in Australia are often discriminated against on the basis of religion,Quý vị trong số 30 người Úc nghĩ là mọi người ở Úc thường bị phân biệt đối xử trên cơ sở tôn giáo
+"Most Australians, including those with no religion, agree that people are being discriminated against on religious grounds at least occasionally.","Hầu hết người Úc, bao gồm những người không có tôn giáo, đồng ý là mọi người bị phân biệt đối xử trên cơ sở tôn giáo, ít nhất ở mức độ thi thoảng."
+How frequently do you think people in Australia are being discriminated against on the basis of religion?,"Theo quý vị, người dân ở Úc bị phân biệt đối xử thường xuyên ở mức độ nào trên cơ sở tôn giáo?"
+You are in the 41% of people who think that people in Australia are occasionally discriminated against on the basis of religion,Quý vị trong số 41% người Úc nghĩ là mọi người ở Úc đôi khi bị phân biệt đối xử trên cơ sở tôn giáo
+"Most Australians, including those with no religion, agree that people are being discriminated against on religious grounds at least occasionally.","Hầu hết người Úc, bao gồm những người không có tôn giáo, đồng ý là mọi người bị phân biệt đối xử trên cơ sở tôn giáo, ít nhất ở mức độ thi thoảng."
+How frequently do you think people in Australia are being discriminated against on the basis of religion?,"Theo quý vị, người dân ở Úc bị phân biệt đối xử thường xuyên ở mức độ nào trên cơ sở tôn giáo?"
+You are in the 25% of people who think that people in Australia are rarely discriminated against on the basis of religion,Quý vị trong số 25% mọi người nghĩ là người dân ở Úc hiếm khi bị phân biệt đối xử trên cơ sở tôn giáo
+"Most Australians, including those with no religion, agree that people are being discriminated against on religious grounds at least occasionally.","Hầu hết người Úc, bao gồm những người không có tôn giáo, đồng ý là mọi người bị phân biệt đối xử trên cơ sở tôn giáo, ít nhất ở mức độ thi thoảng."
+How frequently do you think people in Australia are being discriminated against on the basis of religion?,"Theo quý vị, người dân ở Úc bị phân biệt đối xử thường xuyên ở mức độ nào trên cơ sở tôn giáo?"
+You are in the 5% of people who think that people in Australia are never discriminated against on the basis of religion,Quý vị trong số 5% mọi người nghĩ là người dân ở Úc không bao giờ bị phân biệt đối xử trên cơ sở tôn giáo
+"Most Australians, including those with no religion, agree that people are being discriminated against on religious grounds at least occasionally.","Hầu hết người Úc, bao gồm những người không có tôn giáo, đồng ý là mọi người bị phân biệt đối xử trên cơ sở tôn giáo, ít nhất ở mức độ thi thoảng."
+How frequently do you think people in Australia are being discriminated against on the basis of religion?,"Theo quý vị, người dân ở Úc bị phân biệt đối xử thường xuyên ở mức độ nào trên cơ sở tôn giáo?"
+Changing expectations around gender roles in Australia have made life more difficult for men.,Những kỳ vọng đang thay đổi tại Úc quanh vai trò của giới tính đã làm cho cuộc sống trở nên khó khăn hơn cho nam giới.
+You're among 27% of women who think changing gender roles have made life more difficult for men,Quý vị trong số 27% phụ nữ nghĩ là vai trò của giới tính đang thay đổi đã làm cho cuộc sống trở nên khó khăn hơn cho nam giới.
+That figure rises to 44% agreement among men.,Con số đó tăng đến một tỉ lệ đồng ý là 44% trong số nam giới.
+Changing expectations around gender roles in Australia have made life more difficult for men.,Những kỳ vọng đang thay đổi tại Úc quanh vai trò của giới tính đã làm cho cuộc sống trở nên khó khăn hơn cho nam giới.
+You're among 57% of women who do not think changing expectations around gender roles have made life more difficult for men,Quý vị trong số 57% phụ nữ không nghĩ là những kỳ vọng đang thay đổi quanh vai trò của giới tính đã làm cho cuộc sống trở nên khó khăn hơn cho nam giới
+That figure falls to 37% among men.,Con số đó giảm xuống còn 37% trong số nam giới.
+Changing expectations around gender roles in Australia have made life more difficult for men.,Những kỳ vọng đang thay đổi tại Úc quanh vai trò của giới tính đã làm cho cuộc sống trở nên khó khăn hơn cho nam giới.
+You're among 44% of men who think changing gender roles have made life more difficult for men,Quý vị trong số 44% nam giới nghĩ là vai trò của giới tính đang thay đổi đã làm cho cuộc sống trở nên khó khăn hơn cho nam giới
+That figure falls to 27% among women.,Con số đó giảm xuống còn 27% trong số phụ nữ.
+Changing expectations around gender roles in Australia have made life more difficult for men.,Những kỳ vọng đang thay đổi tại Úc quanh vai trò của giới tính đã làm cho cuộc sống trở nên khó khăn hơn cho nam giới.
+You're among 37% of men who do not think changing expectations around gender roles have made life more difficult for men,Quý vị trong số 37% nam giới không nghĩ là những kỳ vọng đang thay đổi quanh vai trò của giới tính đã làm cho cuộc sống trở nên khó khăn hơn cho nam giới
+That figure rises to 57% among women.,Con số đó tăng lên thành 57% trong số phụ nữ.
+Changing expectations around gender roles in Australia have made life more difficult for men.,Những kỳ vọng đang thay đổi tại Úc quanh vai trò của giới tính đã làm cho cuộc sống trở nên khó khăn hơn cho nam giới.
+Have changing gender roles in Australia have made life more difficult for men? Men are more likely to think so,"Tại Úc, vai trò của giới tính đang thay đổi có làm cho cuộc sống trở nên khó khăn hơn cho nam giới không? Nam giới có nhiều khả năng nghĩ như vậy hơn"
+Changing expectations around gender roles in Australia have made life more difficult for men.,Những kỳ vọng đang thay đổi tại Úc quanh vai trò của giới tính đã làm cho cuộc sống trở nên khó khăn hơn cho nam giới.
+Men and women are treated equally in Australian society.,Nam giới và phụ nữ được đối xử bình đẳng trong xã hội Úc.
+"Like 75% of women, you say men and women are not treated equally in Australia","Giống như 75% phụ nữ, quý vị nói là nam giới và phụ nữ không được đối xử bình đẳng tại Úc"
+Only 48% of men agree with you.,Chỉ 48% nam giới đồng ý với quý vị.
+Men and women are treated equally in Australian society.,Nam giới và phụ nữ được đối xử bình đẳng trong xã hội Úc.
+"Unlike 75% of women, you think men and women are treated equally in Australian society","Không như 75% phụ nữ, quý vị nghĩ là nam giới và phụ nữ được đối xử bình đẳng trong xã hội Úc"
+"Men are much more likely to share that view, with 42% in agreement.","Nam giới có nhiều khả năng chia sẻ quan điểm đó hơn, với 42% đồng ý."
+Men and women are treated equally in Australian society.,Nam giới và phụ nữ được đối xử bình đẳng trong xã hội Úc.
+"Like 48% of men, you think men and women do not get equal treatment in Australian society","Không như 48% nam giới, quý vị nghĩ là nam giới và phụ nữ không được đối xử bình đẳng trong xã hội Úc"
+"Women are even more likely to agree with you on this, with 75% saying treatment is not equal.","Phụ nữ thậm chí có nhiều khả năng đồng ý với quý vị hơn về quan điểm này, với 75% nói việc đối xử là không bình đẳng."
+Men and women are treated equally in Australian society.,Nam giới và phụ nữ được đối xử bình đẳng trong xã hội Úc.
+"Like 42% of men, you think men and women are treated equally in Australian society","Giống như 42% nam giới, quý vị nghĩ là nam giới và phụ nữ được đối xử bình đẳng trong xã hội Úc"
+Only 18% of women agree with you on this one.,Chỉ 18% phụ nữ đồng ý với quý vị về quan điểm này.
+Men and women are treated equally in Australian society.,Nam giới và phụ nữ được đối xử bình đẳng trong xã hội Úc.
+62% of people say Australia is not there yet on gender equality,62% mọi người nói là Úc vẫn chưa đạt đến sự bình đẳng giới tính
+"75% of women say men and women aren't treated equally in Australia, a perspective shared by just under half of men.","75% phụ nữ nói là nam giới và phụ nữ không được đối xử bình đẳng tại Úc, một quan điểm được xấp xỉ một nửa số nam giới chia sẻ."
+Men and women are treated equally in Australian society.,Nam giới và phụ nữ được đối xử bình đẳng trong xã hội Úc.
+Smacking a child is an acceptable form of discipline.,Đánh con là một hình thức kỷ luật có thể chấp nhận được.
+It's the sound that divides a nation... You're with 38% of Australians who think smacking kids is not on,Nghe có vẻ việc này gây chia rẽ quốc gia... Quý vị đang cùng với 38% người Úc khác cho rằng đánh con là việc không thể chấp nhận được
+Smacking a child is an acceptable form of discipline.,Đánh con là một hình thức kỷ luật có thể chấp nhận được.
+You're with 16% of people who are on the fence when it comes to whether smacking a child is okay,Quý vị đang cùng với 16% người khác đứng trung dung ở giữa khi bàn đến việc liệu đánh con có phải là việc có thể chấp nhận được không
+Religious people tend to be more in favour of smacking as a form of discipline than the non-religious and overall 47% of Australians think it's acceptable.,"Những người theo tôn giáo có xu hướng ủng hộ việc đánh con như một hình thức kỷ luật hơn, so với những người không có tôn giáo và về tổng thể, 47% người Úc cho rằng việc này là có thể chấp nhận được."
+Smacking a child is an acceptable form of discipline.,Đánh con là một hình thức kỷ luật có thể chấp nhận được.
+It's the sound that divides a nation... You're with 47% of Australians who think smacking kids is acceptable,Nghe có vẻ việc này gây chia rẽ quốc gia... Quý vị đang cùng với 47% người Úc khác cho rằng đánh con là việc có thể chấp nhận được
+Smacking a child is an acceptable form of discipline.,Đánh con là một hình thức kỷ luật có thể chấp nhận được.
+Having children is necessary in order to find fulfilment in life.,Có con là điều cần thiết để cảm thấy trọn vẹn trong cuộc sống.
+Are kids necessary for a fulfilling life? You and 18% of the population tend to think so,Con cái có phải là cần thiết để cuộc sống trở nên trọn vẹn không? Quý vị và 18% dân số có xu hướng nghĩ như vậy
+"But a majority of people disagree with you, including about three-quarters of women.","Nhưng đa phần mọi người không đồng ý với quý vị, bao gồm khoảng ba phần tư phụ nữ."
+Having children is necessary in order to find fulfilment in life.,Có con là điều cần thiết để cảm thấy trọn vẹn trong cuộc sống.
+"Are kids necessary for a fulfilling life? No, they're not, according to you and 63% of the population","Con cái có phải là cần thiết để cuộc sống trở nên trọn vẹn không? Không, không cần thiết, theo quý vị và 63% dân số"
+"About three-quarters of women agree with you, compared to just over half of men.","Khoảng ba phần tư phụ nữ đồng ý với quý vị, so với hơn một nửa số nam giới."
+Having children is necessary in order to find fulfilment in life.,Có con là điều cần thiết để cảm thấy trọn vẹn trong cuộc sống.
+Are kids necessary for a fulfilling life? You are among roughly 1 in 5 people who aren't sure about this,Con cái có phải là cần thiết để cuộc sống trở nên trọn vẹn không? Quý vị trong số khoảng một phần năm mọi người không quả quyết về điều này
+A clear majority of the population does not view having children as necessary to find fulfillment in life.,Một đa phần rõ ràng trong dân số không coi việc có con là cần thiết để cảm thấy trọn vẹn trong cuộc sống.
+Having children is necessary in order to find fulfilment in life.,Có con là điều cần thiết để cảm thấy trọn vẹn trong cuộc sống.
+Do you think that technology is making life in Australia better or worse overall?,"Quý vị cho là về tổng thể, công nghệ đang làm cho cuộc sống ở Úc trở nên tốt đẹp hơn hay tồi tệ hơn?"
+You're more convinced that technology is having a positive effect on society than [[x]]% of Australians,"Quý vị tin chắc hơn so với [[x]]% người Úc là, công nghệ đang có tác động tích cực đến xã hội"
+"Overall, Australians think technology is having a positive effect on jobs, the economy and education. But there is a down side: most say tech is having a negative effect on children, teens and mental health.","Về tổng thể, người Úc cho là công nghệ đang có tác động tích cực đến việc làm, nền kinh tế và giáo dục. Nhưng có mặt tiêu cực: hầu hết mọi người nói rằng công nghệ đang có tác động tiêu cực đến trẻ em, thanh thiếu niên và sức khỏe tâm thần."
+Do you think that technology is making life in Australia better or worse overall?,"Quý vị cho là về tổng thể, công nghệ đang làm cho cuộc sống ở Úc trở nên tốt đẹp hơn hay tồi tệ hơn?"
+You're more convinced that technology is having a negative effect on society than [[x]]% of Australians,"Quý vị tin chắc hơn với so với [[x]]% người Úc là, công nghệ đang có tác động tiêu cực đến xã hội"
+"Overall, Australians think technology is having a positive effect on jobs, the economy and education. But there is a down side: most say tech is having a negative effect on children, teens and mental health.","Về tổng thể, người Úc cho là công nghệ đang có tác động tích cực đến việc làm, nền kinh tế và giáo dục. Nhưng có mặt tiêu cực: hầu hết mọi người nói rằng công nghệ đang có tác động tiêu cực đến trẻ em, thanh thiếu niên và sức khỏe tâm thần."
+Do you think that technology is making life in Australia better or worse overall?,"Quý vị cho là về tổng thể, công nghệ đang làm cho cuộc sống ở Úc trở nên tốt đẹp hơn hay tồi tệ hơn?"
+You're among the [[x]]% of Australians who think technology's impact on society is a net neutral,Quý vị trong số [[x]]% người Úc cho là sự tác động của công nghệ đến xã hội là ở chính giữa
+Most people think tech is having a positive effect on Australia overall but one-quarter think it's making life worse.,"Hầu hết mọi người cho là về tổng thể, công nghệ đang có tác động tích cực đến nước Úc nhưng một phần tư cho là nó đang làm cho cuộc sống tồi tệ hơn."
+Do you think that technology is making life in Australia better or worse overall?,"Quý vị cho là về tổng thể, công nghệ đang làm cho cuộc sống ở Úc trở nên tốt đẹp hơn hay tồi tệ hơn?"
+Australians should show more respect for one another.,Người Úc nên cho thấy sự tôn trọng nhiều hơn đối với người khác.
+You're with the overwhelming majority of Australians who think we should be more respectful,Quý vị đang cùng với đa số áp đảo người Úc nghĩ là chúng ta nên lễ độ hơn
+"Regardless of age, gender or ancestry, most Australians would like to see people treat each other with greater civility.","Bất kể tuổi tác, phái tính hay giống nòi, hầu hết người Úc muốn thấy mọi người đối xử với nhau với sự văn minh hơn."
+Australians should show more respect for one another.,Người Úc nên cho thấy sự tôn trọng lẫn nhau nhiều hơn.
+Only 1% of people agree with you that there's no need for Australians to show more respect for one another,"Chỉ 1% mọi người đồng ý với quý vị là, người Úc không cần phải cho thấy sự tôn trọng lẫn nhau nhiều hơn"
+"Regardless of age, gender or ancestry, an overwhelming majority of Australians would like to see people treat each other with greater civility.","Bất kể tuổi tác, phái tính hay giống nòi, một đa số áp đảo  người Úc muốn thấy mọi người đối xử với nhau với sự văn minh hơn."
+Australians should show more respect for one another.,Người Úc nên cho thấy sự tôn trọng lẫn nhau nhiều hơn.
+The overwhelming majority of Australians think we should be more respectful,Đa số áp đảo người Úc nghĩ là chúng ta nên lễ độ hơn
+"Regardless of age, gender or ancestry, most Australians would like to see people treat each other with greater civility.","Bất kể tuổi tác, phái tính hay giống nòi, hầu hết người Úc muốn thấy mọi người đối xử với nhau với sự văn minh hơn."
+Australians should show more respect for one another.,Người Úc nên cho thấy sự tôn trọng lẫn nhau nhiều hơn.
+"In general, how Australian would you say you feel?","Về tổng quát, quý vị có thể nói là mình cảm thấy mình mang chất Úc ở mức độ nào?"
+You feel more Australian than [[x]]% of people,Quý vị cảm thấy mang nhiều chất Úc hơn [[x]]% mọi người
+"In general, how Australian would you say you feel?","Về tổng quát, quý vị có thể nói là mình cảm thấy mình mang chất Úc ở mức độ nào? "
+You feel less Australian than [[x]]% of people,Quý vị cảm thấy mang ít chất Úc hơn [[x]]% mọi người
+"It looks like Aussies tend to feel, well, pretty Australian. More than one-third of people said they felt 10/10 Australian. ",Xem như có vẻ người Úc có xu hướng cảm thấy khá đậm chất Úc. Hơn một phần ba mọi người nói là họ cảm thấy mình là người Úc 10/10. 
+"The sense of feeling Australian is strongest among older Australians, and is higher in rural and regional Australia than in our big cities. People who were born in Australia also tend to feel more Australian than people who've migrated here.","Tinh thần cảm thấy mình là người Úc là mạnh mẽ nhất trong số những người Úc lớn tuổi hơn, và là cao hơn ở miền quê và xa xôi của Úc, so với các thành phố lớn của chúng ta. Những người được sinh ra ở Úc cũng có xu hướng cảm thấy là người úc nhiều hơn so với những người di cư đến đây."
+"In general, how Australian would you say you feel?","Về tổng quát, quý vị có thể nói là mình cảm thấy mình mang chất Úc ở mức độ nào? "
+How much more would you personally be willing to spend each year to help prevent climate change?,Cá nhân quý vị sẵn sàng chi tiêu thêm bao nhiêu tiền mỗi năm để giúp ngăn ngừa tình trạng biến đổi khí hậu?
+You and 13% of Aussies don't know how much more they're willing to spend on preventing climate change,Quý vị và 13% người Úc không biết mình sẵn sàng chi tiêu thêm bao nhiêu tiền vào việc ngăn ngừa tình trạng biến đổi khí hậu
+How much more would you personally be willing to spend each year to help prevent climate change?,Cá nhân quý vị sẵn sàng chi tiêu thêm bao nhiêu tiền mỗi năm để giúp ngăn ngừa tình trạng biến đổi khí hậu?
+1 in 5 Aussies — like you — are unwilling to spend any more of their own money helping prevent climate change,Một phần năm người Úc — giống như quý vị — không sẵn sàng chi tiêu thêm bất kỳ đồng tiền nào của mình để giúp ngăn ngừa tình trạng biến đổi khí hậu
+How much more would you personally be willing to spend each year to help prevent climate change?,Cá nhân quý vị sẵn sàng chi tiêu thêm bao nhiêu tiền mỗi năm để giúp ngăn ngừa tình trạng biến đổi khí hậu?
+You're among the 18% of people willing to spend less than $100 per year extra preventing climate change,Quý vị trong số 18% mọi người sẵn sàng chi tiêu thêm ở mức dưới $100 mỗi năm cho việc ngăn ngừa tình trạng biến đổi khí hậu
+How much more would you personally be willing to spend each year to help prevent climate change?,Cá nhân quý vị sẵn sàng chi tiêu thêm bao nhiêu tiền mỗi năm để giúp ngăn ngừa tình trạng biến đổi khí hậu?
+You and 28% of Australians nominated between $100 and $500 per year as the additional amount they'd be willing to spend preventing climate change,Quý vị và 28% người Úc đã nêu ra mức từ $100 đến $500 mỗi năm là số tiền thêm mà họ sẵn sàng chi tiêu cho việc ngăn ngừa tình trạng biến đổi khí hậu
+How much more would you personally be willing to spend each year to help prevent climate change?,Cá nhân quý vị sẵn sàng chi tiêu thêm bao nhiêu tiền mỗi năm để giúp ngăn ngừa tình trạng biến đổi khí hậu?
+"You and 10% of Australians nominated between $500 and $1,000 per year as the additional amount they'd be willing to spend preventing climate change",Quý vị và 10% người Úc đã nêu ra mức từ $500 đến $1.000 mỗi năm là số tiền thêm mà họ sẵn sàng chi tiêu cho việc ngăn ngừa tình trạng biến đổi khí hậu
+How much more would you personally be willing to spend each year to help prevent climate change?,Cá nhân quý vị sẵn sàng chi tiêu thêm bao nhiêu tiền mỗi năm để giúp ngăn ngừa tình trạng biến đổi khí hậu?
+"You and 5% of Australians nominated between $1,000 and $2,000 per year as the additional amount they'd be willing to spend preventing climate change",Quý vị và 5% người Úc đã nêu ra mức từ $1.000 đến $2.000 mỗi năm là số tiền thêm mà họ sẵn sàng chi tiêu cho việc ngăn ngừa tình trạng biến đổi khí hậu
+How much more would you personally be willing to spend each year to help prevent climate change?,Cá nhân quý vị sẵn sàng chi tiêu thêm bao nhiêu tiền mỗi năm để giúp ngăn ngừa tình trạng biến đổi khí hậu?
+"You and 4% of Australians said they were willing to spend an extra $2,000 or more to spend preventing climate change",Quý vị và 4% người Úc nói là họ sẵn sàng chi tiêu thêm $2.000 nữa hoặc hơn cho việc ngăn ngừa tình trạng biến đổi khí hậu
+How much more would you personally be willing to spend each year to help prevent climate change?,Cá nhân quý vị sẵn sàng chi tiêu thêm bao nhiêu tiền mỗi năm để giúp ngăn ngừa tình trạng biến đổi khí hậu?
+How often would you say you feel...?,Quý vị có thể nói mình có những cảm xúc sau thường xuyên ở mức độ nào...?
+Anxious,Lo âu
+Overwhelmed,Choáng ngợp
+Lonely,Cô đơn
+Unsafe,Không an toàn
+Unwell,Không khoẻ
+Rested,Thư giãn
+Fulfilled,Trọn vẹn
+Loved,Được yêu thương
+Calm,Bình tĩnh
+Healthy,Khoẻ mạnh
+Sad,Buồn
+Depressed,Trầm cảm
+Happy,Hạnh phúc
+Angry,Giận dữ
+You're lucky to feel healthy as often as you do — nearly half of Aussies your age don't,Quý vị may mắn khi thường xuyên cảm thấy khỏe mạnh như mức độ hiện nay – gần một nửa người Úc ở tuổi quý vị không được như vậy 
+How often Australians feel healthy.,Người Úc cảm thấy khỏe mạnh thường xuyên ở mức độ nào.
+About half of people your age don't often feel healthy,Khoảng một nửa mọi người ở tuổi quý vị không thường xuyên cảm thấy khỏe mạnh
+How often Australians feel healthy.,Người Úc cảm thấy khỏe mạnh thường xuyên ở mức độ nào.
+"Like you, 60% of Aussies your age feel healthy often","Giống như quý vị, 60% người Úc ở tuổi quý vị cảm thấy khỏe mạnh ở mức độ thường xuyên"
+How often Australians feel healthy.,Người Úc cảm thấy khỏe mạnh thường xuyên ở mức độ nào.
+"There are 40% of Aussies your age who, like you, don't often feel healthy","Có 40% người Úc ở tuổi quý vị, giống như quý vị, không thường xuyên cảm thấy khỏe mạnh"
+How often Australians feel healthy.,Người Úc cảm thấy khỏe mạnh thường xuyên ở mức độ nào.
+You're among a majority of people 65 and older who often feel healthy,Quý vị trong số phần đông những người 65 tuổi và lớn tuổi hơn thường xuyên cảm thấy khỏe mạnh
+How often Australians feel healthy.,Người Úc cảm thấy khỏe mạnh thường xuyên ở mức độ nào.
+"At your stage of life about 1 in 3 people, like you, don't often feel healthy","Ở giai đoạn này trong cuộc đời của quý vị, khoảng một phần ba mọi người, giống như quý vị, không thường xuyên cảm thấy khỏe mạnh"
+How often Australians feel healthy.,Người Úc cảm thấy khỏe mạnh thường xuyên ở mức độ nào.
+How Australian do you think most other Australians would say you are?,"Theo quý vị, hầu hết những người Úc khác có thể nói quý vị mang chất Úc ở mức độ nào?"
+You believe other people would think you're more Australian than you actually feel,Quý vị tin là mọi người có thể nghĩ quý vị mang nhiều chất Úc hơn quý vị vị thực sự cảm thấy
+"How Australian do you think most other Australians would say you are, on a scale of 0 to 10?","Theo quý vị, hầu hết những người Úc khác có thể nói quý vị mang chất Úc ở mức độ nào, trên thang đo từ 0 đến 10?"
+You believe other people would think you're less Australian than you actually feel,Quý vị tin là mọi người có thể nghĩ quý vị mang ít chất Úc hơn quý vị vị thực sự cảm thấy
+"How Australian do you think most other Australians would say you are, on a scale of 0 to 10?","Theo quý vị, hầu hết những người Úc khác có thể nói quý vị mang chất Úc ở mức độ nào, trên thang đo từ 0 đến 10?"
+You believe other people would think you're about as Australian as you actually feel,Quý vị tin là mọi người có thể nghĩ quý vị mang chất Úc cũng nhiều như quý vị vị thực sự cảm thấy
+"How Australian do you think most other Australians would say you are, on a scale of 0 to 10?","Theo quý vị, hầu hết những người Úc khác có thể nói quý vị mang chất Úc ở mức độ nào, trên thang đo từ 0 đến 10?"
+I would never want to live in a nursing home.,Tôi có lẽ không bao giờ muốn sống trong viện dưỡng lão.
+You never want to live in a nursing home — and nor do 72% of Aussies,Quý vị không bao giờ muốn sống trong việc dưỡng lão — và 72% người Úc cũng không muốn
+"Regardless of age, income or education, most of us agree on this one.","Bất kể tuổi tác, lợi tức hay trình độ học vấn, hầu hết chúng ta đều đồng ý về điều này."
+I would never want to live in a nursing home.,Tôi có lẽ không bao giờ muốn sống trong viện dưỡng lão.
+You're more open to living in a nursing home than the overwhelming majority of Australians,"Quý vị cởi mở hơn về việc sống trong viện dưỡng lão, so với đa số áp đảo người dân Úc"
+"Regardless of age, income or education, most people aren't keen on the idea.","Bất kể tuổi tác, lợi tức hay trình độ học vấn, hầu hết mọi người không thiết tha với ý tưởng này."
+I would never want to live in a nursing home.,Tôi có lẽ không bao giờ muốn sống trong viện dưỡng lão.
+You're with 16% of people who aren't sure what they think about living in a nursing home,Quý vị cùng với 16% mọi người không biết chắc chắn là mình nghĩ sao về việc sống trong viện dưỡng lão 
+"But a majority of Australians have a pretty clear answer — regardless of age, income or education, most say they aren't keen on the idea of ending up in a nursing home.","Nhưng đa phần người Úc có câu trả lời khá rõ ràng - bất kể tuổi tác, lợi tức hay trình độ học vấn, hầu hết nói là họ không tha thiết với ý tưởng là cuối cùng sống trong viện dưỡng lão."
+I would never want to live in a nursing home.,Tôi có lẽ không bao giờ muốn sống trong viện dưỡng lão.
+To what extent do you consider work/life balance a problem for you personally?,"Quý vị coi sự quân bình giữa công việc/cuộc sống là một vấn đề ở mức độ nào, đối với cá nhân quý vị?"
+You're among the [[x]]% of Australians your age who don't have much of a problem with their work/life balance,Quý vị trong số [[x]]% người Úc ở tuổi quý vị không có mấy vấn đề về sự quân bình giữa công việc/cuộc sống của họ
+"Just under half of all Australians say that managing the demands of work with the rest of their life is challenging, with the youngest Australians struggling the most.","Chỉ dưới một nửa trong số tất cả người Úc nói là, việc quản lý các đòi hỏi của công việc với phần còn lại của cuộc sống của họ là việc khó, với những người Úc trẻ nhất gặp khó khăn nhất."
+To what extent do you consider work/life balance a problem for you personally?,"Quý vị coi sự quân bình giữa công việc/cuộc sống là một vấn đề ở mức độ nào, đối với cá nhân quý vị?"
+You're among the [[x]]% of Australians your age who think there's a problem with their work/life balance,Quý vị trong số [[x]]% người Úc ở tuổi quý vị cho rằng có vấn đề về sự quân bình giữa công việc/cuộc sống của họ
+"Just under half of all Australians say that managing the demands of work with the rest of their life is challenging, with the youngest Australians struggling the most.","Chỉ dưới một nửa trong số tất cả người Úc nói là, việc quản lý các đòi hỏi của công việc với phần còn lại của cuộc sống của họ là việc khó, với những người Úc trẻ nhất gặp khó khăn nhất."
+To what extent do you consider work/life balance a problem for you personally?,"Quý vị coi sự quân bình giữa công việc/cuộc sống là một vấn đề ở mức độ nào, đối với cá nhân quý vị?"
+I often have difficulty making ends meet.,Tôi thường gặp khó khăn trong việc chi tiêu đủ sống.
+You're fortunate to be among the 55% of Australians who aren't struggling financially,Quý vị may mắn nằm trong số 55% người Úc không phải xoay xở về tài chính
+I often have difficulty making ends meet.,Tôi thường gặp khó khăn trong chuyện chi tiêu đủ sống.
+You're struggling to make ends meet — as are roughly 1 in 3 Aussies,Quý vị đang xoay xở để chi tiêu đủ sống – khoảng một phần ba người Úc khác cũng vậy
+I often have difficulty making ends meet.,Tôi thường gặp khó khăn trong chuyện chi tiêu đủ sống.
+Roughly 1 in 3 Aussies are struggling to make ends meet,Khoảng một phần ba người Úc đang xoay xở để có thể chi tiêu đủ sống
+I often have difficulty making ends meet.,Tôi thường gặp khó khăn trong chuyện chi tiêu đủ sống.
+"Overall, how optimistic or pessimistic would you say you are about each of the following?","Về tổng thể, liệu quý vị nói là mình lạc quan hay bi quan ở mức nào về mỗi điều sau đây?"
+Your own future,Tương lai của chính mình
+The future of Australia,Tương lai của nước Úc
+The future of the world,Tương lai của thế giới
+You are more pessimistic about your future than [[x]]% of Australians,Quý vị bi quan về tương lai của mình hơn so với [[X]]% người Úc 
+"Overall, Australians were much more likely to be optimistic about their personal prospects than about the future of Australia or the world.","Về tổng thể, người Úc có nhiều khả năng là lạc quan về các viễn cảnh cá nhân của mình, hơn nhiều so với về tương lai của nước Úc hay của thế giới."
+How optimistic or pessimistic would you say you are about your own future?,Liệu quý vị nói là mình lạc quan hay bi quan ở mức nào về tương lai của chính mình?
+You are more pessimistic about your future than [[x]]% of Australians,Quý vị bi quan về tương lai của mình hơn so với [[X]]% người Úc 
+"Overall, Australians were much more likely to be optimistic about their personal prospects than about the future of Australia or the world.","Về tổng thể, người Úc có nhiều khả năng là lạc quan về các viễn cảnh cá nhân của mình, hơn nhiều so với về tương lai của nước Úc hay của thế giới."
+How optimistic or pessimistic would you say you are about your own future?,Liệu quý vị nói là mình lạc quan hay bi quan ở mức nào về tương lai của chính mình?
+You are more optimistic about your future than [[x]]% of Australians,Quý vị lạc quan về tương lai của mình hơn so với [[X]]% người Úc 
+"Overall, Australians were much more likely to be optimistic about their personal prospects than about the future of Australia or the world.","Về tổng thể, người Úc có nhiều khả năng là lạc quan về các viễn cảnh cá nhân của mình, hơn nhiều so với về tương lai của nước Úc hay của thế giới."
+How optimistic or pessimistic would you say you are about your own future?,Liệu quý vị nói là mình lạc quan hay bi quan ở mức nào về tương lai của chính mình?
+You are more optimistic about your future than [[x]]% of Australians,Quý vị lạc quan về tương lai của mình hơn so với [[X]]% người Úc 
+"Overall, Australians were much more likely to be optimistic about their personal prospects than about the future of Australia or the world.","Về tổng thể, người Úc có nhiều khả năng là lạc quan về các viễn cảnh cá nhân của mình, hơn nhiều so với về tương lai của nước Úc hay của thế giới."
+How optimistic or pessimistic would you say you are about your own future?,Liệu quý vị nói là mình lạc quan hay bi quan ở mức nào về tương lai của chính mình?
+You are more pessimistic about the future of Australia than [X]% of people,Quý vị bi quan về tương lai của nước Úc hơn so với [[X]]% mọi người 
+"Overall, Australians are more optimistic about the future of the country than they are about the future of the planet. But still, almost half feel pessimistic.","Về tổng thể, người Úc lạc quan về tương lai của đất nước hơn, so với họ lạc quan về tương lai của hành tinh này. Nhưng gần một nửa số người vẫn cảm thấy bi quan."
+"Overall, how optimistic or pessimistic would you say you are about the future of Australia?","Về tổng thể, liệu quý vị nói là mình lạc quan hay bi quan ở mức nào về tương lai của nước Úc?"
+You are more optimistic about the future of Australia than [X]% of people,Quý vị bi quan về tương lai của nước Úc hơn so với [X]% mọi người 
+"Overall, Australians are more optimistic about the future of the country than they are about the future of the planet. But still, almost half feel pessimistic.","Về tổng thể, người Úc lạc quan về tương lai của đất nước hơn, so với họ lạc quan về tương lai của hành tinh này. Nhưng gần một nửa số người vẫn cảm thấy bi quan."
+"Overall, how optimistic or pessimistic would you say you are about the future of Australia?","Về tổng thể, liệu quý vị nói là mình lạc quan hay bi quan ở mức nào về tương lai của nước Úc?"
+You are more pessimistic about the future of the world than [X]% of Australians,Quý vị bi quan về tương lai của thế giới hơn so với [X]% người Úc
+"On the whole, Australians don't think things look too rosy on a global scale — 70% are pessimistic.","Về toàn bộ, người Úc không cho là mọi thứ trông toàn màu hồng trên thang đo toàn cầu - 70% là bi quan."
+"Overall, how optimistic or pessimistic would you say you are about the future of the world?","Về tổng thể, liệu quý vị nói là mình lạc quan hay bi quan ở mức nào về tương lai của thế giới?"
+You are more optimistic about the future of the world than [X]% of Australians,Quý vị bi quan về tương lai của thế giới hơn so với [X]% người Úc
+"On the whole, Australians don't think things look too rosy on a global scale — 70% are pessimistic.","Về toàn bộ, người Úc không cho là mọi thứ trông toàn màu hồng trên thang đo toàn cầu - 70% là bi quan."
+"Overall, how optimistic or pessimistic would you say you are about the future of the world?","Về tổng thể, liệu quý vị nói là mình lạc quan hay bi quan ở mức nào về tương lai của thế giới?"
+There are more than two genders.,Có nhiều hơn hai giới tính.
+You're among 38% of Australians who do not think there are more than two genders,Quý vị trong số 38% người Úc không nghĩ là có nhiều hơn hai giới tính
+"A majority of women agree there are more than two genders, compared with 35% of men.","Đa số phụ nữ đồng ý là có nhiều hơn hai giới tính, so với 35% nam giới đồng ý như vậy."
+There are more than two genders.,Có nhiều hơn hai giới tính.
+You're among 45% of Australians who think there are more than two genders,Quý vị trong số 45% người Úc cho là có nhiều hơn hai giới tính
+"A majority of women agree there are more than two genders, compared with 35% of men.","Đa số phụ nữ đồng ý là có nhiều hơn hai giới tính, so với 35% nam giới đồng ý như vậy."
+There are more than two genders.,Có nhiều hơn hai giới tính.
+45% of Australians think there are more than two genders,45% người Úc cho là có nhiều hơn hai giới tính
+"A majority of women agree there are more than two genders, compared with 35% of men.","Đa số phụ nữ đồng ý là có nhiều hơn hai giới tính, so với 35% nam giới đồng ý như vậy."
+There are more than two genders.,Có nhiều hơn hai giới tính.
+I am spending more than I can afford on housing.,Tôi đang chi tiêu cho chuyện nhà ở ở mức nhiều hơn khả năng tài chính của tôi.
+You're having a harder time keeping a roof over your head than most Aussies,"Quý vị đang trong thời gian khó khăn hơn trong việc giữ được căn nhà của mình, so với hầu hết người Úc"
+I am spending more than I can afford on housing.,Tôi đang chi tiêu cho chuyện nhà ở ở mức nhiều hơn khả năng tài chính của tôi.
+You didn't say whether you are spending more than you can afford on housing — but 1 in 5 are,Quý vị không nói liệu mình có đang chi tiêu cho chuyện nhà ở ở mức nhiều hơn khả năng tài chính của mình không - nhưng một phần năm mọi người đang như vậy
+I am spending more than I can afford on housing.,Tôi đang chi tiêu cho chuyện nhà ở ở mức nhiều hơn khả năng tài chính của tôi.
+"Like most Aussies, you feel confident you can keep a roof over your head","Cũng như hầu hết người Úc, quý vi cảm thấy tự tin là mình có thể giữ được căn nhà của mình"
+I am spending more than I can afford on housing.,Tôi đang chi tiêu cho chuyện nhà ở ở mức nhiều hơn khả năng tài chính của tôi.
+What is the most pressing problem affecting you personally?,Vấn đề cấp thiết nhất đang ảnh hưởng đến cá nhân quý vị là gì?
+We asked Australians to tell us which issues they considered a problem for them personally,Chúng tôi yêu cầu những người Úc cho chúng tôi biết trong số các vấn đề họ coi một vấn đề nào là vấn đề cá nhân đối với họ
+"Climate change, money troubles and health issues are generally top of mind for Australians in 2019.","Thay đổi khí hậu, các rắc rối tiền bạc và vấn đề sức khỏe thường là những vấn đề hàng đầu đối với người Úc trong năm 2019."
+Proportion of Australians who said these problems were affecting them personally.,Tỉ lệ người Úc nói là những vấn đề này đang ảnh hưởng đến cá nhân họ.
+Now let's take a more detailed look at what Australians think about these top issues that affect them personally.,Giờ chúng ta hãy cùng tìm hiểu một cách chi tiết xem người Úc nghĩ gì về những vấn đề hàng đầu mà đang ảnh hưởng đến cá nhân họ.
+"People should be able to say what they want, even if it offends others.","Mọi người nên có thể nói ra những gì họ muốn nói, ngay cả khi điều đó làm mếch lòng người khác."
+45% of Australians agree with your view on freedom of speech — but another 45% do not,45% người Úc đồng ý với quan điểm của quý vị về quyền tự do phát biểu - nhưng 45% khác không đồng ý
+"Overall, this issue really divides the nation. Men tend to support greater freedom of speech, while women are more concerned about avoiding offence.","Về tổng thể, vấn đề này thực sự gây chia rẽ quốc gia. Nam giới có xu hướng ủng hộ quyền tự do phát biểu rộng rãi hơn, trong khi phụ nữ quan ngại hơn đến việc tránh làm mếch lòng người khác."
+"People should be able to say what they want, even if it offends others.","Mọi người nên có thể nói ra những gì họ muốn nói, ngay cả khi điều đó làm mếch lòng người khác."
+"45% of Australians support freedom of speech even if it causes offence, but another 45% do not","45% người Úc ủng hộ quyền tự do phát biểu ngay cả khi điều này gây mếch lòng, nhưng 45% khác không ủng hộ"
+"Men tend to support greater freedom of speech, while women are more concerned about avoiding offence.","Nam giới có xu hướng ủng hộ quyền tự do phát biểu rộng rãi hơn, trong khi phụ nữ quan ngại hơn đến việc tránh làm mếch lòng người khác."
+"People should be able to say what they want, even if it offends others.","Mọi người nên có thể nói ra những gì họ muốn nói, ngay cả khi điều đó làm mếch lòng người khác."
+People should not be allowed to say things in public that discriminate against minority groups.,Mọi người không nên được cho phép công khai nói những điều gây kỳ thị đối với các nhóm thiểu số.
+You are among 55% of Australians who think that people should not be allowed to say things in public that discriminate against minority groups,Quý vị trong số 55% người Úc cho là mọi người không nên được cho phép công khai nói những điều gây kỳ thị đối với các nhóm thiểu số 
+"Women, people who live in the inner-city and Australians who have non-European ancestry are the most likely groups to agree with you.","Phụ nữ, những người sống trong nội đô và những người Úc có tổ tiên không phải người Châu Âu là những nhóm có nhiều khả năng đồng ý với quý vị nhất."
+People should not be allowed to say things in public that discriminate against minority groups.,Mọi người không nên được cho phép công khai nói những điều gây kỳ thị đối với các nhóm thiểu số
+You are among 1 in 3 Australians who think that people should be allowed to say things in public that discriminate against minority groups,Quý vị trong số một phần ba người Úc cho là mọi người không nên được cho phép công khai nói những điều gây kỳ thị đối với các nhóm thiểu số
+"Men, people who live in regional and rural Australia, and those with European ancestry are the groups more likely to agree with you.","Nam giới, những người sống tại nước Úc miền quê và xa xôi và những người có tổ tiên là người Châu Âu là những nhóm có nhiều khả năng đồng ý với quý vị  hơn."
+People should not be allowed to say things in public that discriminate against minority groups.,Mọi người không nên được cho phép công khai nói những điều gây kỳ thị đối với các nhóm thiểu số
+"Overall, 55% of Australians think people should not be allowed to say things in public that discriminate against minority groups","Về tổng thể, quý vị trong số 55% người Úc cho là mọi người không nên được cho phép công khai nói những điều gây kỳ thị đối với các nhóm thiểu số "
+"Women, people who live in the inner-city and Australians who have non-European ancestry are the groups with the strongest levels of agreement with this statement.","Phụ nữ, những người sống trong nội đô và những người Úc có tổ tiên không phải người Châu Âu là các nhóm có mức độ đồng ý cao nhất với tuyên bố này."
+People should not be allowed to say things in public that discriminate against minority groups.,Mọi người không nên được cho phép công khai nói những điều gây kỳ thị đối với các nhóm thiểu số
+I think I would be happier if I…,Tôi cho là mình có thể sẽ hạnh phúc hơn nếu ...
+Had more money ,Có nhiều tiền hơn
+Had more friends ,Có nhiều bạn hơn
+Worked less,Làm việc ít hơn
+Spent more time in nature,Dành thời gian với thiên nhiên nhiều hơn
+Spent more time with family,Dành thời gian với gia đình nhiều hơn
+Spent less time commuting,Mất ít thời gian cho việc đi lại hơn
+Had a better sex life,Có cuộc sống tình dục tốt đẹp hơn
+Had a better job,Có việc làm tốt hơn
+Travelled more often,Đi du lịch nhiều hơn
+Were more involved in my community ,Tham gia cộng đồng nhiều hơn 
+Took better care of myself,Chăm sóc bản thân tốt hơn
+Socialised more,Giao thiệp nhiều hơn
+Spent less time on social media,Dành thời gian cho mạng xã hội ít hơn
+Slept more,Ngủ nhiều hơn
+Spent less time running errands and doing chores,Mất ít thời gian cho việc lặt vặt và việc nhà hơn
+Had (more) children,Có (nhiều) con hơn
+Had a more fulfilling romantic relationship ,Có mối quan hệ tình cảm trọn vẹn hơn
+"It's time to head outside, but expect some company","Giờ là lúc để ra ngoài, nhưng kỳ vọng có người đi cùng"
+"Spending more time in nature is the single most popular thing Aussies feel would make them happier, across all demographics.","Dành nhiều thời gian với thiên nhiên hơn là việc phổ biến duy nhất mà người Úc, trong toàn bộ dân số, cảm thấy có thể sẽ làm cho họ hạnh phúc hơn. "
+I think I would be happier if I spent more time in nature.,Tôi cho là mình có thể sẽ hạnh phúc hơn nếu dành nhiều thời gian với thiên nhiên hơn.
+You and a majority of Australians in every age group wish they travelled more,Quý vị và đa phần người Úc trong mọi nhóm tuổi mong ước giá mà họ đi du lịch nhiều hơn
+Turns out we’re a nation of travellers… or at least we’d like to be.,Hóa ra chúng ta là một đất nước của những người đi du lịch... hoặc ít nhất chúng ta muốn như vậy.
+I think I would be happier if I travelled more often.,Tôi cho là mình có thể sẽ hạnh phúc hơn nếu đi du lịch thường xuyên hơn.
+Who says money can’t buy happiness? Not you,Ai nói là tiền bạc không thể mua được hạnh phúc? Không phải quý vị
+"It doesn't really matter how much you currently earn, most people are pretty sure more money would bring them greater happiness.","Việc quý vị hiện kiếm được bao nhiêu tiền không thực sự quan trọng, hầu hết mọi người biết khá chắc chắn là nhiều tiền hơn có thể mang đến cho họ nhiều hạnh phúc hơn."
+I think I would be happier if I had more money.,Tôi cho là mình có thể sẽ hạnh phúc hơn nếu có nhiều tiền hơn.
+"Like most Aussies, you could do with a little more self-care","Giống như hầu hết người Úc, quý vị có thể hạnh phúc hơn bằng cách chăm sóc bản thân mình nhiều hơn một chút"
+Young people are the most inclined to think taking better care of themselves would make them happier.,Người trẻ có nhiều khuynh hướng nhất trong việc cho là chăm sóc bản thân mình tốt hơn có thể làm cho họ hạnh phúc hơn.
+I think I would be happier if I took better care of myself.,Tôi cho là mình có thể sẽ hạnh phúc hơn nếu chăm sóc bản thân mình tốt hơn.
+It’s not just retiring politicians who want to spend more time with family — you do too,Không chỉ các chính trị gia nghỉ hưu muốn dành nhiều thời gian với gia đình hơn - mà quý vị cũng vậy
+I think I would be happier if I spent more time with family.,Tôi cho là mình có thể sẽ hạnh phúc hơn nếu dành nhiều thời gian với gia đình hơn.
+"You, like most Australians, think more shut-eye would help boost your happiness","Quý vị, giống như hầu hết người Úc, cho là, nhắm mắt nhiều hơn có thể giúp tăng cường hạnh phúc của mình"
+"Richer Australians are more likely to be craving more sleep. But the older you are, the less likely you are to think more sleep would add to your happiness — maybe the good ol' nanna nap is enough?","Những người Úc giàu có hơn có nhiều khả năng thèm ngủ nhiều hơn. Nhưng càng lớn tuổi, quý vị càng ít có khả năng cho là ngủ nhiều hơn có thể làm gia tăng hạnh phúc của mình – có lẽ chợp mắt say sưa chốc lát là đủ rồi?"
+I think I would be happier if I slept more.,Tôi cho là mình có thể sẽ hạnh phúc hơn nếu ngủ nhiều hơn.
+"You think a better sex life would make you happier, and nearly half of Australians agree","Quý vị cho là đời sống tình dục tốt đẹp hơn có thể làm cho quý vị hạnh phúc hơn, và gần một nửa người Úc đồng ý như vậy"
+I think I would be happier if I had a better sex life.,Tôi cho là mình có thể sẽ hạnh phúc hơn nếu có đời sống tình dục tốt đẹp hơn.
+"Everyone wants to do fewer chores, right? Well, not quite","Ai cũng muốn làm ít việc vặt hơn, đúng không? Ồ, không hẳn là vậy"
+I think I would be happier if I spent less time running errands and doing chores.,Tôi cho là mình có thể sẽ hạnh phúc hơn nếu dành ít thời gian cho việc lặt vặt và việc nhà hơn.
+"Put the phone down, and maybe head outside?","Buông điện thoại xuống, và có lẽ ra ngoài chăng?"
+"While almost everyone is on social media these days, it’s younger people who think it's having the worst impact on their happiness.","Mặc dù ngày nay hầu hết tất cả mọi người dành thời gian cho truyền thông xã hội, nhưng chính những người trẻ hơn lại cho là việc này đang có tác động xấu nhất đến hạnh phúc của họ."
+I think I would be happier if I spent less time on social media.,Tôi cho là mình có thể sẽ hạnh phúc hơn nếu dành ít thời gian cho truyền thông xã hội hơn.
+How often would you say you feel...?,"Quý vị cảm thấy thế nào, sau khi trải qua...?"
+Anxious,Lo âu
+Overwhelmed,Choáng ngợp
+Lonely,Cô đơn
+Unsafe,Không an toàn
+Unwell,Không khoẻ
+Rested,Thư giãn
+Fulfilled,Trọn vẹn
+Loved,Được yêu thương
+Calm,Bình tĩnh
+Healthy,Khoẻ mạnh
+Sad,Buồn
+Depressed,Trầm cảm
+Happy,Hạnh phúc
+Angry,Giận dữ
+You’re at an age where many people feel lonely,Quý vị ở tuổi khi mà nhiều người cảm thấy cô đơn
+"How lonely, happy and anxious Australians of different ages report feeling.","Những người Úc thuộc các nhóm tuổi khác nhau, khai báo cảm thấy cô đơn, hạnh phúc và lo âu ở mức độ nào."
+"You don't feel lonely often, but many people your age do","Quý vị không thường xuyên cảm thấy cô đơn, nhưng nhiều người Úc ở tuổi quý vị cảm thấy như vậy"
+"How lonely, happy and anxious Australians of different ages report feeling.","Những người Úc thuộc các nhóm tuổi khác nhau, khai báo cảm thấy cô đơn, hạnh phúc và lo âu ở mức độ nào."
+"You feel happy a lot of the time, but many people your age don't","Phần nhiều thời gian là quý vị cảm thấy hạnh phúc, nhưng nhiều người ở tuổi quý vị không như vậy"
+"How lonely, happy and anxious Australians of different ages report feeling.","Những người Úc thuộc các nhóm tuổi khác nhau, khai báo cảm thấy cô đơn, hạnh phúc và lo âu ở mức độ nào."
+You’re at an age where people are least likely to feel happy,Quý vị ở tuổi khi mà mọi người ít có khả năng cảm thấy hạnh phúc nhất
+"You feel happy a lot of the time, but about 1 in 3 people your age don't","Phần nhiều thời gian là quý vị cảm thấy hạnh phúc, nhưng khoảng một phần ba mọi người ở tuổi quý vị không như vậy"
+"How lonely, happy and anxious Australians of different ages report feeling.","Những người Úc thuộc các nhóm tuổi khác nhau, khai báo cảm thấy cô đơn, hạnh phúc và lo âu ở mức độ nào."
+Roughly 1 in 3 people your age don't often feel happy,Khoảng một phần ba mọi người ở tuổi quý vị không thường xuyên cảm thấy hạnh phúc
+"How lonely, happy and anxious Australians of different ages report feeling.","Những người Úc thuộc các nhóm tuổi khác nhau, khai báo cảm thấy cô đơn, hạnh phúc và lo âu ở mức độ nào."
+You’re at an age where Australians are most likely to feel happy,Quý vị ở tuổi khi mà người Úc có nhiều khả năng cảm thấy hạnh phúc nhất
+"How lonely, happy and anxious Australians of different ages report feeling.","Những người Úc thuộc các nhóm tuổi khác nhau, khai báo cảm thấy cô đơn, hạnh phúc và lo âu ở mức độ nào."
+1 in 4 people your age don't often feel happy,Một phần tư mọi người ở tuổi quý vị không thường xuyên cảm thấy hạnh phúc
+"How lonely, happy and anxious Australians of different ages report feeling.","Những người Úc thuộc các nhóm tuổi khác nhau, khai báo cảm thấy cô đơn, hạnh phúc và lo âu ở mức độ nào."
+You’re at an age where Australians are most likely to feel happy,Quý vị ở tuổi khi mà người Úc có nhiều khả năng cảm thấy hạnh phúc nhất
+"How lonely, happy and anxious Australians of different ages report feeling.","Những người Úc thuộc các nhóm tuổi khác nhau, khai báo cảm thấy cô đơn, hạnh phúc và lo âu ở mức độ nào."
+16% of people your age don't often feel happy — it's not uncommon to feel that way,16% mọi người ở tuổi quý vị không thường xuyên cảm thấy hạnh phúc – nhưng việc cảm thấy như vậy không phải là chuyện hiếm gặp
+"How lonely, happy and anxious Australians of different ages report feeling.","Những người Úc thuộc các nhóm tuổi khác nhau, khai báo cảm thấy cô đơn, hạnh phúc và lo âu ở mức độ nào."
+"You often feel loved, but 1 in 3 men don't","Quý vị thường xuyên cảm thấy được yêu thương, nhưng một phần ba nam giới không cảm thấy vậy"
+Men report feeling overwhelmed and sad less often than women do. But they're also less likely than women to feel loved.,"Nam giới khai báo cảm thấy choáng ngợp và buồn ở mức độ ít thường xuyên hơn, so với phụ nữ cảm thấy như vậy. Nhưng họ cũng ít có khả năng cảm thấy được yêu thương hơn, so với phụ nữ cảm thấy vậy."
+"How loved, overwhelmed and sad Australian men and women report feeling.","Nam giới và phụ nữ Úc khai báo cảm thấy được yêu thương, cảm thấy choáng ngợp và buồn ở mức độ nào."
+1 in 3 Australian men say they don't often feel loved — it's not uncommon to feel that way,Một phần ba nam giới Úc nói rằng họ không thường xuyên cảm thấy được yêu thương - nhưng việc cảm thấy như vậy không phải là chuyện hiếm gặp
+Men report feeling overwhelmed and sad less often than women do. But they're also less likely than women to feel loved.,"Nam giới khai báo cảm thấy choáng ngợp và buồn ở mức độ ít thường xuyên hơn, so với phụ nữ cảm thấy như vậy. Nhưng họ cũng ít có khả năng cảm thấy được yêu thương hơn, so với phụ nữ cảm thấy vậy."
+"How loved, overwhelmed and sad Australian men and women report feeling.","Nam giới và phụ nữ Úc khai báo cảm thấy được yêu thương, cảm thấy choáng ngợp và buồn ở mức độ nào."
+"You often feel loved, but 1 in 4 women don't","Quý vị thường xuyên cảm thấy được yêu thương, nhưng một phần tư phụ nữ không cảm thấy vậy"
+"Women are more likely than men to feel overwhelmed or sad. But, they’re also more likely than men to feel loved.","Phụ nữ có nhiều khả năng cảm thấy choáng ngợp hay buồn bã hơn, so với nam giới. Nhưng họ cũng có nhiều khả năng cảm thấy được yêu thương hơn, so với nam giới cảm thấy vậy."
+"How loved, overwhelmed and sad Australian men and women report feeling.","Nam giới và phụ nữ Úc khai báo cảm thấy được yêu thương, cảm thấy choáng ngợp và buồn ở mức độ nào."
+1 in 4 Australian women say they don't often feel loved — it's not uncommon to feel that way,Một phần tư phụ nữ Úc nói rằng họ không thường xuyên cảm thấy được yêu thương - nhưng việc cảm thấy như vậy không phải là chuyện hiếm gặp
+"Women are more likely than men to feel overwhelmed or sad. Overall, they also say they feel loved more often than men do.","Phụ nữ có nhiều khả năng cảm thấy choáng ngợp hay buồn bã hơn, so với nam giới. Về tổng thể, họ cũng nói rằng họ cảm thấy được yêu thương thường xuyên nhiều hơn nam giới cảm thấy vậy."
+"How loved, overwhelmed and sad Australian men and women report feeling.","Nam giới và phụ nữ Úc khai báo cảm thấy được yêu thương, cảm thấy choáng ngợp và buồn ở mức độ nào."
+"You often feel loved, but almost 1 in 3 Australians don't","Quý vị thường xuyên cảm thấy được yêu thương, nhưng gần một phần ba người Úc không cảm thấy như vậy"
+"Women are more likely than men to feel overwhelmed or sad. But, they’re also more likely than men to feel loved.","Phụ nữ có nhiều khả năng cảm thấy choáng ngợp hay buồn bã hơn, so với nam giới. Nhưng họ cũng có nhiều khả năng cảm thấy được yêu thương hơn, so với nam giới cảm thấy vậy."
+"How loved, overwhelmed and sad Australian men and women report feeling.","Nam giới và phụ nữ Úc khai báo cảm thấy được yêu thương, cảm thấy choáng ngợp và buồn ở mức độ nào."
+Almost 1 in 3 Australians say they don't often feel loved — it's not uncommon to feel that way,Gần một phần ba người Úc nói rằng họ không thường xuyên cảm thấy được yêu thương - nhưng việc cảm thấy như vậy không phải là chuyện hiếm gặp
+"Women are more likely than men to feel overwhelmed or sad. But, they’re also more likely than men to feel loved.","Phụ nữ có nhiều khả năng cảm thấy choáng ngợp hay buồn bã hơn, so với nam giới. Nhưng họ cũng có nhiều khả năng cảm thấy được yêu thương hơn, so với nam giới cảm thấy vậy."
+"How loved, overwhelmed and sad Australian men and women report feeling.","Nam giới và phụ nữ Úc khai báo cảm thấy được yêu thương, cảm thấy choáng ngợp và buồn ở mức độ nào."
+The decline of the traditional family unit has made Australia worse off.,Sự sụt giảm của mô hình gia đình truyền thống làm cho nước Úc trở nên tệ hơn
+"Like 46% of Australians, you think the decline of the traditional family unit has made Australia worse off","Cũng như 46% người Úc, quý vị cho là sự sụt giảm của mô hình gia đình truyền thống làm cho nước Úc trở nên tệ hơn"
+"Men, lower income earners and older Aussies are the most likely demographic groups to agree with you.","Nam giới, những người có lợi tức thấp hơn và người Úc lớn tuổi hơn, là các nhóm dân số có nhiều khả năng đồng ý với quý vị nhất."
+The decline of the traditional family unit has made Australia worse off,Sự sụt giảm của mô hình gia đình truyền thống làm cho nước Úc trở nên tệ hơn
+"Like 37% of Australians, you don't think the decline of the traditional family unit has made Australia worse off","Cũng như 37% người Úc, quý vị không cho là sự sụt giảm của mô hình gia đình truyền thống làm cho nước Úc trở nên tệ hơn"
+Women are more likely to agree with you than men are. Younger Aussies and those on higher incomes are also more likely to take the same position as you.,"Phụ nữ có nhiều khả năng đồng ý với quý vị hơn, so với nam giới. Những người Úc trẻ hơn và những người có lợi tức cao hơn cũng có nhiều khả năng có cùng quan điểm như quý vị hơn."
+The decline of the traditional family unit has made Australia worse off.,Sự sụt giảm của mô hình gia đình truyền thống làm cho nước Úc trở nên tệ hơn
+46% of Australians think the decline of the traditional family unit has made Australia worse off,46% người Úc cho là sự sụt giảm của mô hình gia đình truyền thống làm cho nước Úc trở nên tệ hơn
+"Men, lower income earners and older Aussies are the groups most concerned about the decline of the traditional family unit.","Nam giới, những người có lợi tức thấp và những người Úc lớn tuổi hơn, là các nhóm quan ngại nhất về sự sụt giảm của mô hình gia đình truyền thống."
+The decline of the traditional family unit has made Australia worse off.,Sự sụt giảm của mô hình gia đình truyền thống làm cho nước Úc trở nên tệ hơn.
+I consider myself to be a feminist.,Tôi coi bản thân mình là người theo thuyết nam nữ bình quyền.
+"Like 66% of women, you consider yourself a feminist — only one in three men feel this way","Cũng như 66% phụ nữ, tôi coi bản thân mình là người theo thuyết nam nữ bình quyền - chỉ một phần ba nam giới cảm thấy cách mình như vậy"
+Almost twice as many men as women answered 'neutral' on this question. There's a big split by age too — three times as many young people strongly agree they're feminists compared with our oldest Australians.,"Gần gấp đôi nam giới so với phụ nữ, trả lời 'trung lập' đối với câu hỏi này. Có sự chia rẽ lớn cả theo tuổi tác – số người trẻ đồng ý mạnh mẽ rằng họ theo thuyết nam nữ bình quyền, cao gấp ba lần so với những người Úc lớn tuổi nhất của chúng ta. "
+I consider myself to be a feminist.,Tôi coi bản thân mình là người theo thuyết nam nữ bình quyền.
+"Like 1 in 3 women, you don't call yourself a feminist","Cũng như một phần ba phụ nữ, quý vị không gọi bản thân mình là người theo thuyết nam nữ bình quyền."
+Feminists are more likely to be women (surprise!) and live in the inner city. There's a big split by age too — three times as many young people strongly agree they're feminists compared with our oldest Australians.,"Những người theo thuyết nam nữ bình quyền có nhiều khả năng là các phụ nữ (thật ngạc nhiên!) và sống trong nội đô. Có sự chia rẽ lớn cả theo tuổi tác – số người trẻ đồng ý mạnh mẽ rằng họ theo thuyết nam nữ bình quyền, cao gấp ba lần so với những người Úc lớn tuổi nhất của chúng ta. "
+I consider myself to be a feminist.,Tôi coi bản thân mình là người theo thuyết nam nữ bình quyền.
+"You consider yourself a feminist, as do 1 in 3 men overall","Quý vị coi bản thân mình là người theo thuyết nam nữ bình quyền, về tổng thể một phần ba nam giới cũng vậy"
+Feminists are more likely to be women (surprise!) and live in the inner city. There's a big split by age too — three times as many young people strongly agree they're feminists compared to our oldest Australians.,"Những người theo thuyết nam nữ bình quyền có nhiều khả năng là các phụ nữ (thật ngạc nhiên!) và sống trong nội đô. Có sự chia rẽ lớn cả theo tuổi tác – số người trẻ đồng ý mạnh mẽ rằng họ theo thuyết nam nữ bình quyền, cao gấp ba lần so với những người Úc lớn tuổi nhất của chúng ta. "
+I consider myself to be a feminist.,Tôi coi bản thân mình là người theo thuyết nam nữ bình quyền.
+"Like 68% of men, you don't call yourself a feminist","Cũng như 68% nam giới, quý vị không gọi bản thân mình là người theo thuyết nam nữ bình quyền."
+Feminists are more likely to be women (surprise!) and live in the inner city. There's a big split by age too — three times as many young people strongly agree they're feminists compared to our oldest Australians.,"Những người theo thuyết nam nữ bình quyền có nhiều khả năng là các phụ nữ (thật ngạc nhiên!) và sống trong nội đô. Có sự chia rẽ lớn cả theo tuổi tác – số người trẻ đồng ý mạnh mẽ rằng họ theo thuyết nam nữ bình quyền, cao gấp ba lần so với những người Úc lớn tuổi nhất của chúng ta. "
+I consider myself to be a feminist.,Tôi coi bản thân mình là người theo thuyết nam nữ bình quyền.
+Feminists are more likely to be women (surprise!) and live in the inner city,Những người theo thuyết nam nữ bình quyền có nhiều khả năng là các phụ nữ (thật ngạc nhiên!) và sống trong nội đô.
+And did you know three times more young people strongly agree they're feminists compared to our oldest Australians?,"Và quý vị có biết là số người trẻ đồng ý mạnh mẽ rằng họ theo thuyết nam nữ bình quyền, cao gấp ba lần so với những người Úc lớn tuổi nhất của chúng ta không?"
+I consider myself to be a feminist.,Tôi coi bản thân mình là người theo thuyết nam nữ bình quyền.
+I feel safe walking alone at night in my neighbourhood.,Tôi cảm thấy an toàn khi đi bộ một mình ban đêm trong khu vực tôi sinh sống.
+"You generally feel safe walking home at night, but for 44% of women that's not the case","Nói chung, quý vị cảm thấy an toàn khi đi bộ về nhà vào ban đêm, nhưng đối với 44% phụ nữ, thì không phải vậy"
+That's a stark contrast from men — 76% of them feel safe in their neighbourhood at night.,Đó là một sự tương phản hoàn toàn với nam giới - 76% trong số họ cảm thấy an toàn vào ban đêm trong khu vực mình sinh sống.
+I feel safe walking alone at night in my neighbourhood.,Tôi cảm thấy an toàn khi đi bộ một mình ban đêm trong khu vực tôi sinh sống.
+"It's also pretty clear that where someone can afford to live has an impact on how they answer this question. Only 52% of low-income Australians feel safe walking alone at night in their neighbourhood, compared to 71% of our top earners.","Điều cũng khá rõ ràng là, người ta có đủ khả năng tài chính để chọn sống ở đâu, thì nơi đó có ảnh hưởng đến cách họ trả lời câu hỏi này. Chỉ 52% người Úc có lợi tức thấp cảm thấy an toàn khi đi bộ một mình ban đêm trong khu vực họ sinh sống mà thôi, so với 71% những người có lợi tức cao hàng đầu của chúng ta."
+You're among the 44% of women who do not feel safe walking home alone at night,Quý vị trong số 44% phụ nữ không cảm thấy an toàn khi đi bộ về nhà một mình vào ban đêm
+Only 16% of Australian men feel unsafe doing the same.,Chỉ có 16% nam giới Úc cảm thấy không an toàn khi cũng làm như vậy.
+I feel safe walking alone at night in my neighbourhood.,Tôi cảm thấy an toàn khi đi bộ một mình ban đêm trong khu vực tôi sinh sống.
+"It's also pretty clear that where someone can afford to live has an impact on how they answer this question. Only 52% of low-income Australians feel safe walking alone at night in their neighbourhood, compared to 71% of our top earners.","Điều cũng khá rõ ràng là, người ta có đủ khả năng tài chính để chọn sống ở đâu, thì nơi đó có ảnh hưởng đến cách họ trả lời câu hỏi này. Chỉ 52% người Úc có lợi tức thấp cảm thấy an toàn khi đi bộ một mình vào ban đêm trong khu vực họ sinh sống mà thôi, so với 71% những người có lợi tức cao hàng đầu của chúng ta."
+You're among the 76% of Aussie men who can confidently walk home alone at night,Quý vị trong số 76% nam giới Úc có thể một cách tự tin đi bộ về nhà một mình vào ban đêm
+But only 47% of women feel safe doing the same.,Nhưng chỉ 47% phụ nữ cảm thấy an toàn khi cũng làm như vậy.
+I feel safe walking alone at night in my neighbourhood.,Tôi cảm thấy an toàn khi đi bộ một mình ban đêm trong khu vực tôi sinh sống.
+"It's also pretty clear that where someone can afford to live has an impact on how they answer this question. Only 52% of low-income Australians feel safe walking alone at night in their neighbourhood, compared to 71% of our top earners.","Điều cũng khá rõ ràng là, người ta có đủ khả năng tài chính để chọn sống ở đâu, thì nơi đó có ảnh hưởng đến cách họ trả lời câu hỏi này. Chỉ 52% người Úc có lợi tức thấp cảm thấy an toàn khi đi bộ một mình ban đêm trong khu vực họ sinh sống mà thôi, so với 71% những người có lợi tức cao hàng đầu của chúng ta."
+You don't feel safe walking in your neighbourhood at night — and that's fairly rare for a man,Quý vị không cảm thấy an toàn khi đi bộ vào ban đêm trong khu vực mình sinh sống - và chuyện này tương đối hiếm đối với nam giới
+"Just 16% of men don't feel safe walking in their neighbourhood at night, compared to 44% of women.","Chỉ 16% nam giới không cảm thấy an toàn khi đi bộ vào ban đêm trong vực họ sinh sống, so với 44% phụ nữ."
+I feel safe walking alone at night in my neighbourhood.,Tôi cảm thấy an toàn khi đi bộ một mình ban đêm trong khu vực tôi sinh sống.
+"It's also pretty clear that where someone can afford to live has an impact on how they answer this question. Only 52% of low-income Australians feel safe walking alone at night in their neighbourhood, compared to 71% of our top earners.","Điều cũng khá rõ ràng là, người ta có đủ khả năng tài chính để chọn sống ở đâu, thì nơi đó có ảnh hưởng đến cách họ trả lời câu hỏi này. Chỉ 52% người Úc có lợi tức thấp cảm thấy an toàn khi đi bộ một mình ban đêm trong khu vực họ sinh sống mà thôi, so với 71% những người có lợi tức cao hàng đầu của chúng ta."
+You're among 61% of Australians who can confidently walk home alone at night,Quý vị trong số 61% nam giới Úc có thể một cách tự tin đi bộ về nhà một mình vào ban đêm
+"While three-quarters of men feel safe walking in their neighbourhood at night, less than half of Australian women do.","Trong khi ba phần tư nam giới cảm thấy an toàn khi đi bộ vào ban đêm trong khu vực họ sinh sống, ít hơn một nửa phụ nữ Úc cảm thấy như vậy."
+I feel safe walking alone at night in my neighbourhood.,Tôi cảm thấy an toàn khi đi bộ một mình ban đêm trong khu vực tôi sinh sống.
+"It's also pretty clear that where someone can afford to live has an impact on how they answer this question. Only 52% of low-income Australians feel safe walking alone at night in their neighbourhood, compared to 71% of our top earners.","Điều cũng khá rõ ràng là, người ta có đủ khả năng tài chính để chọn sống ở đâu, thì nơi đó có ảnh hưởng đến cách họ trả lời câu hỏi này. Chỉ 52% người Úc có lợi tức thấp cảm thấy an toàn khi đi bộ một mình ban đêm trong khu vực họ sinh sống mà thôi, so với 71% những người có lợi tức cao hàng đầu của chúng ta."
+You're among 30% of Australians who say they don't feel safe walking home alone at night,Quý vị trong số 30% phụ nữ không cảm thấy an toàn khi đi bộ về nhà một mình vào ban đêm
+"While three-quarters of men feel safe walking in their neighbourhood at night, less than half of Australian women do.","Trong khi ba phần tư nam giới cảm thấy an toàn khi đi bộ vào ban đêm trong khu vực họ sinh sống, ít hơn một nửa phụ nữ Úc cảm thấy như vậy."
+I feel safe walking alone at night in my neighbourhood.,Tôi cảm thấy an toàn khi đi bộ một mình ban đêm trong khu vực tôi sinh sống.
+"It's also pretty clear that where someone can afford to live has an impact on how they answer this question. Only 52% of low-income Australians feel safe walking alone at night in their neighbourhood, compared to 71% of our top earners.","Điều cũng khá rõ ràng là, người ta có đủ khả năng tài chính để chọn sống ở đâu, thì nơi đó có ảnh hưởng đến cách họ trả lời câu hỏi này. Chỉ 52% người Úc có lợi tức thấp cảm thấy an toàn khi đi bộ một mình ban đêm trong khu vực họ sinh sống mà thôi, so với 71% những người có lợi tức cao hàng đầu của chúng ta."
+44% of Aussie women don't feel safe walking home alone at night — compared to just 16% of men,44% phụ nữ Úc không cảm thấy an toàn khi đi bộ một mình về nhà vào ban đêm – so với chỉ 16% nam giới là như vậy
+I feel safe walking alone at night in my neighbourhood.,Tôi cảm thấy an toàn khi đi bộ một mình ban đêm trong khu vực tôi sinh sống.
+"It's also pretty clear that where someone can afford to live has an impact on how they answer this question. Only 52% of low-income Australians feel safe walking alone at night in their neighbourhood, compared to 71% of our top earners.","Điều cũng khá rõ ràng là, người ta có đủ khả năng tài chính để chọn sống ở đâu, thì nơi đó có ảnh hưởng đến cách họ trả lời câu hỏi này. Chỉ 52% người Úc có lợi tức thấp cảm thấy an toàn khi đi bộ một mình ban đêm trong khu vực họ sinh sống mà thôi, so với 71% những người có lợi tức cao hàng đầu của chúng ta."
+I often worry about what other people think of me.,Tôi thường lo lắng về việc người khác nghĩ gì về mình.
+You're less worried about what others think of you than [[x]]% of people your age,Quý vị lo lắng về việc người khác nghĩ gì về mình ít hơn so với [[x]]% mọi người ở tuổi quý vị
+"More women than men tend to worry about what other people think of them, but the biggest difference occurs across a lifetime. The older we get, the less we seem to care about what others might think.","Nhiều phụ nữ hơn nam giới có xu hướng lo lắng về việc người khác nghĩ gì về mình, nhưng sự khác nhau lớn nhất diễn ra trong suốt đời. Càng lớn tuổi, chúng ta có vẻ càng ít quan tâm đến việc người khác có thể nghĩ gì."
+I often worry about what other people think of me.,Tôi thường lo lắng về việc người khác nghĩ gì về mình.
+You're more worried about what other people think of you than [[x]]% of people your age,Quý vị lo lắng về việc người khác nghĩ gì về mình nhiều hơn so với [[x]]% mọi người ở tuổi quý vị
+"More women than men tend to worry about what other people think of them, but the biggest difference occurs across a lifetime. The older we get, the less we seem to care about what others might think.","Nhiều phụ nữ hơn nam giới có xu hướng lo lắng về việc người khác nghĩ gì về mình, nhưng sự khác nhau lớn nhất diễn ra trong suốt đời. Càng lớn tuổi, chúng ta có vẻ càng ít quan tâm đến việc người khác có thể nghĩ gì."
+I often worry about what other people think of me.,Tôi thường lo lắng về việc người khác nghĩ gì về mình.
+Australians are split down the middle on whether they worry about what others think of them,Người Úc được chia đôi ở giữa đối với vấn đề liệu họ có lo lắng về việc người khác nghĩ gì về mình không
+"Overall, 42% say that what others think of them often concerns them, while 41% don't. More women than men tend to worry about this, but the biggest difference occurs across a lifetime. The older we get, the less we seem to care about what others might think.","Về tổng thể, 42% nói là việc người khác nghĩ gì về họ thường khiến họ bận tâm, trong khi 41% không như vậy. Nhiều phụ nữ hơn nam giới có xu hướng lo lắng về điều này, nhưng sự khác nhau lớn nhất diễn ra trong suốt đời. Càng lớn tuổi, chúng ta có vẻ càng ít quan tâm đến việc người khác có thể nghĩ gì."
+I often worry about what other people think of me.,Tôi thường lo lắng về việc người khác nghĩ gì về mình.
+"From what you know about climate change, which of the following statements comes closest to your opinion?","Từ những gì quý vị biết về sự thay đổi khí hậu, câu nào trong số những câu sau gần nhất với ý kiến của quý vị?"
+Climate change has been established as a serious problem and immediate action is necessary. ,Thay đổi khí hậu đã được chứng minh là một vấn đề nghiêm trọng và cần có các hành động ngay lập tức.
+There is enough evidence that climate change is taking place and some action should be taken.  ,Có đủ bằng chứng cho thấy sự thay đổi khí hậu đang diễn ra và nên có một số hành động nào đó.
+We don’t know enough about climate change and more research is necessary before we take any actions. ,Chúng ta chưa biết đủ về thay đổi khí hậu và cần phải nghiên cứu thêm nữa trước khi có bất kỳ hành động nào.
+Concern about climate change is unwarranted. ,Các quan ngại về sự thay đổi khí hậu là không có cơ sở.
+Not sure  ,Không biết chắc chắn
+You're with 60% of Australians who say climate change is a serious problem and now is the time to act,Quý vị cùng với 60% người Úc nói là sự thay đổi khí hậu là một vấn đề nghiêm trọng và giờ là lúc cần phải hành động
+"From what you know about climate change, which of the following statements comes closest to your opinion?","Từ những gì quý vị biết về sự thay đổi khí hậu, câu nào trong số những câu sau gần nhất với ý kiến của quý vị?"
+"People who think concern about climate change is unwarranted are more likely to be men, to be white Australians, to be older and to live in regional and rural parts of the country.","Những người cho rằng các quan ngại về sự thay đổi khí hậu là không có cơ sở, nhiều khả năng là những người Úc da trắng, lớn tuổi hơn và sống ở miền quê và những phần xa xôi của đất nước."
+You're with 24% of Australians who say 'some action' should be taken on climate change,"Quý vị cùng với 24% người Úc nói rằng, nên có 'một số hành động nào đó' đối với sự thay đổi khí hậu"
+That compares with 60% of people who think immediate action is needed.,Điều này so với 60% mọi người cho rằng cần có các hành động ngay lập tức.
+"From what you know about climate change, which of the following statements comes closest to your opinion?","Từ những gì quý vị biết về sự thay đổi khí hậu, câu nào trong số những câu sau gần nhất với ý kiến của quý vị?"
+"People who think concern about climate change is unwarranted are more likely to be men, to be white Australians, to be older and to live in regional and rural parts of the country.","Những người cho rằng các quan ngại về sự thay đổi khí hậu là không có cơ sở, nhiều khả năng là những người Úc da trắng, lớn tuổi hơn và sống ở miền quê và những phần xa xôi của đất nước."
+You're with 8% of Australians who think we need more research on climate change before taking action,Quý vị cùng với 8% người Úc cho rằng chúng ta cần có các nghiên cứu thêm nữa về sự thay đổi khí hậu trước khi có các hành động
+That compares with 60% of people who think immediate action is needed.,Con số này so với 60% mọi người cho rằng cần có các hành động ngay lập tức.
+"From what you know about climate change, which of the following statements comes closest to your opinion?","Từ những gì quý vị biết về sự thay đổi khí hậu, câu nào trong số những câu sau gần nhất với ý kiến của quý vị?"
+"People who think concern about climate change is unwarranted are more likely to be men, to be white Australians, to be older and to live in regional and rural parts of the country.","Những người cho rằng các quan ngại về sự thay đổi khí hậu là không có cơ sở, nhiều khả năng là những người Úc da trắng, lớn tuổi hơn và sống ở miền quê và những phần xa xôi của đất nước."
+You're with 7% of Australians who think concern about climate change is unwarranted,Quý vị cùng với 7% người Úc cho rằng các quan ngại về sự thay đổi khí hậu là không có cơ sở
+That compares with 60% of people who think immediate action is needed.,Con số này so với 60% mọi người cho rằng cần có các hành động ngay lập tức.
+"From what you know about climate change, which of the following statements comes closest to your opinion?","Từ những gì quý vị biết về sự thay đổi khí hậu, câu nào trong số những câu sau gần nhất với ý kiến của quý vị?"
+"People who think concern about climate change is unwarranted are more likely to be men, to be white Australians, to be older and to live in regional and rural parts of the country.","Những người cho rằng các quan ngại về sự thay đổi khí hậu là không có cơ sở, nhiều khả năng là những người Úc da trắng, lớn tuổi hơn và sống ở miền quê và những phần xa xôi của đất nước."
+"You're not sure what to do about climate change, but 60% say now is the time to act","Quý vị không biết chắc chắn cần phải làm gì với sự thay đổi khí hậu, nhưng 60% nói rằng, giờ là lúc cần phải hành động"
+"From what you know about climate change, which of the following statements comes closest to your opinion?","Từ những gì quý vị biết về sự thay đổi khí hậu, câu nào trong số những câu sau gần nhất với ý kiến của quý vị?"
+"People who think concern about climate change is unwarranted are more likely to be men, to be white Australians, to be older and to live in regional and rural parts of the country.","Những người cho rằng các quan ngại về sự thay đổi khí hậu là không có cơ sở, nhiều khả năng là những người Úc da trắng, lớn tuổi hơn và sống ở miền quê và những phần xa xôi của đất nước."
+How confident are you that you will have enough money to retire comfortably?,Quý vị tự tin ở mức độ nào là mình sẽ có đủ tiền để nghỉ hưu một cách thoải mái?
+You're more confident than [[X]]% of people your age that you'll be able to retire comfortably,Quý vị tự tin hơn so với [[X]]% mọi người ở tuổi quý vị là mình sẽ có thể nghỉ hưu một cách thoải mái
+How confident are you that you will have enough money to retire comfortably?,Quý vị tự tin ở mức độ nào là mình sẽ có đủ tiền để nghỉ hưu một cách thoải mái?
+You're less confident than [[X]]% of people your age that you'll be able to retire comfortably,Quý vị kém tự tin hơn so với [[X]]% mọi người ở tuổi quý vị là mình sẽ có thể nghỉ hưu một cách thoải mái
+How confident are you that you will have enough money to retire comfortably?,Quý vị tự tin ở mức độ nào là mình sẽ có đủ tiền để nghỉ hưu một cách thoải mái?
+You're more confident than [[X]]% of people your age that you'll be able to retire comfortably,Quý vị tự tin hơn [[X]]% mọi người ở tuổi quý vị là mình sẽ có thể nghỉ hư một cách thoải mái
+How confident are you that you will have enough money to retire comfortably?,Quý vị tự tin ở mức độ nào là mình sẽ có đủ tiền để nghỉ hưu một cách thoải mái?
+You're less confident than [[X]]% of people your age that you'll be able to retire comfortably,Quý vị kém tự tin hơn [[X]]% mọi người ở tuổi quý vị là mình sẽ có thể nghỉ hưu một cách thoải mái
+How confident are you that you will have enough money to retire comfortably?,Quý vị tự tin ở mức độ nào là mình sẽ có đủ tiền để nghỉ hưu một cách thoải mái?
+You're more confident than [[X]]% of people your age about retiring comfortably,Quý vị tự hin hơn [[X]]% mọi người ở tuổi quý vị về việc nghỉ hưu một cách thoải mái
+One-third of people around retirement age don't feel confident they'll have enough to live comfortably.,Một phần ba mọi người quanh tuổi nghỉ hưu không cảm thấy tự tin là mình sẽ có đủ tiền để sống một cách thoải mái.
+How confident are you that you will have enough money to retire comfortably?,Quý vị tự tin ở mức độ nào là mình sẽ có đủ tiền để nghỉ hưu một cách thoải mái?
+You're less confident than [[X]]% of people your age about retiring comfortably,Quý vị kém tự tin hơn so với [[X]]% mọi người ở tuổi quý vị về việc nghỉ hưu một cách thoải mái
+One-third of people around retirement age don't feel confident they'll have enough to live comfortably.,Một phần ba mọi người quanh tuổi nghỉ hưu không cảm thấy tự tin là mình sẽ có đủ tiền để sống một cách thoải mái.
+How confident are you that you will have enough money to retire comfortably?,Quý vị tự tin ở mức độ nào là mình sẽ có đủ tiền để nghỉ hưu một cách thoải mái?
+47% of Australians are not confident they'll have enough money to retire comfortably,47% người Úc không tự tin là họ sẽ có đủ tiền để nghỉ hưu một cách thoải mái
+How confident are you that you will have enough money to retire comfortably?,Quý vị tự tin ở mức độ nào là mình sẽ có đủ tiền để nghỉ hưu một cách thoải mái?
+"In politics people sometimes talk of left and right. Where would you place yourself on the scale below, where 0 is left and 10 is right?","Trong chính trị, người ta đôi khi nói về cánh tả và cánh hữu. Quý vị liệu đặt mình ở đâu trên thang đo dưới đây, trong đó 0 là tả và 10 là hữu?"
+You are more left-wing than [[X]]% of Australians,Quý vị thuộc cánh tả nhiều hơn so với [[X]]% người Úc
+You are more right-wing than [[X]]% of Australians,Quý vị thuộc cánh tả nhiều hơn so với [[X]]% người Úc
+"In terms of politics, you're a centrist — so are [[X]]% of Australians. ","Về chính trị, quý vị là người trung dung, ở giữa — [[X]]% người Úc khác cũng vậy.  "
+How important would you say religion is in your life?,Liệu quý vị nói tôn giáo quan trọng ở mức độ nào trong cuộc sống của mình?
+Religion is more important to you than it is to [[x]]% of Australians,"Tôn giáo quan trọng với quý vị hơn, so với [[x]]% người Úc"
+How important would you say religion is in your life?,Liệu quý vị nói tôn giáo quan trọng ở mức độ nào trong cuộc sống của mình?
+Religion is less important to you than it is to [[x]]% of Australians,"Tôn giáo ít quan trọng với quý vị hơn, so với [[x]]% người Úc"
+How important would you say religion is in your life?,Liệu quý vị nói tôn giáo quan trọng ở mức độ nào trong cuộc sống của mình?
+How satisfied are you that the education system in Australia is preparing students for a job in the future?,Quý vị hài lòng ở mức nào về việc hệ thống giáo dục ở Úc đang chuẩn bị cho học sinh cho việc làm trong tương lai?
+You are more satisfied with the way our education system is preparing students for a job than [[x]]% of people,"Quý vị hài lòng hơn về việc hệ thống giáo dục ở Úc đang chuẩn bị cho học sinh cho việc làm trong tương lai, so với [[x]]% mọi người"
+"Notably, parents with children at school tend to be more satisfied than the population overall on this question.","Đặc biệt, về câu hỏi này, các phụ huynh có con đang đi học có xu hướng hài lòng hơn, so với tổng thể dân số."
+How satisfied are you that the education system in Australia is preparing students for a job in the future?,Quý vị hài lòng ở mức nào về việc hệ thống giáo dục ở Úc đang chuẩn bị cho học sinh cho việc làm trong tương lai?
+Australians are divided on how well our education system is doing,Người Úc bị chia rẽ bởi câu hỏi hệ thống giáo dục của chúng ta đang làm tốt ở mức độ nào
+"Notably, parents with children at school tend to be more satisfied than the population overall on this question.","Đặc biệt, về câu hỏi này, các phụ huynh có con đang đi học có xu hướng hài lòng hơn, so với tổng thể dân số."
+How satisfied are you that the education system in Australia is preparing students for a job in the future?,Quý vị hài lòng ở mức nào về việc hệ thống giáo dục ở Úc đang chuẩn bị cho học sinh cho việc làm trong tương lai?
+You are less satisfied with the way our education system is preparing students for a job than [[x]]% of people,"Quý vị ít hài lòng hơn về việc hệ thống giáo dục ở Úc đang chuẩn bị cho học sinh cho việc làm trong tương lai, so với [[x]]% mọi người"
+"Notably, parents with children at school tend to be more satisfied than the population overall on this question.","Đặc biệt, về câu hỏi này, các phụ huynh có con đang đi học có xu hướng hài lòng hơn, so với tổng thể dân số."
+How satisfied are you that the education system in Australia is preparing students for a job in the future?,Quý vị hài lòng ở mức nào về việc hệ thống giáo dục ở Úc đang chuẩn bị cho học sinh cho việc làm trong tương lai?
+Do you think that young Australians today will be better or worse off overall than their parents?,"Quý vị nghĩ là về tổng thể, giới trẻ Úc ngày nay sẽ thuận lợi hơn hay bất lợi hơn so với cha mẹ họ? "
+You are more optimistic about young people's futures than [[X]]% of Australians your age,Quý vị lạc quan về tương lai của giới trẻ hơn so với [[X]]% người Úc ở tuổi quý vị
+Only 3 per cent of Australians think young people will be a lot better off than their parents — and younger Aussies themselves are the most pessimistic.,Chỉ 3 phần trăm người Úc nghĩ là giới trẻ sẽ thuận lợi hơn rất nhiều so với cha mẹ họ - và bản thân những người Úc trẻ hơn là bi quan nhất.
+Do you think that young Australians today will be better or worse off overall than their parents?,"Quý vị nghĩ là về tổng thể, giới trẻ Úc ngày nay sẽ thuận lợi hơn hay bất lợi hơn so với cha mẹ họ?"
+"Next, let's take a look at some of the issues where more Australians agree with your views than disagree with them.","Tiếp theo, chúng ta hãy cùng xem xét đến một số vấn đề mà có thêm nhiều người Úc đồng ý với các quan điểm của quý vị hơn là không đồng ý."
+You are more pessimistic about young people's futures than [[X]]% of Australians your age,Quý vị bi quan về tương lai của giới trẻ hơn so với [[X]]% người Úc ở tuổi quý vị
+Only 3 per cent of Australians think young people will be much better off than their parents — and younger Aussies themselves are the most pessimistic.,Chỉ 3 phần trăm người Úc nghĩ là giới trẻ sẽ thuận lợi hơn rất nhiều so với cha mẹ họ - và bản thân những người Úc trẻ hơn là bi quan nhất.
+Do you think that young Australians today will be better or worse off overall than their parents?,"Quý vị nghĩ là về tổng thể, giới trẻ Úc ngày nay sẽ thuận lợi hơn hay bất lợi hơn so với cha mẹ họ?"
+The following issues are ones where a larger proportion of people disagree with your perspective rather than agreeing.,"Sau đây là những vấn đề nơi mà một tỉ lệ lớn hơn mọi người không đồng ý với quan điểm của quý vị, hơn là đồng ý. "
+You are among 1 in 5 people who think young Australians will be about as well off as their parents overall,"Quý vị trong số một phần năm mọi người nghĩ là về tổng thể, những người Úc trẻ sẽ thuận lợi như cha mẹ họ vậy"
+Only 3 per cent of Australians think young people will be much better off than their parents — and younger Aussies themselves are the most pessimistic.,Chỉ 3 phần trăm người Úc nghĩ là giới trẻ sẽ thuận lợi hơn rất nhiều so với cha mẹ họ - và bản thân những người Úc trẻ hơn là bi quan nhất.
+Do you think that young Australians today will be better or worse off overall than their parents?,"Quý vị nghĩ là về tổng thể, giới trẻ Úc ngày nay sẽ thuận lợi hơn hay bất lợi hơn so với cha mẹ họ?"
+"And now, let's look at some issues where you answered neutral or don't know — and find out what other Australians think.","Và giờ, chúng ta hãy cùng xem xét một số vấn đề trong đó quý vị đã trả lời trung lập hoặc không biết - và tìm hiểu xem những người Úc khác nghĩ gì."
+Most politicians in Australia will lie if they feel the truth will hurt them politically.,Phần lớn các chính trị gia tại Úc sẽ nói dối nếu họ cảm thấy sự thật sẽ bất lợi cho họ về mặt chính trị. 
+"Along with 90% of Australians, you don't trust politicians to tell the truth","Cùng với 90% người Úc, quý vị không tin các chính trị gia sẽ nói thật"
+Most politicians will lie if they feel the truth will hurt them politically.,Phần lớn các chính trị gia tại Úc sẽ nói dối nếu họ cảm thấy sự thật sẽ bất lợi cho họ về mặt chính trị.
+You put more trust in politicians to tell the truth than 90% of Australians do,"Quý vị tin là không tin các chính trị gia sẽ nói thật, nhiều hơn 90% người Úc"
+Most politicians will lie if they feel the truth will hurt them politically.,Phần lớn các chính trị gia tại Úc sẽ nói dối nếu họ cảm thấy sự thật sẽ bất lợi cho họ về mặt chính trị.
+Very few Australians trust our politicians to tell the truth,Rất ít người Úc tin là các chính trị gia của chúng ta sẽ nói thật
+"You weren't sure on this one, but most Australians have a very clear view.","Quý vị không biết chắc chắn về vấn đề này, nhưng hầu hết người Úc có một quan điểm rất rõ ràng."
+Most politicians will lie if they feel the truth will hurt them politically.,Phần lớn các chính trị gia tại Úc sẽ nói dối nếu họ cảm thấy sự thật sẽ bất lợi cho họ về mặt chính trị.
+Big businesses care more about profit than they do about what's best for Australia.,Các doanh nghiệp lớn quan tâm đến lợi nhuận nhiều hơn đến những gì tốt đẹp nhất cho nước Úc.
+"You say big businesses care more about profits than doing the right thing by the country, and 90% of Australians agree with you",Quý vị nói là các doanh nghiệp lớn quan tâm đến lợi nhuận nhiều hơn đến việc làm theo lẽ phải và 90% người Úc đồng ý với quý vị
+"LNP voters are the most likely to believe big businesses have got our back as a nation, but even that percentage is low (10%).","Những người bỏ phiếu cho LNP có nhiều khả năng tin tưởng nhất là các doanh nghiệp lớn được đất nước ủng hộ, nhưng ngay cả như vậy thì tỉ lệ phần trăm vẫn thấp (10%)."
+Big businesses care more about profit than they do about what's best for Australia.,Các doanh nghiệp lớn quan tâm đến lợi nhuận nhiều hơn đến những gì tốt đẹp nhất cho nước Úc.
+You're one of 5% of Australians who believe big businesses care about the national interest at least as much as profits,"Quý vị là một trong số 5% người Úc tin là các doanh nghiệp lớn quan tâm đến quyền gia quốc gia, ít nhất cũng không thua kém gì so với việc quan tâm đến lợi nhuận"
+"LNP voters are the most likely group to believe big businesses have got our back as a nation, but even that percentage is low (10%).","Những người bỏ phiếu cho LNP có nhiều khả năng tin tưởng nhất là các doanh nghiệp lớn được đất nước ủng hộ, nhưng ngay cả như vậy thì tỉ lệ phần trăm vẫn thấp (10%)."
+Big businesses care more about profit than they do about what's best for Australia.,Các doanh nghiệp lớn quan tâm đến lợi nhuận nhiều hơn đến những gì tốt đẹp nhất cho nước Úc.
+90% of Australians think big businesses care more about profits than doing the right thing by the country,90% người Úc cho là các doanh nghiệp lớn quan tâm đến lợi nhuận nhiều hơn đến việc làm theo lẽ phải 
+"LNP voters are the most likely to believe big businesses have got our back as a nation, but even that percentage is low (10%).","Những người bỏ phiếu cho LNP có nhiều khả năng tin tưởng nhất là các doanh nghiệp lớn được đất nước ủng hộ, nhưng ngay cả như vậy thì tỉ lệ phần trăm vẫn thấp (10%)."
+Big businesses care more about profit than they do about what's best for Australia.,Các doanh nghiệp lớn quan tâm đến lợi nhuận nhiều hơn đến những gì tốt đẹp nhất cho nước Úc.
+"In general, how would you characterise your mental health?","Về tổng quát, liệu quý vị mô tả sức khỏe tâm thần của mình thế nào?"
+You're not alone — 15% of people your age rated their mental health as poor,Không riêng gì quý vị - 15% mọi người ở tuổi quý vị xếp loại sức khỏe tâm thần của mình là tồi tệ
+"Proportion of people who rate their mental health as either 'poor' or 'fair', by age group.",Tỉ lệ theo nhóm tuổi những người xếp loại sức khỏe tâm thần của mình là 'tồi tệ' hoặc 'trung bình'. 
+You're not alone — 29% of people your age rated their mental health as fair,Không riêng gì quý vị - 29% mọi người ở tuổi quý vị xếp loại sức khỏe tâm thần của mình là trung bình
+"Proportion of people who rate their mental health as either 'poor' or 'fair', by age group.",Tỉ lệ theo nhóm tuổi những người xếp loại sức khỏe tâm thần của mình là 'tồi tệ' hoặc 'trung bình'. 
+"When it comes to mental health, you're among 57% of people your age who said they're doing well","Liên quan đến sức khỏe tâm thần, quý vị trong số 57% mọi người ở tuổi quý vị nói là họ có sức khỏe tốt"
+"Proportion of people who rate their mental health as either 'poor' or 'fair', by age group.","Proportion of people who rate their mental health as either 'poor' or 'fair', by age group."
+You're not alone — 15% of people your age rated their mental health as poor,Không riêng gì quý vị - 15% mọi người ở tuổi quý vị xếp loại sức khỏe tâm thần của mình là tồi tệ
+"Proportion of people who rate their mental health as either 'poor' or 'fair', by age group.",Tỉ lệ theo nhóm tuổi những người xếp loại sức khỏe tâm thần của mình là 'tồi tệ' hoặc 'trung bình'. 
+You're not alone — 27% of people your age rated their mental health as fair,Không riêng gì quý vị - 27% mọi người ở tuổi quý vị xếp loại sức khỏe tâm thần của mình là trung bình
+"Proportion of people who rate their mental health as either 'poor' or 'fair', by age group.",Tỉ lệ theo nhóm tuổi những người xếp loại sức khỏe tâm thần của mình là 'tồi tệ' hoặc 'trung bình'. 
+"When it comes to mental health, you're among 58% of people your age who said they're doing well","Liên quan đến sức khỏe tâm thần, quý vị trong số 58% mọi người ở tuổi quý vị nói là họ có sức khỏe tốt"
+"Proportion of people who rate their mental health as either 'poor' or 'fair', by age group.",Tỉ lệ theo nhóm tuổi những người xếp loại sức khỏe tâm thần của mình là 'tồi tệ' hoặc 'trung bình'. 
+You're not alone — 10% of people your age rated their mental health as poor,Không riêng gì quý vị - 10% mọi người ở tuổi quý vị xếp loại sức khỏe tâm thần của mình là tồi tệ
+"Proportion of people who rate their mental health as either 'poor' or 'fair', by age group.",Tỉ lệ theo nhóm tuổi những người xếp loại sức khỏe tâm thần của mình là 'tồi tệ' hoặc 'trung bình'. 
+You're not alone — 24% of people your age rated their mental health as fair,Không riêng gì quý vị - 24% mọi người ở tuổi quý vị xếp loại sức khỏe tâm thần của mình là trung bình
+"Proportion of people who rate their mental health as either 'poor' or 'fair', by age group.",Tỉ lệ theo nhóm tuổi những người xếp loại sức khỏe tâm thần của mình là 'tồi tệ' hoặc 'trung bình'. 
+"When it comes to mental health, you're among 66% of people your age who said they're doing well","Liên quan đến sức khỏe tâm thần, quý vị trong số 66% mọi người ở tuổi quý vị nói là họ có sức khỏe tốt"
+"Proportion of people who rate their mental health as either 'poor' or 'fair', by age group.",Tỉ lệ theo nhóm tuổi những người xếp loại sức khỏe tâm thần của mình là 'tồi tệ' hoặc 'trung bình'. 
+You're not alone — 8% of people your age rated their mental health as poor,Không riêng gì quý vị - 8% mọi người ở tuổi quý vị xếp loại sức khỏe tâm thần của mình là tồi tệ
+"Proportion of people who rate their mental health as either 'poor' or 'fair', by age group.",Tỉ lệ theo nhóm tuổi những người xếp loại sức khỏe tâm thần của mình là 'tồi tệ' hoặc 'trung bình'. 
+You're not alone — 22% of people your age rated their mental health as fair,Không riêng gì quý vị - 22% mọi người ở tuổi quý vị xếp loại sức khỏe tâm thần của mình là trung bình
+"Proportion of people who rate their mental health as either 'poor' or 'fair', by age group.",Tỉ lệ theo nhóm tuổi những người xếp loại sức khỏe tâm thần của mình là 'tồi tệ' hoặc 'trung bình'. 
+"When it comes to mental health, you're among 69% of people your age who said they're doing well","Liên quan đến sức khỏe tâm thần, quý vị trong số 69% mọi người ở tuổi quý vị nói là họ có sức khỏe tốt"
+"Proportion of people who rate their mental health as either 'poor' or 'fair', by age group.",Tỉ lệ theo nhóm tuổi những người xếp loại sức khỏe tâm thần của mình là 'tồi tệ' hoặc 'trung bình'. 
+You're not alone — 5% of people your age rated their mental health as poor,Không riêng gì quý vị - 5% mọi người ở tuổi quý vị xếp loại sức khỏe tâm thần của mình là tồi tệ
+"Proportion of people who rate their mental health as either 'poor' or 'fair', by age group.",Tỉ lệ theo nhóm tuổi những người xếp loại sức khỏe tâm thần của mình là 'tồi tệ' hoặc 'trung bình'. 
+You're not alone — 20% of people your age rated their mental health as fair,Không riêng gì quý vị - 20% mọi người ở tuổi quý vị xếp loại sức khỏe tâm thần của mình là trung bình
+"Proportion of people who rate their mental health as either 'poor' or 'fair', by age group.",Tỉ lệ theo nhóm tuổi những người xếp loại sức khỏe tâm thần của mình là 'tồi tệ' hoặc 'trung bình'. 
+"When it comes to mental health, you're among 75% of people your age who said they're doing well","Liên quan đến sức khỏe tâm thần, quý vị trong số 75% mọi người ở tuổi quý vị nói là họ có sức khỏe tốt"
+"Proportion of people who rate their mental health as either 'poor' or 'fair', by age group.",Tỉ lệ theo nhóm tuổi những người xếp loại sức khỏe tâm thần của mình là 'tồi tệ' hoặc 'trung bình'. 
+You're not alone — 8% of Australians rate their mental health as poor,Không riêng gì quý vị - 8% người Úc xếp loại sức khỏe tâm thần của mình là tồi tệ
+"Proportion of people who rate their mental health as either 'poor' or 'fair', by age group.",Tỉ lệ theo nhóm tuổi những người xếp loại sức khỏe tâm thần của mình là 'tồi tệ' hoặc 'trung bình'. 
+You're not alone — 11% of people your age rated their mental health as fair,Không riêng gì quý vị - 11% mọi người ở tuổi quý vị xếp loại sức khỏe tâm thần của mình là trung bình
+"Proportion of people who rate their mental health as either 'poor' or 'fair', by age group.",Tỉ lệ theo nhóm tuổi những người xếp loại sức khỏe tâm thần của mình là 'tồi tệ' hoặc 'trung bình'. 
+"When it comes to mental health, you're among 87% of people your age who said they're doing well","Liên quan đến sức khỏe tâm thần, quý vị trong số 87% mọi người ở tuổi quý vị nói là họ có sức khỏe tốt"
+"Proportion of people who rate their mental health as either 'poor' or 'fair', by age group.",Tỉ lệ theo nhóm tuổi những người xếp loại sức khỏe tâm thần của mình là 'tồi tệ' hoặc 'trung bình'. 
+You're not alone — 8% of Australians rate their mental health as poor,Không riêng gì quý vị - 8% người Úc xếp loại sức khỏe tâm thần của mình là tồi tệ
+"Proportion of people who rate their mental health as either 'poor' or 'fair', by age group.",Tỉ lệ theo nhóm tuổi những người xếp loại sức khỏe tâm thần của mình là 'tồi tệ' hoặc 'trung bình'. 
+You're not alone — 21% of Australians rated their mental health as fair,Không riêng gì quý vị - 21% người Úc xếp loại sức khỏe tâm thần của mình là trung bình
+"Proportion of people who rate their mental health as either 'poor' or 'fair', by age group.",Tỉ lệ theo nhóm tuổi những người xếp loại sức khỏe tâm thần của mình là 'tồi tệ' hoặc 'trung bình'. 
+"When it comes to mental health, you're among 92% of people your age who said they're doing well","Liên quan đến sức khỏe tâm thần, quý vị trong số 92% mọi người ở tuổi quý vị nói là họ có sức khỏe tốt"
+"Proportion of people who rate their mental health as either 'poor' or 'fair', by age group.",Tỉ lệ theo nhóm tuổi những người xếp loại sức khỏe tâm thần của mình là 'tồi tệ' hoặc 'trung bình'. 
