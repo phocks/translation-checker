@@ -9,6 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "chalk": "^2.4.2",
+    "cli-highlight": "^2.1.1",
     "traverse": "^0.6.6",
     "yaml": "^1.7.0"
   }

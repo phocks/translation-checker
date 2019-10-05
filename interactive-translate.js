@@ -1,6 +1,8 @@
 const fs = require("fs");
 const YAML = require("yaml");
-traverse = require("traverse");
+const traverse = require("traverse");
+const chalk = require("chalk");
+const highlight = require("cli-highlight").highlight;
 
 const files = fs.readdirSync("./files");
 const reference = require("./reference.json");
@@ -17,82 +19,126 @@ for (let file of files) {
   let logFilename = false;
 
   traverse(parsedYaml).forEach(function(element) {
-    let englishText;
-    let nodeName;
+    let englishText = [];
+    // let nodeName;
 
     if (!element) return;
 
+    if (
+      !element.text &&
+      !element.narrative &&
+      !element.description &&
+      !element.title &&
+      !element.viz_headline &&
+      !element.viz_pre_text &&
+      !element.headline &&
+      !element.card_post_text &&
+      !element.label
+    )
+      return;
+
     if (element.text) {
-      englishText = element.text.en;
-      nodeName = "text";
-    } else if (element.narrative) {
-      englishText = element.narrative.en;
-      nodeName = "narrative";
-    } else if (element.description) {
-      englishText = element.description.en;
-      nodeName = "description";
-    } else if (element.title) {
-      englishText = element.title.en;
-      nodeName = "title";
-    } else if (element.viz_headline) {
-      englishText = element.viz_headline.en;
-      nodeName = "viz_headline";
-    } else if (element.headline) {
-      englishText = element.headline.en;
-      nodeName = "headline";
-    } else if (element.viz_pre_text) {
-      englishText = element.viz_pre_text.en;
-      nodeName = "viz_pre_text";
-    } else if (element.card_post_text) {
-      englishText = element.card_post_text.en;
-      nodeName = "card_post_text";
-    } else if (element.label) {
-      englishText = element.label.en;
-      nodeName = "label";
-    } else return;
+      englishText.push({ text: element.text.en, nodeName: "text" });
+    }
+    if (element.narrative) {
+      englishText.push({ text: element.narrative.en, nodeName: "narrative" });
+    }
 
-    const foundChoice = reference.find(el => {
-      let firstCompare = el.en.toLowerCase();
-      let secondCompare = englishText.toString().toLowerCase();
+    if (element.description) {
+      englishText.push({
+        text: element.description.en,
+        nodeName: "description"
+      });
+    }
 
-      // Remove markup formatting
-      firstCompare = firstCompare.replace(/\[/gi, "");
-      firstCompare = firstCompare.replace(/\]\(title\)/gi, "");
-      firstCompare = firstCompare.replace(/\]\(bold\)/gi, "");
-      firstCompare = firstCompare.replace(/\]\]\%/gi, "");
-      firstCompare = firstCompare.replace(/\[\[/gi, "");
-      firstCompare = firstCompare.replace(/\%\{headlineCalc\}/gi, "x");
+    if (element.title) {
+      englishText.push({ text: element.title.en, nodeName: "title" });
+    }
 
-      secondCompare = secondCompare.replace(/\[/gi, "");
-      secondCompare = secondCompare.replace(/\]\(title\)/gi, "");
-      secondCompare = secondCompare.replace(/\]\(bold\)/gi, "");
-      secondCompare = secondCompare.replace(/\%\{headlineCalc\}/gi, "x");
-      secondCompare = secondCompare.replace(/\]\]\%/gi, "");
-      secondCompare = secondCompare.replace(/\[\[/gi, "");
+    if (element.viz_headline) {
+      englishText.push({
+        text: element.viz_headline.en,
+        nodeName: "viz_headline"
+      });
+    }
 
-      return firstCompare === secondCompare;
-    });
+    if (element.viz_pre_text) {
+      englishText.push({
+        text: element.viz_pre_text.en,
+        nodeName: "viz_pre_text"
+      });
+    }
 
-    const otherLang = this.node[nodeName][OTHER_LANGUAGE];
+    if (element.headline) {
+      englishText.push({ text: element.headline.en, nodeName: "headline" });
+    }
 
-    if (foundChoice) {
-      if (!otherLang) {
-        logFilename = true;
-        foundChoice[OTHER_LANGUAGE] = foundChoice[OTHER_LANGUAGE].replace(
-          "[[X]]%",
-          "[%{headlineCalc}](title)"
-        );
-        foundChoice[OTHER_LANGUAGE] = foundChoice[OTHER_LANGUAGE].replace(
-          "[[x]]%",
-          "[%{headlineCalc}](title)"
-        );
-        this.node[nodeName][OTHER_LANGUAGE] = foundChoice[OTHER_LANGUAGE];
-        console.log(foundChoice);
+    if (element.card_post_text) {
+      englishText.push({
+        text: element.card_post_text.en,
+        nodeName: "card_post_text"
+      });
+    }
+
+    if (element.label) {
+      englishText.push({ text: element.label.en, nodeName: "label" });
+    }
+
+    //  return;
+
+    for (let enText of englishText) {
+      const foundChoice = reference.find(el => {
+        let firstCompare = el.en.toLowerCase();
+        let secondCompare = enText.text.toString().toLowerCase();
+
+        // Remove markup formatting
+        firstCompare = firstCompare.replace(/\[/gi, "");
+        firstCompare = firstCompare.replace(/\]\(title\)/gi, "");
+        firstCompare = firstCompare.replace(/\]\(bold\)/gi, "");
+        firstCompare = firstCompare.replace(/\]\]\%/gi, "");
+        firstCompare = firstCompare.replace(/\[\[/gi, "");
+        firstCompare = firstCompare.replace(/\%\{headlineCalc\}/gi, "x");
+        firstCompare = firstCompare.replace(/\W/gi, "");
+
+        secondCompare = secondCompare.replace(/\[/gi, "");
+        secondCompare = secondCompare.replace(/\]\(title\)/gi, "");
+        secondCompare = secondCompare.replace(/\]\(bold\)/gi, "");
+        secondCompare = secondCompare.replace(/\%\{headlineCalc\}/gi, "x");
+        secondCompare = secondCompare.replace(/\]\]\%/gi, "");
+        secondCompare = secondCompare.replace(/\[\[/gi, "");
+        secondCompare = secondCompare.replace(/\W/gi, "");
+
+        return firstCompare === secondCompare;
+      });
+
+      const otherLang = this.node[enText.nodeName][OTHER_LANGUAGE];
+
+      if (foundChoice) {
+        if (!otherLang) {
+          logFilename = true;
+          foundChoice[OTHER_LANGUAGE] = foundChoice[OTHER_LANGUAGE].replace(
+            "[[X]]%",
+            "[%{headlineCalc}](title)"
+          );
+          foundChoice[OTHER_LANGUAGE] = foundChoice[OTHER_LANGUAGE].replace(
+            "[[x]]%",
+            "[%{headlineCalc}](title)"
+          );
+          this.node[enText.nodeName][OTHER_LANGUAGE] =
+            foundChoice[OTHER_LANGUAGE];
+          // console.log(foundChoice);
+          console.log(
+            highlight(YAML.stringify(this.node[enText.nodeName]), {
+              language: "yaml",
+              ignoreIllegals: true
+            })
+          );
+        }
       }
     }
   });
 
-  if (logFilename) console.log("^^^^from " + file);
+  if (logFilename) console.log(chalk.yellowBright("^^^^from " + file));
   logFilename = false;
 
   fs.writeFileSync("./out/" + file, YAML.stringify(parsedYaml));
