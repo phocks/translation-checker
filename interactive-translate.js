@@ -55,13 +55,20 @@ for (let file of files) {
       let firstCompare = el.en.toLowerCase();
       let secondCompare = englishText.toString().toLowerCase();
 
+      // Remove markup formatting
       firstCompare = firstCompare.replace(/\[/gi, "");
       firstCompare = firstCompare.replace(/\]\(title\)/gi, "");
       firstCompare = firstCompare.replace(/\]\(bold\)/gi, "");
+      firstCompare = firstCompare.replace(/\]\]\%/gi, "");
+      firstCompare = firstCompare.replace(/\[\[/gi, "");
+      firstCompare = firstCompare.replace(/\%\{headlineCalc\}/gi, "x");
 
       secondCompare = secondCompare.replace(/\[/gi, "");
       secondCompare = secondCompare.replace(/\]\(title\)/gi, "");
       secondCompare = secondCompare.replace(/\]\(bold\)/gi, "");
+      secondCompare = secondCompare.replace(/\%\{headlineCalc\}/gi, "x");
+      secondCompare = secondCompare.replace(/\]\]\%/gi, "");
+      secondCompare = secondCompare.replace(/\[\[/gi, "");
 
       return firstCompare === secondCompare;
     });
@@ -70,8 +77,16 @@ for (let file of files) {
 
     if (foundChoice) {
       if (!otherLang) {
-        this.node[nodeName][OTHER_LANGUAGE] = foundChoice[OTHER_LANGUAGE];
         logFilename = true;
+        foundChoice[OTHER_LANGUAGE] = foundChoice[OTHER_LANGUAGE].replace(
+          "[[X]]%",
+          "[%{headlineCalc}](title)"
+        );
+        foundChoice[OTHER_LANGUAGE] = foundChoice[OTHER_LANGUAGE].replace(
+          "[[x]]%",
+          "[%{headlineCalc}](title)"
+        );
+        this.node[nodeName][OTHER_LANGUAGE] = foundChoice[OTHER_LANGUAGE];
         console.log(foundChoice);
       }
     }
