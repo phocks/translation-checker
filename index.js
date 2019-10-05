@@ -14,8 +14,19 @@ for (let file of files) {
   const secondCount = (text.match(secondLanguage) || []).length;
 
   if (firstCount === secondCount) {
-    // console.log("Test passed: " + filename);
+    console.log(
+      "Test PASSED for " + filename + secondCount + " of " + firstCount
+    );
   } else {
-    console.log("Test failed: " + filename);
+    console.log(
+      "Test FAILED for " +
+        filename +
+        " " +
+        secondCount +
+        " of " +
+        firstCount +
+        " missing: " +
+        (firstCount - secondCount)
+    );
   }
 }

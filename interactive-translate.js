@@ -148,12 +148,12 @@ for (let file of files) {
             })
           );
 
-          // console.log(
-          //   highlight(YAML.stringify(this.node[enText.nodeName]), {
-          //     language: "yaml",
-          //     ignoreIllegals: true
-          //   })
-          // );
+          console.log(
+            highlight(YAML.stringify(this.node[enText.nodeName]), {
+              language: "yaml",
+              ignoreIllegals: true
+            })
+          );
         }
       }
     }
@@ -162,5 +162,5 @@ for (let file of files) {
   if (logFilename) console.log(chalk.yellowBright("^^^^from " + file));
   logFilename = false;
 
-  fs.writeFileSync("./out/" + file, YAML.stringify(parsedYaml));
+  // fs.writeFileSync("./out/" + file, YAML.stringify(parsedYaml));
 }
