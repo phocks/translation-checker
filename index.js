@@ -15,7 +15,13 @@ for (let file of files) {
 
   if (firstCount === secondCount) {
     console.log(
-      "Test PASSED for " + filename + secondCount + " of " + firstCount
+      "Test PASSED for " +
+        filename +
+        " " +
+        secondCount +
+        " of " +
+        firstCount +
+        " missing 0"
     );
   } else {
     console.log(

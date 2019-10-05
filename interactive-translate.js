@@ -1,5 +1,6 @@
 const fs = require("fs");
 const YAML = require("yaml");
+const jsyaml = require("js-yaml");
 const traverse = require("traverse");
 const chalk = require("chalk");
 const highlight = require("cli-highlight").highlight;
@@ -71,6 +72,13 @@ for (let file of files) {
       englishText.push({
         text: element.viz_pre_text.en,
         nodeName: "viz_pre_text"
+      });
+    }
+
+    if (element.viz_post_text) {
+      englishText.push({
+        text: element.viz_pre_text.en,
+        nodeName: "viz_post_text"
       });
     }
 
@@ -148,11 +156,23 @@ for (let file of files) {
             })
           );
 
+          // console.log(
+          //   highlight(YAML.stringify(this.node[enText.nodeName]), {
+          //     language: "yaml",
+          //     ignoreIllegals: true
+          //   })
+          // );
+
           console.log(
-            highlight(YAML.stringify(this.node[enText.nodeName]), {
-              language: "yaml",
-              ignoreIllegals: true
-            })
+            highlight(
+              jsyaml.safeDump(this.node[enText.nodeName], {
+                lineWidth: 100000
+              }),
+              {
+                language: "yaml",
+                ignoreIllegals: true
+              }
+            )
           );
         }
       }
@@ -162,5 +182,11 @@ for (let file of files) {
   if (logFilename) console.log(chalk.yellowBright("^^^^from " + file));
   logFilename = false;
 
-  // fs.writeFileSync("./out/" + file, YAML.stringify(parsedYaml));
+  // Don't use these in production as can't guarantee compatability with system
+  // fs.writeFileSync(
+  //   "./out/" + file,
+  //   jsyaml.safeDump(parsedYaml, {
+  //     lineWidth: 100000
+  //   })
+  // );
 }
