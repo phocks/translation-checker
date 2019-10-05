@@ -3,6 +3,7 @@ const YAML = require("yaml");
 const traverse = require("traverse");
 const chalk = require("chalk");
 const highlight = require("cli-highlight").highlight;
+const prettyjson = require("prettyjson");
 
 const files = fs.readdirSync("./files");
 const reference = require("./reference.json");
@@ -62,15 +63,15 @@ for (let file of files) {
       });
     }
 
+    if (element.headline) {
+      englishText.push({ text: element.headline.en, nodeName: "headline" });
+    }
+
     if (element.viz_pre_text) {
       englishText.push({
         text: element.viz_pre_text.en,
         nodeName: "viz_pre_text"
       });
-    }
-
-    if (element.headline) {
-      englishText.push({ text: element.headline.en, nodeName: "headline" });
     }
 
     if (element.card_post_text) {
@@ -126,13 +127,33 @@ for (let file of files) {
           );
           this.node[enText.nodeName][OTHER_LANGUAGE] =
             foundChoice[OTHER_LANGUAGE];
-          // console.log(foundChoice);
+
+          // console.log(
+          //   highlight(JSON.stringify(foundChoice), {
+          //     language: "json",
+          //     theme: `{
+          //               "keyword": "blue",
+          //               "built_in": ["cyan", "dim"],
+          //               "string": "green",
+          //               "default": "gray"
+          //             }`
+          //   })
+
+          // );
           console.log(
-            highlight(YAML.stringify(this.node[enText.nodeName]), {
-              language: "yaml",
-              ignoreIllegals: true
+            prettyjson.render(foundChoice, {
+              keysColor: "brightYellow",
+              dashColor: "magenta",
+              stringColor: "brightMagenta"
             })
           );
+
+          // console.log(
+          //   highlight(YAML.stringify(this.node[enText.nodeName]), {
+          //     language: "yaml",
+          //     ignoreIllegals: true
+          //   })
+          // );
         }
       }
     }
