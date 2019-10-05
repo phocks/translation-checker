@@ -77,7 +77,7 @@ for (let file of files) {
 
     if (element.viz_post_text) {
       englishText.push({
-        text: element.viz_pre_text.en,
+        text: element.viz_post_text.en,
         nodeName: "viz_post_text"
       });
     }
