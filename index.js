@@ -8,7 +8,7 @@ for (let file of files) {
   const text = fs.readFileSync("./files/" + filename, "utf8");
 
   const firstLanguage = /en: /g;
-  const secondLanguage = /vi: /g;
+  const secondLanguage = /ar: /g;
 
   const firstCount = (text.match(firstLanguage) || []).length;
   const secondCount = (text.match(secondLanguage) || []).length;
