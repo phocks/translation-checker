@@ -1,4 +1,5 @@
 const fs = require("fs");
+const chalk = require("chalk");
 
 const files = fs.readdirSync("./files");
 
@@ -9,9 +10,14 @@ for (let file of files) {
 
   const firstLanguage = /en: /g;
   const secondLanguage = /ar: /g;
+  // Account for space then linebreak
+  const secondLanguagExtra = /ar: \n/g;
 
   const firstCount = (text.match(firstLanguage) || []).length;
-  const secondCount = (text.match(secondLanguage) || []).length;
+  let secondCount = (text.match(secondLanguage) || []).length;
+  const secondExtraCount = (text.match(secondLanguagExtra) || []).length;
+
+  secondCount -= secondExtraCount;
 
   if (firstCount === secondCount) {
     console.log(
@@ -25,14 +31,16 @@ for (let file of files) {
     );
   } else {
     console.log(
-      "Test FAILED for " +
-        filename +
-        " " +
-        secondCount +
-        " of " +
-        firstCount +
-        " missing: " +
-        (firstCount - secondCount)
+      chalk.red(
+        "Test FAILED for " +
+          filename +
+          " " +
+          secondCount +
+          " of " +
+          firstCount +
+          " missing: " +
+          (firstCount - secondCount)
+      )
     );
   }
 }
