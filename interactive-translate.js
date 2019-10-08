@@ -7,9 +7,9 @@ const highlight = require("cli-highlight").highlight;
 const prettyjson = require("prettyjson");
 
 const files = fs.readdirSync("./files");
-const reference = require("./reference.json");
+const reference = require("./en-ar-lang.json");
 
-const OTHER_LANGUAGE = "vi";
+const OTHER_LANGUAGE = "ar";
 
 for (let file of files) {
   const filename = file;
@@ -183,10 +183,10 @@ for (let file of files) {
   logFilename = false;
 
   // Don't use these in production as can't guarantee compatability with system
-  // fs.writeFileSync(
-  //   "./out/" + file,
-  //   jsyaml.safeDump(parsedYaml, {
-  //     lineWidth: 100000
-  //   })
-  // );
+  fs.writeFileSync(
+    "./out/" + file,
+    jsyaml.safeDump(parsedYaml, {
+      lineWidth: 100000
+    })
+  );
 }

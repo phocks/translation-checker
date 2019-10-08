@@ -1,0 +1,998 @@
+[
+  {
+    "en": "Acehnese",
+    "ar": "آتشيه"
+  },
+  {
+    "en": "Acholi",
+    "ar": "أشولية"
+  },
+  {
+    "en": "Afghan",
+    "ar": "أفغانية"
+  },
+  {
+    "en": "African",
+    "ar": "إفريقية"
+  },
+  {
+    "en": "Afrikaner",
+    "ar": "أفريكانية"
+  },
+  {
+    "en": "Akan",
+    "ar": "أكان"
+  },
+  {
+    "en": "Albanian",
+    "ar": "ألبانية"
+  },
+  {
+    "en": "Algerian",
+    "ar": "جزائرية"
+  },
+  {
+    "en": "American",
+    "ar": "أمريكية"
+  },
+  {
+    "en": "Amhara",
+    "ar": "أمهرية"
+  },
+  {
+    "en": "Anglo-Burmese",
+    "ar": "أنجلو بورمية"
+  },
+  {
+    "en": "Anglo-Indian",
+    "ar": "أنجلو هندية"
+  },
+  {
+    "en": "Angolan",
+    "ar": "أنجولية"
+  },
+  {
+    "en": "Arab",
+    "ar": "عربية"
+  },
+  {
+    "en": "Argentinian",
+    "ar": "أرجنتينية"
+  },
+  {
+    "en": "Armenian",
+    "ar": "أرمينية"
+  },
+  {
+    "en": "Assyrian",
+    "ar": "أشورية"
+  },
+  {
+    "en": "Australian",
+    "ar": "أسترالية"
+  },
+  {
+    "en": "Austrian",
+    "ar": "نمساوية"
+  },
+  {
+    "en": "Azeri",
+    "ar": "أذربيجانية"
+  },
+  {
+    "en": "Bahraini",
+    "ar": "بحرينية"
+  },
+  {
+    "en": "Balinese",
+    "ar": "بالية"
+  },
+  {
+    "en": "Bangladeshi",
+    "ar": "بنجلاديشية"
+  },
+  {
+    "en": "Barbadian",
+    "ar": "باربادوسية"
+  },
+  {
+    "en": "Bari",
+    "ar": "باري"
+  },
+  {
+    "en": "Basque",
+    "ar": "باسك"
+  },
+  {
+    "en": "Batswana",
+    "ar": "بتسوانية"
+  },
+  {
+    "en": "Belarusan",
+    "ar": "بيلاروسية"
+  },
+  {
+    "en": "Belgian",
+    "ar": "بلجيكية"
+  },
+  {
+    "en": "Bengali",
+    "ar": "بنغالية"
+  },
+  {
+    "en": "Berber",
+    "ar": "بربر"
+  },
+  {
+    "en": "Bermudan",
+    "ar": "برمودية"
+  },
+  {
+    "en": "Bhutanese",
+    "ar": "بوتانية"
+  },
+  {
+    "en": "Bolivian",
+    "ar": "بوليفية"
+  },
+  {
+    "en": "Bosnian",
+    "ar": "بوسنية"
+  },
+  {
+    "en": "Brazilian",
+    "ar": "برازيلية"
+  },
+  {
+    "en": "British",
+    "ar": "بريطانية"
+  },
+  {
+    "en": "Bruneian",
+    "ar": "برونية"
+  },
+  {
+    "en": "Bulgarian",
+    "ar": "بلغارية"
+  },
+  {
+    "en": "Burgher",
+    "ar": "مواطن أسكتلندي متمتع بحكم ذاتي"
+  },
+  {
+    "en": "Burmese",
+    "ar": "بورمية"
+  },
+  {
+    "en": "Burundian",
+    "ar": "بوروندية"
+  },
+  {
+    "en": "Cameroonian",
+    "ar": "كاميرونية"
+  },
+  {
+    "en": "Canadian",
+    "ar": "كندية"
+  },
+  {
+    "en": "Catalan",
+    "ar": "كاتالونية"
+  },
+  {
+    "en": "Chaldean",
+    "ar": "كلدانية"
+  },
+  {
+    "en": "Channel",
+    "ar": "مواطني جزر القناة"
+  },
+  {
+    "en": "Chilean",
+    "ar": "تشيلية"
+  },
+  {
+    "en": "Chin",
+    "ar": "تشين"
+  },
+  {
+    "en": "Chinese",
+    "ar": "صينية"
+  },
+  {
+    "en": "Colombian",
+    "ar": "كولومبية"
+  },
+  {
+    "en": "Congolese",
+    "ar": "كونغولية"
+  },
+  {
+    "en": "Cook",
+    "ar": "من جزيرة كوك"
+  },
+  {
+    "en": "Coptic",
+    "ar": "قبطية"
+  },
+  {
+    "en": "Costa",
+    "ar": "كوستاريكية"
+  },
+  {
+    "en": "Croatian",
+    "ar": "كرواتية"
+  },
+  {
+    "en": "Cuban",
+    "ar": "كوبية"
+  },
+  {
+    "en": "Cypriot",
+    "ar": "قبرصية"
+  },
+  {
+    "en": "Czech",
+    "ar": "تشيكية"
+  },
+  {
+    "en": "Danish",
+    "ar": "دنماركية"
+  },
+  {
+    "en": "Darfu/Darfurian",
+    "ar": "دارفورية"
+  },
+  {
+    "en": "Dinka",
+    "ar": "دينكا"
+  },
+  {
+    "en": "Dutch",
+    "ar": "هولندية"
+  },
+  {
+    "en": "Ecuadorian",
+    "ar": "إكوادورية"
+  },
+  {
+    "en": "Egyptian",
+    "ar": "مصرية"
+  },
+  {
+    "en": "Emirati",
+    "ar": "إماراتية"
+  },
+  {
+    "en": "English",
+    "ar": "إنجليزية"
+  },
+  {
+    "en": "Eritrean",
+    "ar": "إريترية"
+  },
+  {
+    "en": "Estonian",
+    "ar": "إستونية"
+  },
+  {
+    "en": "Ethiopian",
+    "ar": "إثيوبية"
+  },
+  {
+    "en": "Fijian",
+    "ar": "فيجية"
+  },
+  {
+    "en": "Fijian",
+    "ar": "فيجية هندية"
+  },
+  {
+    "en": "Filipino",
+    "ar": "فلبينية"
+  },
+  {
+    "en": "Finnish",
+    "ar": "فنلندية"
+  },
+  {
+    "en": "Flemish",
+    "ar": "فلمنكية"
+  },
+  {
+    "en": "French",
+    "ar": "فرنسية"
+  },
+  {
+    "en": "French",
+    "ar": "فرنسية كندية"
+  },
+  {
+    "en": "Frisian",
+    "ar": "فريزية"
+  },
+  {
+    "en": "Fulani",
+    "ar": "فولانية"
+  },
+  {
+    "en": "Georgian",
+    "ar": "جورجية"
+  },
+  {
+    "en": "German",
+    "ar": "ألمانية"
+  },
+  {
+    "en": "Ghanaian",
+    "ar": "غانية"
+  },
+  {
+    "en": "Gibraltarian",
+    "ar": "جبل طارق"
+  },
+  {
+    "en": "Gio",
+    "ar": "جيو"
+  },
+  {
+    "en": "Greek",
+    "ar": "يونانية"
+  },
+  {
+    "en": "Guatemalan",
+    "ar": "جواتيمالية"
+  },
+  {
+    "en": "Gujarati",
+    "ar": "جوغارتية"
+  },
+  {
+    "en": "Guyanese",
+    "ar": "جويانية"
+  },
+  {
+    "en": "Hawaiian",
+    "ar": "هاواي"
+  },
+  {
+    "en": "Hazara",
+    "ar": "هزارية"
+  },
+  {
+    "en": "Hispanic",
+    "ar": "أصول إسبانية (أمريكا اللاتينية)"
+  },
+  {
+    "en": "Hmong",
+    "ar": "همونج"
+  },
+  {
+    "en": "Hungarian",
+    "ar": "هنجارية"
+  },
+  {
+    "en": "Hutu",
+    "ar": "هوتو"
+  },
+  {
+    "en": "I-Kiribati",
+    "ar": "كيريباسية"
+  },
+  {
+    "en": "Icelandic",
+    "ar": "أيسلندية"
+  },
+  {
+    "en": "Igbo",
+    "ar": "إيبو"
+  },
+  {
+    "en": "Indian",
+    "ar": "هندية"
+  },
+  {
+    "en": "Indonesian",
+    "ar": "إندونيسية"
+  },
+  {
+    "en": "Iranian",
+    "ar": "إيرانية"
+  },
+  {
+    "en": "Iraqi",
+    "ar": "عراقية"
+  },
+  {
+    "en": "Irish",
+    "ar": "أيرلندية"
+  },
+  {
+    "en": "Israeli",
+    "ar": "إسرائيلية"
+  },
+  {
+    "en": "Italian",
+    "ar": "إيطالية"
+  },
+  {
+    "en": "Ivorean",
+    "ar": "ساحل العاج"
+  },
+  {
+    "en": "Jamaican",
+    "ar": "جامايكية"
+  },
+  {
+    "en": "Japanese",
+    "ar": "يابانية"
+  },
+  {
+    "en": "Javanese",
+    "ar": "جزيرة جاوة"
+  },
+  {
+    "en": "Jewish",
+    "ar": "يهودية"
+  },
+  {
+    "en": "Jordanian",
+    "ar": "أردنية"
+  },
+  {
+    "en": "Kadazan",
+    "ar": "كادازانية"
+  },
+  {
+    "en": "Karen",
+    "ar": "كارين"
+  },
+  {
+    "en": "Kashmiri",
+    "ar": "كشميرية"
+  },
+  {
+    "en": "Kazakh",
+    "ar": "كازاخية"
+  },
+  {
+    "en": "Kenyan",
+    "ar": "كينية"
+  },
+  {
+    "en": "Khmer",
+    "ar": "خمير"
+  },
+  {
+    "en": "Korean",
+    "ar": "كورية"
+  },
+  {
+    "en": "Krahn",
+    "ar": "كران"
+  },
+  {
+    "en": "Kunama",
+    "ar": "كوناما"
+  },
+  {
+    "en": "Kurdish",
+    "ar": "كردية"
+  },
+  {
+    "en": "Kuwaiti",
+    "ar": "كويتية"
+  },
+  {
+    "en": "Kyrgyz",
+    "ar": "قيرغيزستانية"
+  },
+  {
+    "en": "Lao",
+    "ar": "لاوسية"
+  },
+  {
+    "en": "Latvian",
+    "ar": "لاتفية"
+  },
+  {
+    "en": "Lebanese",
+    "ar": "لبنانية"
+  },
+  {
+    "en": "Liberian",
+    "ar": "ليبيرية"
+  },
+  {
+    "en": "Libyan",
+    "ar": "ليبية"
+  },
+  {
+    "en": "Lithuanian",
+    "ar": "لتوانية"
+  },
+  {
+    "en": "Luxembourg",
+    "ar": "لوكسمبورج"
+  },
+  {
+    "en": "Macedonian",
+    "ar": "مقدونية"
+  },
+  {
+    "en": "Madi",
+    "ar": "مادي"
+  },
+  {
+    "en": "Madurese",
+    "ar": "مادريزية"
+  },
+  {
+    "en": "Malawian",
+    "ar": "مالاوية"
+  },
+  {
+    "en": "Malay",
+    "ar": "مالايو"
+  },
+  {
+    "en": "Malayali",
+    "ar": "مالايالية"
+  },
+  {
+    "en": "Maldivian",
+    "ar": "مالديفية"
+  },
+  {
+    "en": "Maltese",
+    "ar": "مالطية"
+  },
+  {
+    "en": "Mandaean",
+    "ar": "مندائية"
+  },
+  {
+    "en": "Mandinka",
+    "ar": "ماندينكا"
+  },
+  {
+    "en": "Manx",
+    "ar": "مانكس"
+  },
+  {
+    "en": "Maori",
+    "ar": "ماورية"
+  },
+  {
+    "en": "Masai",
+    "ar": "ماساي"
+  },
+  {
+    "en": "Mauritian",
+    "ar": "مويشيوس"
+  },
+  {
+    "en": "Mayan",
+    "ar": "مايا"
+  },
+  {
+    "en": "Mexican",
+    "ar": "مكسيكية"
+  },
+  {
+    "en": "Moldovan",
+    "ar": "مولوفية"
+  },
+  {
+    "en": "Mon",
+    "ar": "مون"
+  },
+  {
+    "en": "Mongolian",
+    "ar": "منغولية"
+  },
+  {
+    "en": "Montenegrin",
+    "ar": "الجبل الأسود"
+  },
+  {
+    "en": "Moroccan",
+    "ar": "مغربية"
+  },
+  {
+    "en": "Mozambican",
+    "ar": "موزمبيقية"
+  },
+  {
+    "en": "Namibian",
+    "ar": "ناميبية"
+  },
+  {
+    "en": "Native",
+    "ar": "سكان أمريكا الأصليين"
+  },
+  {
+    "en": "Nauruan",
+    "ar": "ناورو"
+  },
+  {
+    "en": "Nepalese",
+    "ar": "نيبالية"
+  },
+  {
+    "en": "New",
+    "ar": "نيو كاليدونية"
+  },
+  {
+    "en": "New",
+    "ar": "نيوزيلندية"
+  },
+  {
+    "en": "Ni-Vanuatu",
+    "ar": "ني فاناواتو"
+  },
+  {
+    "en": "Nicaraguan",
+    "ar": "نيكاراجوية"
+  },
+  {
+    "en": "Nigerian",
+    "ar": "نيجيرية"
+  },
+  {
+    "en": "Niuean",
+    "ar": "نيوي"
+  },
+  {
+    "en": "Norwegian",
+    "ar": "نرويجية"
+  },
+  {
+    "en": "Nubian",
+    "ar": "نوبية"
+  },
+  {
+    "en": "Nuer",
+    "ar": "نوير"
+  },
+  {
+    "en": "Ogaden",
+    "ar": "أوجادين"
+  },
+  {
+    "en": "Omani",
+    "ar": "عُمانية"
+  },
+  {
+    "en": "Oromo",
+    "ar": "أورومو"
+  },
+  {
+    "en": "Pakistani",
+    "ar": "باكستانية"
+  },
+  {
+    "en": "Palestinian",
+    "ar": "فلسطينية"
+  },
+  {
+    "en": "Papua",
+    "ar": "بابوا"
+  },
+  {
+    "en": "Paraguayan",
+    "ar": "باراجواية"
+  },
+  {
+    "en": "Parsi",
+    "ar": "بارسي"
+  },
+  {
+    "en": "Pathan",
+    "ar": "باتان"
+  },
+  {
+    "en": "Peruvian",
+    "ar": "بيرو"
+  },
+  {
+    "en": "Polish",
+    "ar": "بولندية"
+  },
+  {
+    "en": "Portuguese",
+    "ar": "برتغالية"
+  },
+  {
+    "en": "Puerto",
+    "ar": "بورتوريكو"
+  },
+  {
+    "en": "Punjabi",
+    "ar": "بنجابية"
+  },
+  {
+    "en": "Qatari",
+    "ar": "قطرية"
+  },
+  {
+    "en": "Rohingya",
+    "ar": "روهينغيا"
+  },
+  {
+    "en": "Roma",
+    "ar": "روما (غجرية)"
+  },
+  {
+    "en": "Romanian",
+    "ar": "رومانية"
+  },
+  {
+    "en": "Russian",
+    "ar": "روسية"
+  },
+  {
+    "en": "Rwandan",
+    "ar": "رواندية"
+  },
+  {
+    "en": "Salvadoran",
+    "ar": "سالفادورية"
+  },
+  {
+    "en": "Samoan",
+    "ar": "ساموا"
+  },
+  {
+    "en": "Saudi",
+    "ar": "سعودية"
+  },
+  {
+    "en": "Scottish",
+    "ar": "إسكتلندية"
+  },
+  {
+    "en": "Senegales",
+    "ar": "سنغالية"
+  },
+  {
+    "en": "Serbian",
+    "ar": "صربية"
+  },
+  {
+    "en": "Seychellois",
+    "ar": "سيشل"
+  },
+  {
+    "en": "Shona",
+    "ar": "شونا"
+  },
+  {
+    "en": "Sierra",
+    "ar": "سيراليونية"
+  },
+  {
+    "en": "Sikh",
+    "ar": "سيخ"
+  },
+  {
+    "en": "Singaporean",
+    "ar": "سنغافورية"
+  },
+  {
+    "en": "Sinhalese",
+    "ar": "سنهالية"
+  },
+  {
+    "en": "Slovak",
+    "ar": "سلوفاكية"
+  },
+  {
+    "en": "Slovene",
+    "ar": "سلوفينية"
+  },
+  {
+    "en": "Solomon",
+    "ar": "جزر سولومون"
+  },
+  {
+    "en": "Somali",
+    "ar": "صومالية"
+  },
+  {
+    "en": "Sorb/Wend",
+    "ar": "صورب/ويند (قبائل سلافية)"
+  },
+  {
+    "en": "South",
+    "ar": "جنوب أفريقية"
+  },
+  {
+    "en": "South",
+    "ar": "جنوب سودانية"
+  },
+  {
+    "en": "Southern",
+    "ar": "جنوب آسيوية"
+  },
+  {
+    "en": "Spanish",
+    "ar": "إسبانية"
+  },
+  {
+    "en": "Sri",
+    "ar": "سريلانكية"
+  },
+  {
+    "en": "Sri",
+    "ar": "سريلانكية تاميل"
+  },
+  {
+    "en": "Sudanese",
+    "ar": "سودانية"
+  },
+  {
+    "en": "Sundanese",
+    "ar": "سونديونية"
+  },
+  {
+    "en": "Swahili",
+    "ar": "سواحيلية"
+  },
+  {
+    "en": "Swazilander",
+    "ar": "سوازيلاندية"
+  },
+  {
+    "en": "Swedish",
+    "ar": "سويدية"
+  },
+  {
+    "en": "Swiss",
+    "ar": "سويسرية"
+  },
+  {
+    "en": "Syrian",
+    "ar": "سورية"
+  },
+  {
+    "en": "Tahitian",
+    "ar": "تاهيتية"
+  },
+  {
+    "en": "Taiwanese",
+    "ar": "تايوانية"
+  },
+  {
+    "en": "Tajik",
+    "ar": "طاجيكية"
+  },
+  {
+    "en": "Tanzanian",
+    "ar": "تنزانية"
+  },
+  {
+    "en": "Tatar",
+    "ar": "تتارية"
+  },
+  {
+    "en": "Telugu",
+    "ar": "تيلجو"
+  },
+  {
+    "en": "Temoq",
+    "ar": "تيموك (مالاي)"
+  },
+  {
+    "en": "Thai",
+    "ar": "تايلاندية"
+  },
+  {
+    "en": "Themne",
+    "ar": "تمني (سيراليون)"
+  },
+  {
+    "en": "Tibetan",
+    "ar": "تبت"
+  },
+  {
+    "en": "Tigrayan",
+    "ar": "تيجرايان"
+  },
+  {
+    "en": "Tigre",
+    "ar": "تيجري"
+  },
+  {
+    "en": "Timorese",
+    "ar": "تيمورية"
+  },
+  {
+    "en": "Togolese",
+    "ar": "توغولية"
+  },
+  {
+    "en": "Tokelauan",
+    "ar": "توكيلاو"
+  },
+  {
+    "en": "Tongan",
+    "ar": "تونجا"
+  },
+  {
+    "en": "Trinidadian",
+    "ar": "ترينيداد"
+  },
+  {
+    "en": "Tunisian",
+    "ar": "تونسية"
+  },
+  {
+    "en": "Turkish",
+    "ar": "تركية"
+  },
+  {
+    "en": "Turkmen",
+    "ar": "تركمانية"
+  },
+  {
+    "en": "Tuvaluan",
+    "ar": "توفالية"
+  },
+  {
+    "en": "Ugandan",
+    "ar": "أوغندية"
+  },
+  {
+    "en": "Uighur",
+    "ar": "يوغورية"
+  },
+  {
+    "en": "Ukrainian",
+    "ar": "أوكرانية"
+  },
+  {
+    "en": "Uruguayan",
+    "ar": "أوروجواي"
+  },
+  {
+    "en": "Uzbek",
+    "ar": "أوزبكية"
+  },
+  {
+    "en": "Venezuelan",
+    "ar": "فنزويلية"
+  },
+  {
+    "en": "Vietnamese",
+    "ar": "فيتنامية"
+  },
+  {
+    "en": "Vlach",
+    "ar": "فلاك"
+  },
+  {
+    "en": "Welsh",
+    "ar": "ويلز"
+  },
+  {
+    "en": "Yemeni",
+    "ar": "يمنية"
+  },
+  {
+    "en": "Yoruba",
+    "ar": "يوروبا"
+  },
+  {
+    "en": "Zambian",
+    "ar": "زامبية"
+  },
+  {
+    "en": "Zimbabwean",
+    "ar": "زيمبابوية"
+  },
+  {
+    "en": "Zulu",
+    "ar": "زولو"
+  }
+]
