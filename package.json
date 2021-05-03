@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "chalk": "^2.4.2",
-    "cli-highlight": "^2.1.1",
+    "cli-highlight": "^2.1.11",
     "js-yaml": "^3.13.1",
     "prettyjson": "^1.2.1",
     "traverse": "^0.6.6",
